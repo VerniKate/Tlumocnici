@@ -356,5 +356,32 @@ def bar_chart_jazyky_animace(df_jazyky_grouped):
             tickfont=dict(size=10)
         )
     )
+
     return fig
-        
+
+import plotly.express as px
+
+def fig_bar_stacked(df_grouped):
+    fig = px.bar(
+        df_grouped,
+        x='Jazyk',
+        y='Počet osob',
+        color='Zkouška vykonána',
+        pattern_shape='Druh osoby',  # volitelné: odliší typ osoby vzorem
+        barmode='stack',
+        labels={
+            'Jazyk': 'Jazyk',
+            'Počet osob': 'Počet',
+            'Zkouška vykonána': 'Zkouška',
+            'Druh osoby': 'Typ osoby'
+        },
+        title='Složená vs. nesložená zkouška podle jazyka a typu osoby'
+    )
+
+    fig.update_layout(
+        template='plotly_white',
+        height=600,
+        legend_title='Zkouška vykonána'
+    )
+
+    return fig
