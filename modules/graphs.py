@@ -1,58 +1,98 @@
 import plotly.graph_objects as go
 from plotly.subplots import make_subplots
+import plotly.graph_objects
+from plotly.subplots import make_subplots
+import plotly.graph_objects as go
 
 def fig_pie2(df_grouped, jazyk):
     # Filtrování dat pro vybraný jazyk
     df_filtered = df_grouped[df_grouped['Jazyk'] == jazyk]
 
-    # Agregace pro tlumočníky
-    tlumočníci = (
+    # Celková agregace bez ohledu na jazyk
+    df_total = df_grouped
+
+    # Agregace pro tlumočníky – jazykově specifické
+    tlumočníci_jazyk = (
         df_filtered[df_filtered['Druh osoby'] == 'Soudní tlumočník']
         .groupby('Zkouška vykonána')['Počet osob']
         .sum()
         .reindex(['Ano', 'Ne'], fill_value=0)
     )
 
-    # Agregace pro překladatele
-    překladatelé = (
+    # Agregace pro překladatele – jazykově specifické
+    překladatelé_jazyk = (
         df_filtered[df_filtered['Druh osoby'] == 'Soudní překladatel']
         .groupby('Zkouška vykonána')['Počet osob']
         .sum()
         .reindex(['Ano', 'Ne'], fill_value=0)
     )
 
-    # Vytvoření dvou koláčových grafů vedle sebe
-    fig = make_subplots(
-        rows=1, cols=2,
-        specs=[[{'type': 'domain'}, {'type': 'domain'}]],
-        subplot_titles=['Soudní tlumočníci', 'Soudní překladatelé']
+    # Agregace pro tlumočníky – celkové
+    tlumočníci_total = (
+        df_total[df_total['Druh osoby'] == 'Soudní tlumočník']
+        .groupby('Zkouška vykonána')['Počet osob']
+        .sum()
+        .reindex(['Ano', 'Ne'], fill_value=0)
     )
 
-    # Koláč pro tlumočníky
+    # Agregace pro překladatele – celkové
+    překladatelé_total = (
+        df_total[df_total['Druh osoby'] == 'Soudní překladatel']
+        .groupby('Zkouška vykonána')['Počet osob']
+        .sum()
+        .reindex(['Ano', 'Ne'], fill_value=0)
+    )
+
+    # Vytvoření 4 koláčových grafů vedle sebe
+    fig = make_subplots(
+        rows=2, cols=2,
+        specs=[[{'type': 'domain'}, {'type': 'domain'}],
+               [{'type': 'domain'}, {'type': 'domain'}]],
+        subplot_titles=[
+            f'Tlumočníci – {jazyk}', f'Překladatelé – {jazyk}',
+            'Tlumočníci – celkem', 'Překladatelé – celkem'
+        ]
+    )
+
+    # Tlumočníci – jazyk
     fig.add_trace(go.Pie(
-        labels=tlumočníci.index,
-        values=tlumočníci.values,
-        name='Tlumočníci',
+        labels=tlumočníci_jazyk.index,
+        values=tlumočníci_jazyk.values,
+        name='Tlumočníci – jazyk',
         marker=dict(colors=['#2ca02c', '#98df8a']),
         hole=0.4
     ), row=1, col=1)
 
-    # Koláč pro překladatele
+    # Překladatelé – jazyk
     fig.add_trace(go.Pie(
-        labels=překladatelé.index,
-        values=překladatelé.values,
-        name='Překladatelé',
+        labels=překladatelé_jazyk.index,
+        values=překladatelé_jazyk.values,
+        name='Překladatelé – jazyk',
         marker=dict(colors=['#1f77b4', '#aec7e8']),
         hole=0.4
     ), row=1, col=2)
 
+    # Tlumočníci – celkem
+    fig.add_trace(go.Pie(
+        labels=tlumočníci_total.index,
+        values=tlumočníci_total.values,
+        name='Tlumočníci – celkem',
+        marker=dict(colors=['#2ca02c', '#98df8a']),
+        hole=0.4
+    ), row=2, col=1)
+
+    # Překladatelé – celkem
+    fig.add_trace(go.Pie(
+        labels=překladatelé_total.index,
+        values=překladatelé_total.values,
+        name='Překladatelé – celkem',
+        marker=dict(colors=['#1f77b4', '#aec7e8']),
+        hole=0.4
+    ), row=2, col=2)
+
     # Vzhled a anotace
     fig.update_layout(
-        title_text=f"Rozdělení podle vykonané zkoušky pro jazyk: {jazyk}",
-        annotations=[
-            dict(text='Tlumočníci', x=0.23, y=0.5, font_size=14, showarrow=False),
-            dict(text='Překladatelé', x=0.77, y=0.5, font_size=14, showarrow=False)
-        ],
+        title_text=f"Rozdělení podle vykonané zkoušky – jazyk: {jazyk} a celkově",
         showlegend=False,
         template='plotly_white'
     )
