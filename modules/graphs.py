@@ -356,5 +356,5 @@ def bar_chart_jazyky_animace(df_jazyky_grouped):
             tickfont=dict(size=10)
         )
     )
-
     return fig
+        
