@@ -14,8 +14,8 @@ s novým zákonem, zastoupené jazyky, roky zápisu, města podle sídla atd.
 """)
 
 st.markdown("""
-Vlevo můžete zvolit stránku s konkrétní analýzou,  
-grafy jsou interaktivní.
+Vlevo můžete zvolit stránku s konkrétní analýzou, grafy jsou interaktivní.
 """)
+
 
 
