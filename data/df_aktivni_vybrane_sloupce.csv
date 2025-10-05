@@ -79,7 +79,7 @@ Rok zápisu,Druh osoby,Titul,Jméno,Příjmení,Město,Jazyky,Zkouška vykonána
 1997,Soudní tlumočník,Mgr.,Dita,Staňková,Brno,ITALSKÝ|NĚMECKÝ,Ne
 1999,Soudní tlumočník,Mgr.,Eva,Čoupková,Brno,ANGLICKÝ,Ano
 2001,Soudní tlumočník,Ing.,Jarmila,Kozáková,Zlín,NĚMECKÝ,Ne
-1992,Soudní tlumočník,Mgr.,Michaela,Konicarová,Ostopovice,ŠPANĚLSKÝ,Ano
+1992,Soudní tlumočník,Mgr.,Michaela,Konicarová,Ostopovice,ANGLICKÝ,Ano
 1994,Soudní tlumočník,PhDr.,Jaroslav,Andrýsek,Rohatec,ANGLICKÝ,Ne
 2003,Soudní tlumočník,MUDr.,Sámer,Al Fakhouri,Brno,ARABSKÝ,Ne
 2002,Soudní tlumočník,Mgr.,Igor,Hrádek,Hustopeče,NĚMECKÝ,Ne
@@ -101,7 +101,7 @@ Rok zápisu,Druh osoby,Titul,Jméno,Příjmení,Město,Jazyky,Zkouška vykonána
 1999,Soudní tlumočník,Mgr.,Zdeňka,Štěpánková,Brno,NĚMECKÝ,Ne
 1995,Soudní tlumočník,Mgr.,Martina,Komendová,Brno,NĚMECKÝ,Ano
 1995,Soudní tlumočník,PhDr.,Jana,Baroková,Židlochovice,NĚMECKÝ,Ne
-1998,Soudní tlumočník,Mgr.,Irena,Čermáková,Brno,ANGLICKÝ|RUSKÝ,Ne
+1998,Soudní tlumočník,Mgr.,Irena,Čermáková,Brno,ANGLICKÝ|RUSKÝ,Ano
 2003,Soudní tlumočník,bez titulu,Caspar Willem,Jacobs,Černíč,NIZOZEMSKÝ,Ne
 2004,Soudní překladatel,PhDr.,Jana,Kecová,Boršice,NĚMECKÝ|RUSKÝ,Ano
 2004,Soudní tlumočník,Mgr.,Artašes,Israeljan,Brno,RUSKÝ|ARMÉNSKÝ,Ne
@@ -118,19 +118,19 @@ Rok zápisu,Druh osoby,Titul,Jméno,Příjmení,Město,Jazyky,Zkouška vykonána
 2009,Soudní tlumočník,Ing.,Oto,Domaniža,Znojmo,MAĎARSKÝ,Ne
 2004,Soudní tlumočník,Ing.,Khan,Azimi,Tištín,DÁRIJSKÝ|PERSKÝ|PAŠTSKÝ,Ne
 2004,Soudní tlumočník,JUDr.,Čimgé,Sandtnerová,Zlín,MONGOLSKÝ|RUSKÝ,Ne
-2004,Soudní tlumočník,Mgr.,Marina,Melkonjan,Brno,RUSKÝ|ARMÉNSKÝ,Ne
+2004,Soudní tlumočník,Mgr.,Marina,Melkonjan,Brno,ARMÉNSKÝ|ARMÉNSKÝ|RUSKÝ|RUSKÝ,Ano
 2004,Soudní tlumočník,Mgr.,Martina,Křůmalová,Podomí,MAĎARSKÝ,Ne
 1996,Soudní tlumočník,PhDr.,Sandra,Morlani,Brno,ITALSKÝ|NĚMECKÝ,Ne
 1998,Soudní tlumočník,Mgr.,Pavla,Mikolášková,Brno,FRANCOUZSKÝ,Ne
 2002,Soudní tlumočník,PhDr.,Ilona,Víchová,Brno,SLOVINSKÝ,Ne
-1992,Soudní tlumočník,doc. JUDr.,Martin,Janků,Brno,ANGLICKÝ|NĚMECKÝ,Ne
+1992,Soudní tlumočník,doc. JUDr.,Martin,Janků,Brno,NĚMECKÝ|ANGLICKÝ,Ne
 1992,Soudní tlumočník,PhDr.,Naděžda,Bruzlová,Brno,FRANCOUZSKÝ|ITALSKÝ,Ne
 2000,Soudní tlumočník,Ing.,Davaasambuu,Tavkhi,Popovice,MONGOLSKÝ,Ne
-1999,Soudní tlumočník,doc. Mgr.,Iva,Svobodová,Brno,ŠPANĚLSKÝ|PORTUGALSKÝ,Ne
+1999,Soudní tlumočník,doc. Mgr.,Iva,Svobodová,Brno,PORTUGALSKÝ|ŠPANĚLSKÝ,Ne
 1999,Soudní tlumočník,bez titulu,Jana,Kovaříková,Brno,NĚMECKÝ,Ne
 1993,Soudní překladatel,Mgr.,Jitka,Mrázová,Zlín,ANGLICKÝ,Ne
 1999,Soudní tlumočník,Ing.,Saad,Alamin Mohamed Ragab,Brno,ARABSKÝ,Ne
-2015,Soudní tlumočník,Mgr.,Vladislav,Kovář,Brno,NĚMECKÝ,Ne
+2015,Soudní tlumočník,Mgr.,Vladislav,Kovář,Brno,NĚMECKÝ,Ano
 2015,Soudní tlumočník,Mgr.,Iveta,Pernická,Zlín,POLSKÝ,Ne
 2014,Soudní tlumočník,Mgr. et Mgr.,Milada,Bobková,Šafov,NĚMECKÝ,Ano
 2009,Soudní tlumočník,Ing.,Eva,Žallmannová,Kostelany,ANGLICKÝ,Ano
@@ -156,7 +156,7 @@ Rok zápisu,Druh osoby,Titul,Jméno,Příjmení,Město,Jazyky,Zkouška vykonána
 2000,Soudní tlumočník,bez titulu,Marta,Mastová,Zastávka,ITALSKÝ,Ne
 2013,Soudní tlumočník,Mgr.,Lucie,Vaculová,Lelekovice,ANGLICKÝ|ITALSKÝ,Ne
 2017,Soudní tlumočník,Mgr.,Andrea,Rosendorfová,Oslavany,FRANCOUZSKÝ,Ne
-2010,Soudní tlumočník,Mgr. Bc.,Marija,Šupicová,Brno,BOSENSKÝ|ČERNOHORSKÝ|CHORVATSKÝ|SRBSKÝ,Ne
+2010,Soudní tlumočník,Mgr. Bc.,Marija,Šupicová,Brno,BOSENSKÝ|SRBSKÝ|ČERNOHORSKÝ|CHORVATSKÝ,Ne
 2013,Soudní překladatel,JUDr.,Martin,Frimmel,Brno,NĚMECKÝ,Ne
 2013,Soudní tlumočník,Mgr.,Eva,Kročová,Zlín,NĚMECKÝ,Ne
 2013,Soudní tlumočník,Mgr.,Jana,Zezulová,Brno,FRANCOUZSKÝ,Ne
@@ -187,14 +187,14 @@ Rok zápisu,Druh osoby,Titul,Jméno,Příjmení,Město,Jazyky,Zkouška vykonána
 2019,Soudní překladatel,Mgr.,Blanka,Strážnická,Brno,NĚMECKÝ,Ne
 2019,Soudní tlumočník,Mgr.,Barbora,Vodičková,Brno,ANGLICKÝ,Ne
 2019,Soudní tlumočník,Mgr.,Anna,Machová,Brno,RUSKÝ|UKRAJINSKÝ|ANGLICKÝ|NĚMECKÝ,Ne
-2019,Soudní tlumočník,Mgr.,Linda,Todorović,Brno,CHORVATSKÝ|SRBSKÝ|ČERNOHORSKÝ|BOSENSKÝ,Ne
+2019,Soudní tlumočník,Mgr.,Linda,Todorović,Brno,BOSENSKÝ|CHORVATSKÝ|SRBSKÝ|ČERNOHORSKÝ,Ne
 2018,Soudní tlumočník,Mgr.,Petra,Querol Y Saez,Brno,ŠPANĚLSKÝ,Ano
-2018,Soudní tlumočník,Mgr.,Helena,Slaninová,Brno,ANGLICKÝ,Ne
+2018,Soudní tlumočník,Mgr.,Helena,Slaninová,Brno,ANGLICKÝ,Ano
 2018,Soudní tlumočník,Mgr. Bc.,Jan,Buďa,Třebíč,PORTUGALSKÝ,Ano
 2018,Soudní tlumočník,Mgr.,Lucie,Machová,Třebíč,FRANCOUZSKÝ,Ano
 2018,Soudní tlumočník,Mgr. et Mgr.,Ondřej,Klabal,Prostějov,ANGLICKÝ|ŠPANĚLSKÝ,Ano
 2018,Soudní tlumočník,Mgr. Bc.,Hana,Bohrnová,Brno,ŘECKÝ,Ne
-2017,Soudní tlumočník,bez titulu,Ingúna,Camrdová,Brno,LOTYŠSKÝ,Ne
+2017,Soudní tlumočník,bez titulu,Ingúna,Camrdová,Brno,LOTYŠSKÝ,Ano
 2017,Soudní tlumočník,PhDr.,Pavel,Štursa,Moravec,ANGLICKÝ,Ne
 2017,Soudní tlumočník,Mgr.,Michaela,Štanglová,Strání,FRANCOUZSKÝ|ANGLICKÝ,Ano
 2010,Soudní tlumočník,Mgr.,Petra,Kuchaříková,Brno,FRANCOUZSKÝ,Ne
@@ -220,12 +220,12 @@ Rok zápisu,Druh osoby,Titul,Jméno,Příjmení,Město,Jazyky,Zkouška vykonána
 2009,Soudní tlumočník,bez titulu,Renata,Paletová,Veselí nad Moravou,NĚMECKÝ,Ne
 2009,Soudní tlumočník,Mgr.,Magdalena,Štollová,Bystřice pod Hostýnem,ITALSKÝ,Ne
 2009,Soudní tlumočník,Ing.,HAI DANG,VIET,Modřice,VIETNAMSKÝ,Ne
-2010,Soudní tlumočník,Mgr.,Petr,Stehlík,Brno,BOSENSKÝ|CHORVATSKÝ|SRBSKÝ,Ne
+2010,Soudní tlumočník,Mgr.,Petr,Stehlík,Brno,BOSENSKÝ|CHORVATSKÝ|SRBSKÝ|ČERNOHORSKÝ,Ano
 1994,Soudní tlumočník,PhDr.,Valerij,Kravčenko,Brodek u Konice,RUSKÝ|UKRAJINSKÝ,Ne
-2010,Soudní tlumočník,Mgr. et Mgr.,Eva,Sladká Florianová,Brno,ANGLICKÝ,Ne
+2010,Soudní tlumočník,Mgr. et Mgr.,Eva,Sladká Florianová,Brno,ANGLICKÝ,Ano
 2009,Soudní tlumočník,Mgr. et Mgr. Ing.,Leona,Buzrlová,Moravský Žižkov,ANGLICKÝ|NĚMECKÝ,Ne
 2009,Soudní tlumočník,bez titulu,Koraljka,Přikrylová,Brno,SRBSKÝ|CHORVATSKÝ,Ne
-2009,Soudní tlumočník,Ing. Bc.,Jelena,Štěrbová,Uherské Hradiště,RUSKÝ,Ne
+2009,Soudní tlumočník,Ing. Bc.,Jelena,Štěrbová,Kunovice,RUSKÝ,Ne
 2009,Soudní tlumočník,Mgr.,Lenka,Ulrich,Dubňany,NĚMECKÝ,Ne
 2009,Soudní tlumočník,bez titulu,Davor,Rogić,Třebíč,CHORVATSKÝ,Ne
 2009,Soudní překladatel,Mgr.,Kateřina,Kutnerová,Kanice,NĚMECKÝ,Ne
@@ -256,10 +256,10 @@ Rok zápisu,Druh osoby,Titul,Jméno,Příjmení,Město,Jazyky,Zkouška vykonána
 2011,Soudní tlumočník,Mgr.,Hana,Fasurová,Brno,ITALSKÝ,Ne
 2011,Soudní tlumočník,Mgr.,Julie Lien,Vrbková,Praha,VIETNAMSKÝ,Ano
 2011,Soudní tlumočník,Mgr.,Heike,Knapová,Želeč,NĚMECKÝ,Ne
-2011,Soudní tlumočník,Mgr.,Ivona,Floresová,Blansko,ANGLICKÝ|NĚMECKÝ,Ano
+2011,Soudní tlumočník,Mgr.,Ivona,Floresová,Protivanov,ANGLICKÝ|NĚMECKÝ,Ano
 2011,Soudní tlumočník,bez titulu,Petr,Fojtek,Velké Opatovice,ANGLICKÝ,Ne
-2011,Soudní tlumočník,Mgr.,Václav,Tomaník,Tupesy,RUSKÝ|ANGLICKÝ,Ano
-2009,Soudní tlumočník,bez titulu,Mai,Konečná,Brno,VIETNAMSKÝ,Ne
+2011,Soudní tlumočník,Mgr.,Václav,Tomaník,Tupesy,ANGLICKÝ|RUSKÝ,Ano
+2009,Soudní tlumočník,bez titulu,Mai,Konečná,Brno,VIETNAMSKÝ,Ano
 2012,Soudní tlumočník,Mgr.,Pavla,Macková,Blučina,NĚMECKÝ,Ne
 2011,Soudní tlumočník,Mag. phil.,Jitka,Roupcová,Litohoř,NĚMECKÝ,Ne
 2011,Soudní tlumočník,Mgr.,Markéta,Páralová Tardy,Brno,POLSKÝ|POLSKÝ,Ano
@@ -276,12 +276,12 @@ Rok zápisu,Druh osoby,Titul,Jméno,Příjmení,Město,Jazyky,Zkouška vykonána
 2001,Soudní tlumočník,Mgr.,Jana,Šlechtová,Jaroměřice nad Rokytnou,ANGLICKÝ,Ne
 1998,Soudní tlumočník,Mgr. Bc.,Michaela,Vrábliková,Brno,ANGLICKÝ,Ano
 1993,Soudní tlumočník,bez titulu,Iva,Najmanová,Velké Meziříčí,SRBSKÝ|CHORVATSKÝ,Ne
-2000,Soudní překladatel,Mgr.,Lucie,Cekotová,Zlín,ŠPANĚLSKÝ|ANGLICKÝ|SLOVENSKÝ,Ano
+2000,Soudní překladatel,Mgr.,Lucie,Cekotová,Zlín,ANGLICKÝ|SLOVENSKÝ|ŠPANĚLSKÝ,Ano
 1992,Soudní tlumočník,bez titulu,KARI,KAUPPINEN,Brno,FINSKÝ,Ne
 1999,Soudní tlumočník,RNDr.,Erik,Schwarzbach,Miroslav,NĚMECKÝ,Ne
 1998,Soudní tlumočník,Mgr.,Jarmila,Doležalová,Znojmo,NĚMECKÝ,Ne
 1995,Soudní tlumočník,doc. PhDr.,Karla,Ondrášková,Šlapanice,RUSKÝ|POLSKÝ,Ne
-2004,Soudní překladatel,Mgr.,Monika,Ševečková,Svinošice,UKRAJINSKÝ|RUSKÝ,Ano
+2004,Soudní překladatel,Mgr.,Monika,Ševečková,Svinošice,RUSKÝ|UKRAJINSKÝ,Ano
 1994,Soudní tlumočník,Mgr.,Jana,Zubalíková,Hodonín,NĚMECKÝ|RUSKÝ,Ne
 1997,Soudní překladatel,Mgr.,Dagmar,Černá,Hustopeče,NĚMECKÝ,Ne
 2000,Soudní tlumočník,Mgr.,Jarmila,Černá,Bzenec,ANGLICKÝ,Ano
@@ -301,11 +301,11 @@ Rok zápisu,Druh osoby,Titul,Jméno,Příjmení,Město,Jazyky,Zkouška vykonána
 1997,Soudní tlumočník,Mgr.,Martina,Fajtová,Brno,NĚMECKÝ,Ne
 2002,Soudní tlumočník,Mgr.,Diana,Kolbábková Paraskevopulu,Moravany,ŘECKÝ,Ne
 1992,Soudní tlumočník,bez titulu,Nikos,Kasapidis,Brno,ŘECKÝ,Ne
-2000,Soudní překladatel,Mgr.,Jiří,Šantavý,Brno,NĚMECKÝ,Ne
+2000,Soudní překladatel,Mgr.,Jiří,Šantavý,Brno,NĚMECKÝ,Ano
 1995,Soudní tlumočník,Mgr.,Šárka,Nováková,Jihlava,NĚMECKÝ,Ne
 1992,Soudní tlumočník,PhDr.,Zuzana,Wotkeová,Brno,FRANCOUZSKÝ|ITALSKÝ,Ne
 1992,Soudní tlumočník,MUDr.,Tomáš,Burnog,Brno,NĚMECKÝ,Ano
-1992,Soudní tlumočník,PhDr.,Helena,Pinková,Brno,ANGLICKÝ|NĚMECKÝ,Ne
+1992,Soudní tlumočník,PhDr.,Helena,Pinková,Brno,NĚMECKÝ|ANGLICKÝ,Ne
 1992,Soudní tlumočník,bez titulu,Dana,Peňázová,Brno,ZNAKOVÝ JAZYK,Ne
 2003,Soudní tlumočník,Mgr.,Vlasta,Vaculíková,Zlín,NĚMECKÝ,Ne
 2000,Soudní tlumočník,MUDr.,Mohamed Abdulla,Al-Kubati,Holasice,ARABSKÝ,Ne
@@ -328,7 +328,7 @@ Rok zápisu,Druh osoby,Titul,Jméno,Příjmení,Město,Jazyky,Zkouška vykonána
 2003,Soudní tlumočník,bez titulu,Armen,Sargsyan,Želetava,ARMÉNSKÝ,Ne
 2002,Soudní tlumočník,bez titulu,Hana,Michalovičová,Praha,NĚMECKÝ,Ne
 2001,Soudní tlumočník,Mgr.,Alena,Rosíková,Otrokovice,RUSKÝ,Ne
-2002,Soudní tlumočník,bez titulu,Petra,Oratorová,Lažánky,ŠVÉDSKÝ,Ne
+2002,Soudní tlumočník,bez titulu,Petra,Oratorová,Znojmo,ŠVÉDSKÝ,Ne
 1992,Soudní tlumočník,bez titulu,Hana,Vrbasová,Brno,SRBSKÝ|CHORVATSKÝ,Ne
 2002,Soudní tlumočník,PhDr.,Roman,Kopřiva,Brno,NĚMECKÝ,Ne
 1996,Soudní tlumočník,PhDr.,Jitka,Brešová,Brno,FRANCOUZSKÝ,Ne
@@ -368,7 +368,7 @@ Rok zápisu,Druh osoby,Titul,Jméno,Příjmení,Město,Jazyky,Zkouška vykonána
 2004,Soudní tlumočník,bez titulu,Jelena Sergejevna,Finková,Záříčí,FRANCOUZSKÝ|NĚMECKÝ|RUSKÝ,Ne
 2004,Soudní tlumočník,bez titulu,Hoan,Nguyen,Brno,VIETNAMSKÝ,Ne
 1992,Soudní tlumočník,PhDr.,Ivana,Zahradníková,Brno,FRANCOUZSKÝ,Ano
-2001,Soudní tlumočník,Mgr.,Aranka,Flachbartová,Břeclav,MAĎARSKÝ|NĚMECKÝ,Ne
+2001,Soudní tlumočník,Mgr.,Aranka,Flachbartová,Břeclav,NĚMECKÝ|MAĎARSKÝ,Ne
 2001,Soudní tlumočník,Mgr.,Eva,Badalová,Ostopovice,FRANCOUZSKÝ,Ne
 2000,Soudní tlumočník,PhDr.,Ivana,Kubečková,Zlín,RUSKÝ|ANGLICKÝ,Ne
 1992,Soudní tlumočník,PhDr.,Jiří,Vacek,Kuřim,ANGLICKÝ|RUSKÝ,Ne
@@ -376,7 +376,7 @@ Rok zápisu,Druh osoby,Titul,Jméno,Příjmení,Město,Jazyky,Zkouška vykonána
 1999,Soudní tlumočník,Ing.,Pavlos,Kevrekidis,Brno,ŘECKÝ,Ne
 2002,Soudní tlumočník,Mgr.,Dagmar,Vodičková,Brno,NĚMECKÝ,Ne
 1996,Soudní tlumočník,Mgr. Ing.,Vladislav,Sudnik,Uherský Brod,POLSKÝ,Ne
-2004,Soudní tlumočník,doc. Mgr.,Pavel,Krejčí,Brno,CHORVATSKÝ|BOSENSKÝ|BULHARSKÝ|SRBSKÝ,Ano
+2004,Soudní tlumočník,doc. Mgr.,Pavel,Krejčí,Brno,SRBSKÝ|BOSENSKÝ|BULHARSKÝ|CHORVATSKÝ,Ano
 1992,Soudní tlumočník,bez titulu,Jitka,Javorina,Brno,SRBSKÝ|CHORVATSKÝ,Ne
 2000,Soudní překladatel,Mgr. Bc.,Eva,Reutová,Brno,UKRAJINSKÝ|RUSKÝ,Ano
 1999,Soudní tlumočník,PhDr.,Zora,Trňáčková,Slavkov u Brna,NĚMECKÝ,Ne
@@ -391,14 +391,14 @@ Rok zápisu,Druh osoby,Titul,Jméno,Příjmení,Město,Jazyky,Zkouška vykonána
 2002,Soudní tlumočník,Mgr.,Zuzana,Vöröšová,Brno,NĚMECKÝ|SLOVENSKÝ,Ano
 1992,Soudní tlumočník,Mgr.,Hana,Němcová,Blansko,ANGLICKÝ,Ne
 1997,Soudní tlumočník,Ing.,Samir,Maloula,Znojmo,ARABSKÝ,Ne
-2001,Soudní tlumočník,bez titulu,Lenka,Vislousová,Znojmo,RUSKÝ,Ne
+2001,Soudní tlumočník,PhDr.,Lenka,Vislousová,Znojmo,RUSKÝ,Ano
 2001,Soudní tlumočník,Mgr.,Lucie,Zavřelová,Brno,NĚMECKÝ,Ne
-2001,Soudní tlumočník,doc. PhDr. RNDr.,Otto,Zwettler,Ždánice,RUSKÝ|NĚMECKÝ,Ne
+2001,Soudní tlumočník,doc. PhDr. RNDr.,Otto,Zwettler,Ždánice,NĚMECKÝ|RUSKÝ,Ne
 1994,Soudní tlumočník,Ing.,Konrad Piotr,Korzeniowski,Zlín,POLSKÝ|POLSKÝ,Ano
 2002,Soudní tlumočník,Mgr.,Yveta,Rylichová,Břeclav,RUSKÝ,Ne
 2003,Soudní tlumočník,Mgr.,Alojz,Jankó,Podivín,MAĎARSKÝ,Ne
 1993,Soudní tlumočník,PhDr.,Alena,Jakubíčková,Jihlava,NĚMECKÝ,Ano
-2000,Soudní tlumočník,bez titulu,Jana,Pajićová,Zlín,CHORVATSKÝ|SRBSKÝ,Ano
+2000,Soudní tlumočník,bez titulu,Jana,Pajićová,Zlín,SRBSKÝ|CHORVATSKÝ,Ano
 1996,Soudní tlumočník,Mgr.,Martina,Hoggardová,Ivančice,ANGLICKÝ,Ano
 2000,Soudní tlumočník,Mgr.,Lukáš,Benda,Brno,MAĎARSKÝ,Ano
 2000,Soudní tlumočník,Mgr.,Emília,Kosová,Brno,RUSKÝ,Ne
@@ -456,11 +456,11 @@ Rok zápisu,Druh osoby,Titul,Jméno,Příjmení,Město,Jazyky,Zkouška vykonána
 2002,Soudní tlumočník,Mgr.,Lea,Hasíková,Hodonín,ANGLICKÝ,Ne
 1997,Soudní tlumočník,Ing.,Jiří,Bimka,Veselí nad Moravou,SLOVENSKÝ,Ne
 1993,Soudní tlumočník,Ing.,Václav,Hrazdil,Brno,FRANCOUZSKÝ,Ne
-1999,Soudní tlumočník,Ing.,Ha Phuong,Novotná,Brno,VIETNAMSKÝ,Ne
+1999,Soudní tlumočník,Ing.,Ha Phuong,Novotná,Brno,VIETNAMSKÝ,Ano
 1992,Soudní tlumočník,Mgr.,Eva,Čechová,Brno,NĚMECKÝ,Ne
 2003,Soudní tlumočník,PhDr.,Jiří,Kacetl,Znojmo,ANGLICKÝ,Ano
 1992,Soudní tlumočník,PhDr.,Magda,Schulmeisterová,Brno,NĚMECKÝ,Ne
-1995,Soudní tlumočník,Mgr.,Renata,Šilhánová,Vizovice,NĚMECKÝ,Ne
+1995,Soudní tlumočník,Mgr.,Renata,Šilhánová,Vizovice,NĚMECKÝ,Ano
 1995,Soudní překladatel,Mgr.,Blanka,Jordanová,Brno,NĚMECKÝ,Ano
 1999,Soudní tlumočník,Mgr.,Blanka,Vilasová,Brno,ITALSKÝ|FRANCOUZSKÝ,Ne
 2000,Soudní tlumočník,Mgr. et Mgr.,Michal,Vávra,Troubsko,NĚMECKÝ,Ne
@@ -502,7 +502,7 @@ Rok zápisu,Druh osoby,Titul,Jméno,Příjmení,Město,Jazyky,Zkouška vykonána
 1992,Soudní tlumočník,Mgr.,Zdeněk,Petr,Břeclav,NĚMECKÝ,Ne
 1992,Soudní tlumočník,Mgr.,Ivana,Tarabová,Brno,NĚMECKÝ,Ne
 1998,Soudní tlumočník,bez titulu,Hání,Nubani,Popůvky,ARABSKÝ,Ne
-2002,Soudní tlumočník,Mgr.,Martina,Vítková,Brno,ŠPANĚLSKÝ|ANGLICKÝ,Ano
+2002,Soudní tlumočník,Mgr.,Martina,Vítková,Brno,ANGLICKÝ|ŠPANĚLSKÝ,Ano
 1997,Soudní tlumočník,Ing.,Milan,Cihlář,Třebíč,ANGLICKÝ,Ne
 1998,Soudní tlumočník,MVDr.,Zlatuše,Novotná,Brno,NĚMECKÝ,Ne
 2002,Soudní tlumočník,Mgr.,Andrea,Palečková,Velká Bíteš,NĚMECKÝ,Ne
@@ -536,7 +536,7 @@ Rok zápisu,Druh osoby,Titul,Jméno,Příjmení,Město,Jazyky,Zkouška vykonána
 2006,Soudní překladatel,Mgr.,Athena,Alchazidu,Brno,ŠPANĚLSKÝ,Ne
 1999,Soudní překladatel,Ing.,Daniela,Nepejchalová,Brno,CHORVATSKÝ|SRBSKÝ,Ne
 2005,Soudní překladatel,Mgr.,Lilie,Šubová,Židlochovice,RUSKÝ|BĚLORUSKÝ,Ano
-2008,Soudní překladatel,Bc.,Natalija,Sydorkina,Brno,UKRAJINSKÝ|RUSKÝ,Ano
+2008,Soudní překladatel,Bc.,Natalija,Sydorkina,Brno,RUSKÝ|UKRAJINSKÝ,Ano
 1992,Soudní tlumočník,Mgr.,Renáta,Vídenská,Moravany,NĚMECKÝ,Ne
 2001,Soudní tlumočník,bez titulu,Pavel,Rouča,Hrabětice,POLSKÝ,Ne
 2022,Soudní tlumočník,bez titulu,NAILA,ALLAHVERDIYEVA,Kroměříž,AZERBAJDŽANSKÝ,Ano
@@ -560,7 +560,7 @@ Rok zápisu,Druh osoby,Titul,Jméno,Příjmení,Město,Jazyky,Zkouška vykonána
 2006,Soudní překladatel,bez titulu,Anna,Škrhová,Brno,UKRAJINSKÝ|RUSKÝ,Ano
 2007,Soudní překladatel,Bc.,Pavla,Vystrčilová,Bánov,ANGLICKÝ,Ne
 2007,Soudní překladatel,Mgr.,Lenka,Navrátilová,Hodonín,NĚMECKÝ,Ano
-2008,Soudní překladatel,JUDr. PhDr.,Martin,Crha,Brno,ANGLICKÝ|NĚMECKÝ,Ano
+2008,Soudní překladatel,JUDr. PhDr.,Martin,Crha,Brno,NĚMECKÝ|ANGLICKÝ,Ano
 2008,Soudní překladatel,Ing.,Helena,Hoření,Kuřim,ANGLICKÝ,Ano
 2008,Soudní překladatel,Mgr.,Zdeňka,Zvoníčková,Dolní Loučky,ANGLICKÝ,Ano
 2008,Soudní překladatel,PhDr.,Dagmar,Bartoníková,Brno,RUSKÝ,Ne
@@ -579,13 +579,13 @@ Rok zápisu,Druh osoby,Titul,Jméno,Příjmení,Město,Jazyky,Zkouška vykonána
 2005,Soudní překladatel,Ing.,Cend-Ajúš,Staňková,Zlín,MONGOLSKÝ,Ano
 1999,Soudní překladatel,Mgr.,Eva,Čoupková,Brno,ANGLICKÝ,Ano
 2001,Soudní překladatel,Ing.,Jarmila,Kozáková,Zlín,NĚMECKÝ,Ano
-1992,Soudní překladatel,PhDr.,Markéta,Pechancová,Zlín,ITALSKÝ|NĚMECKÝ,Ne
+1992,Soudní překladatel,PhDr.,Markéta,Pechancová,Zlín,NĚMECKÝ|ITALSKÝ,Ne
 2005,Soudní překladatel,Mgr.,Nora,Doušová,Brno,ITALSKÝ|NĚMECKÝ,Ne
 2005,Soudní překladatel,Ing.,Thanh Hung,Le,Moravany,VIETNAMSKÝ,Ne
 2008,Soudní překladatel,Mgr.,Eva,Kudrjavceva Malenová,Trnava,RUSKÝ,Ano
 1992,Soudní překladatel,Ing.,Bohuslava,Holubová,Brno,UKRAJINSKÝ|RUSKÝ,Ne
 1999,Soudní překladatel,PhDr.,Radmila,Závišková,Praha,ANGLICKÝ,Ne
-2008,Soudní překladatel,Mgr.,Veronika,Mustakimova,Brno,BĚLORUSKÝ|RUSKÝ,Ne
+2008,Soudní překladatel,Mgr.,Veronika,Mustakimova,Brno,RUSKÝ|BĚLORUSKÝ,Ne
 2005,Soudní překladatel,Mgr.,Miroslava,Kabátková,Znojmo,RUSKÝ|NĚMECKÝ,Ne
 1993,Soudní překladatel,PhDr.,Miroslava,Chikhaoui,Praha,FRANCOUZSKÝ,Ne
 1995,Soudní překladatel,Mgr.,Ivan,Charvát,Habrůvka,NĚMECKÝ,Ne
@@ -621,17 +621,17 @@ Rok zápisu,Druh osoby,Titul,Jméno,Příjmení,Město,Jazyky,Zkouška vykonána
 2007,Soudní překladatel,Mgr.,Karolina,Křížová,Brno,ITALSKÝ,Ano
 2008,Soudní překladatel,Mgr.,Lenka,Padalíková,Velké Meziříčí,NĚMECKÝ,Ne
 2008,Soudní překladatel,Mgr.,Jana,Brenzel,Znojmo,NĚMECKÝ,Ne
-2007,Soudní překladatel,Mgr.,Renata,Plasgurová,Valašské Klobouky,NĚMECKÝ|ŠPANĚLSKÝ,Ano
+2007,Soudní překladatel,Mgr.,Renata,Plasgurová,Valašské Klobouky,ŠPANĚLSKÝ|NĚMECKÝ,Ano
 2007,Soudní překladatel,Mgr.,Jana,Staňková,Brno,NĚMECKÝ|ANGLICKÝ,Ne
 2000,Soudní překladatel,Mgr.,Marie,Brunová,Jihlava,RUSKÝ|NĚMECKÝ,Ne
 1998,Soudní překladatel,Mgr.,Martina,Jandlová,Brno,NĚMECKÝ,Ano
 2009,Soudní překladatel,Ing.,Oto,Domaniža,Znojmo,MAĎARSKÝ,Ne
 2004,Soudní překladatel,Ing.,Khan,Azimi,Tištín,PERSKÝ|DÁRIJSKÝ|PAŠTSKÝ,Ne
 2004,Soudní překladatel,JUDr.,Čimgé,Sandtnerová,Zlín,MONGOLSKÝ|RUSKÝ,Ne
-2004,Soudní překladatel,Mgr.,Marina,Melkonjan,Brno,ARMÉNSKÝ|RUSKÝ,Ne
+2004,Soudní překladatel,Mgr.,Marina,Melkonjan,Brno,ARMÉNSKÝ|RUSKÝ,Ano
 2000,Soudní překladatel,doc. Mgr.,Elena Ivanova,Krejčová,Brno,BULHARSKÝ,Ano
 1994,Soudní překladatel,PhDr.,Jaroslav,Andrýsek,Rohatec,ANGLICKÝ,Ne
-2008,Soudní překladatel,Mgr.,Anna,Mlynarčíková,Hluk,RUSKÝ|RUMUNSKÝ,Ne
+2008,Soudní překladatel,Mgr.,Anna,Mlynarčíková,Hluk,RUMUNSKÝ|RUSKÝ,Ne
 1998,Soudní překladatel,Mgr.,Pavla,Mikolášková,Brno,FRANCOUZSKÝ,Ne
 2002,Soudní překladatel,PhDr.,Ilona,Víchová,Brno,SLOVINSKÝ,Ne
 1992,Soudní překladatel,doc. JUDr.,Martin,Janků,Brno,ANGLICKÝ|NĚMECKÝ,Ano
@@ -656,7 +656,7 @@ Rok zápisu,Druh osoby,Titul,Jméno,Příjmení,Město,Jazyky,Zkouška vykonána
 2004,Soudní překladatel,Mgr.,Lucie,Matoušová,Brno,FRANCOUZSKÝ|ITALSKÝ,Ne
 1995,Soudní překladatel,Mgr.,Martina,Komendová,Brno,NĚMECKÝ,Ano
 1995,Soudní překladatel,PhDr.,Jana,Baroková,Židlochovice,NĚMECKÝ,Ne
-1998,Soudní překladatel,Mgr.,Irena,Čermáková,Brno,RUSKÝ|ANGLICKÝ,Ne
+1998,Soudní překladatel,Mgr.,Irena,Čermáková,Brno,ANGLICKÝ|RUSKÝ,Ano
 2003,Soudní překladatel,bez titulu,Caspar Willem,Jacobs,Černíč,NIZOZEMSKÝ,Ne
 1998,Soudní překladatel,Mgr.,Jan,Drobílek,Třebíč,RUSKÝ|ANGLICKÝ,Ano
 1999,Soudní překladatel,Mgr.,Leoš,Holík,Znojmo,NĚMECKÝ,Ne
@@ -666,10 +666,10 @@ Rok zápisu,Druh osoby,Titul,Jméno,Příjmení,Město,Jazyky,Zkouška vykonána
 2004,Soudní překladatel,Mgr.,Galina,Švajdová,Šanov,RUSKÝ,Ne
 2004,Soudní překladatel,Ing.,Oai,Lam,Brno,VIETNAMSKÝ,Ano
 2004,Soudní překladatel,Ing.,Tibor,Kemény,Kroměříž,MAĎARSKÝ,Ano
-2004,Soudní překladatel,Mgr.,Radim,Dvořák,Žďár nad Sázavou,ANGLICKÝ|ŠPANĚLSKÝ,Ne
+2004,Soudní překladatel,Mgr.,Radim,Dvořák,Žďár nad Sázavou,ŠPANĚLSKÝ|ANGLICKÝ,Ne
 1995,Soudní překladatel,PhDr.,Ivana,Tulajová,Brno,ANGLICKÝ,Ne
 1994,Soudní překladatel,Mgr.,Ivanka,Kysová,Bzenec,FRANCOUZSKÝ|RUSKÝ,Ano
-2010,Soudní překladatel,Mgr. Bc.,Marija,Šupicová,Brno,SRBSKÝ|CHORVATSKÝ|ČERNOHORSKÝ|BOSENSKÝ,Ne
+2010,Soudní překladatel,Mgr. Bc.,Marija,Šupicová,Brno,ČERNOHORSKÝ|BOSENSKÝ|SRBSKÝ|CHORVATSKÝ,Ne
 2013,Soudní překladatel,Mgr.,Eva,Kročová,Zlín,NĚMECKÝ,Ne
 2013,Soudní překladatel,Mgr.,Jana,Zezulová,Brno,FRANCOUZSKÝ,Ne
 2003,Soudní překladatel,Bc.,Magdalena,Durčáková,Brno,ANGLICKÝ,Ne
@@ -680,12 +680,12 @@ Rok zápisu,Druh osoby,Titul,Jméno,Příjmení,Město,Jazyky,Zkouška vykonána
 2009,Soudní překladatel,Mgr.,Natalia,Roško,Třebíč,RUSKÝ|UKRAJINSKÝ,Ne
 2008,Soudní překladatel,prof. JUDr. Bc.,Jaromír,Tauchen,Jinačovice,NĚMECKÝ,Ano
 2020,Soudní překladatel,Mgr.,Eva,Batličková,Brno,PORTUGALSKÝ,Ne
-2019,Soudní překladatel,Mgr.,Pavel,Pilch,Brno,BOSENSKÝ|CHORVATSKÝ|SRBSKÝ|ČERNOHORSKÝ,Ano
+2019,Soudní překladatel,Mgr.,Pavel,Pilch,Brno,ČERNOHORSKÝ|BOSENSKÝ|CHORVATSKÝ|SRBSKÝ,Ano
 2020,Soudní překladatel,Mgr.,Oldřich,Bretšnajdr,Moravské Budějovice,ANGLICKÝ,Ne
 2019,Soudní překladatel,Mgr.,Anna,Toman,Brno,RUSKÝ,Ano
 2017,Soudní překladatel,Mgr. et Mgr.,Stanislava,Očenášková,Brno,ITALSKÝ,Ano
 2017,Soudní překladatel,Mgr.,Margarita Rumenova,Raceva,Blansko,BULHARSKÝ,Ano
-2015,Soudní překladatel,Mgr.,Vladislav,Kovář,Brno,NĚMECKÝ,Ne
+2015,Soudní překladatel,Mgr.,Vladislav,Kovář,Brno,NĚMECKÝ,Ano
 2015,Soudní překladatel,Mgr.,Iveta,Pernická,Zlín,POLSKÝ,Ne
 2014,Soudní překladatel,Mgr. et Mgr.,Milada,Bobková,Šafov,NĚMECKÝ,Ano
 2009,Soudní překladatel,Ing.,Eva,Žallmannová,Kostelany,ANGLICKÝ,Ano
@@ -697,7 +697,7 @@ Rok zápisu,Druh osoby,Titul,Jméno,Příjmení,Město,Jazyky,Zkouška vykonána
 2017,Soudní překladatel,Mgr.,Silvie,Suchomelová,Ochoz u Brna,ŠPANĚLSKÝ|KATALÁNSKÝ,Ano
 2016,Soudní překladatel,Mgr.,Barbora,Stolínová,Puklice,ANGLICKÝ,Ne
 2016,Soudní překladatel,Mgr. Bc.,Tereza,Lungová,Brno,ANGLICKÝ,Ne
-2016,Soudní překladatel,Mgr.,Jana,Darebníková,Šelešovice,FRANCOUZSKÝ,Ne
+2016,Soudní překladatel,Mgr.,Jana,Darebníková,Šelešovice,FRANCOUZSKÝ,Ano
 2016,Soudní překladatel,Dr. phil. des.,Martina,Tomancová,Rudíkov,NĚMECKÝ,Ne
 2016,Soudní překladatel,Mgr.,Renata,Hajslerová,Tišnov,ANGLICKÝ,Ne
 2015,Soudní překladatel,Mgr.,Martin,Surovčák,Děčín,ALBÁNSKÝ|ŘECKÝ,Ano
@@ -711,22 +711,22 @@ Rok zápisu,Druh osoby,Titul,Jméno,Příjmení,Město,Jazyky,Zkouška vykonána
 2013,Soudní překladatel,Mgr.,Igor,Kapitula,Brno,RUSKÝ|UKRAJINSKÝ,Ne
 2013,Soudní překladatel,Mgr.,Karel,Hanza,Kněždub,ANGLICKÝ,Ne
 2000,Soudní překladatel,bez titulu,Marta,Mastová,Zastávka,ITALSKÝ,Ne
-2013,Soudní překladatel,Mgr.,Lucie,Vaculová,Lelekovice,ANGLICKÝ|ITALSKÝ,Ne
+2013,Soudní překladatel,Mgr.,Lucie,Vaculová,Lelekovice,ANGLICKÝ|ITALSKÝ,Ano
 2017,Soudní překladatel,Mgr.,Robert,Pejšek,Brno,NĚMECKÝ|ANGLICKÝ,Ano
 2017,Soudní překladatel,Mgr.,Andrea,Rosendorfová,Oslavany,FRANCOUZSKÝ,Ne
 2010,Soudní překladatel,Mgr. et Mgr.,Viera,Boumová,Brno,ANGLICKÝ|SLOVENSKÝ,Ano
 2010,Soudní překladatel,Mgr. et Mgr.,Markéta,Májková,Křižanovice,ITALSKÝ,Ano
 2010,Soudní překladatel,Mgr. Bc.,Martina,Kotoučová,Brno,ŠPANĚLSKÝ,Ne
-2010,Soudní překladatel,Mgr.,Mariana,Popovyčová,Jihlava,RUSKÝ|UKRAJINSKÝ,Ano
+2010,Soudní překladatel,Mgr.,Mariana,Popovyčová,Jihlava,UKRAJINSKÝ|RUSKÝ,Ano
 2010,Soudní překladatel,Mgr.,Petra,Kuchaříková,Brno,FRANCOUZSKÝ,Ne
 2010,Soudní překladatel,Mgr.,Martina,Kučerová,Rousínov,ANGLICKÝ|NĚMECKÝ,Ano
 2010,Soudní překladatel,Ing.,Justína,Tóthová,Uhřice,MAĎARSKÝ,Ano
 2010,Soudní překladatel,Ing.,Tamara,Máselníková,Zlín,RUSKÝ,Ano
 2012,Soudní překladatel,Ing.,René,Motlak,Brno,ARABSKÝ,Ne
 2009,Soudní překladatel,Ing.,HAI DANG,VIET,Modřice,VIETNAMSKÝ,Ne
-2010,Soudní překladatel,Mgr.,Petr,Stehlík,Brno,CHORVATSKÝ|BOSENSKÝ|SRBSKÝ,Ne
+2010,Soudní překladatel,Mgr.,Petr,Stehlík,Brno,BOSENSKÝ|SRBSKÝ|CHORVATSKÝ|ČERNOHORSKÝ,Ano
 1994,Soudní překladatel,PhDr.,Valerij,Kravčenko,Brodek u Konice,UKRAJINSKÝ|RUSKÝ,Ne
-2010,Soudní překladatel,Mgr. et Mgr.,Eva,Sladká Florianová,Brno,ANGLICKÝ,Ne
+2010,Soudní překladatel,Mgr. et Mgr.,Eva,Sladká Florianová,Brno,ANGLICKÝ,Ano
 2011,Soudní překladatel,Mgr.,Lucie,Šafránková,Brno,PORTUGALSKÝ,Ne
 2011,Soudní překladatel,Bc.,Petra,Javorina,Brno,CHORVATSKÝ,Ne
 2011,Soudní překladatel,bez titulu,Hedvika,Brtníková,Jihlava,ANGLICKÝ,Ano
@@ -734,14 +734,14 @@ Rok zápisu,Druh osoby,Titul,Jméno,Příjmení,Město,Jazyky,Zkouška vykonána
 2010,Soudní překladatel,Mgr.,Nina,Fojtů,Kyjov,NĚMECKÝ,Ne
 2010,Soudní překladatel,bez titulu,Dana,Cashinová,Hrušovany nad Jevišovkou,ANGLICKÝ,Ne
 2019,Soudní překladatel,Mgr.,Anna,Machová,Brno,ANGLICKÝ|UKRAJINSKÝ|RUSKÝ|NĚMECKÝ,Ne
-2019,Soudní překladatel,Mgr.,Linda,Todorović,Brno,CHORVATSKÝ|BOSENSKÝ|ČERNOHORSKÝ|SRBSKÝ,Ne
+2019,Soudní překladatel,Mgr.,Linda,Todorović,Brno,ČERNOHORSKÝ|CHORVATSKÝ|BOSENSKÝ|SRBSKÝ,Ne
 2022,Soudní překladatel,JUDr.,Vladimír,Vedra,Brno,ANGLICKÝ,Ano
 2022,Soudní překladatel,Mgr.,Linda,Heinigová,Brno,UKRAJINSKÝ,Ano
 2019,Soudní překladatel,Mgr.,Petra,Vydrová Pavlasová,Znojmo,RUSKÝ,Ne
 2021,Soudní překladatel,Mgr.,Jana,Krčková,Kroměříž,RUSKÝ,Ano
 2009,Soudní překladatel,Mgr.,Magdalena,Štollová,Bystřice pod Hostýnem,ITALSKÝ,Ne
 2018,Soudní překladatel,Mgr. Bc.,Hana,Bohrnová,Brno,ŘECKÝ,Ne
-2017,Soudní překladatel,bez titulu,Ingúna,Camrdová,Brno,LOTYŠSKÝ,Ne
+2017,Soudní překladatel,bez titulu,Ingúna,Camrdová,Brno,LOTYŠSKÝ,Ano
 2017,Soudní překladatel,PhDr.,Pavel,Štursa,Moravec,ANGLICKÝ,Ne
 2017,Soudní překladatel,Mgr.,Michaela,Štanglová,Strání,ANGLICKÝ|FRANCOUZSKÝ|ITALSKÝ,Ano
 2017,Soudní překladatel,Mgr.,Věra,Gabrielová,Praha,FRANCOUZSKÝ,Ne
@@ -755,15 +755,15 @@ Rok zápisu,Druh osoby,Titul,Jméno,Příjmení,Město,Jazyky,Zkouška vykonána
 2009,Soudní překladatel,bez titulu,Renata,Paletová,Veselí nad Moravou,NĚMECKÝ,Ne
 2018,Soudní překladatel,MVDr.,Olga,Sapožnikov,Brno,HEBREJSKÝ,Ano
 2018,Soudní překladatel,Mgr.,Petra,Querol Y Saez,Brno,ŠPANĚLSKÝ|NĚMECKÝ,Ano
-2018,Soudní překladatel,Mgr.,Helena,Slaninová,Brno,ANGLICKÝ,Ne
+2018,Soudní překladatel,Mgr.,Helena,Slaninová,Brno,ANGLICKÝ,Ano
 2018,Soudní překladatel,Mgr. Bc.,Jan,Buďa,Třebíč,PORTUGALSKÝ,Ano
 2018,Soudní překladatel,Mgr.,Lucie,Machová,Třebíč,FRANCOUZSKÝ,Ano
 2018,Soudní překladatel,Mgr. et Mgr.,Ondřej,Klabal,Prostějov,ŠPANĚLSKÝ|ANGLICKÝ,Ano
 2011,Soudní překladatel,Mgr.,Heike,Knapová,Želeč,NĚMECKÝ,Ne
-2011,Soudní překladatel,Mgr.,Ivona,Floresová,Blansko,NĚMECKÝ|ANGLICKÝ,Ano
+2011,Soudní překladatel,Mgr.,Ivona,Floresová,Protivanov,NĚMECKÝ|ANGLICKÝ,Ano
 2011,Soudní překladatel,bez titulu,Petr,Fojtek,Velké Opatovice,ANGLICKÝ,Ne
 2011,Soudní překladatel,Mgr.,Václav,Tomaník,Tupesy,RUSKÝ|ANGLICKÝ,Ano
-2009,Soudní překladatel,bez titulu,Mai,Konečná,Brno,VIETNAMSKÝ,Ne
+2009,Soudní překladatel,bez titulu,Mai,Konečná,Brno,VIETNAMSKÝ,Ano
 2012,Soudní překladatel,Mgr.,Pavla,Macková,Blučina,NĚMECKÝ,Ne
 2012,Soudní překladatel,PhDr. Mgr.,Libuše,Klangová,Brno,ANGLICKÝ|RUSKÝ,Ano
 2012,Soudní překladatel,Mgr.,Raisa,Sochorová,Brno,BULHARSKÝ,Ne
@@ -772,14 +772,14 @@ Rok zápisu,Druh osoby,Titul,Jméno,Příjmení,Město,Jazyky,Zkouška vykonána
 2011,Soudní překladatel,Mgr.,Radka,Hejmalová-Millar,Brno,ANGLICKÝ,Ano
 2011,Soudní překladatel,MUDr.,Khaliun,Amgalanbaatar,Ráječko,MONGOLSKÝ,Ne
 2011,Soudní překladatel,Bc.,Petra,Adamíková,Moravský Krumlov,ŘECKÝ,Ne
-2011,Soudní překladatel,Mgr.,Aloisie,Gašparević,Brno,CHORVATSKÝ|BOSENSKÝ,Ano
+2011,Soudní překladatel,Mgr.,Aloisie,Gašparević,Brno,BOSENSKÝ|CHORVATSKÝ,Ano
 2011,Soudní překladatel,Ing.,Thanh Tan,Han,Modřice,VIETNAMSKÝ,Ne
 2011,Soudní překladatel,Mgr.,Gabriela,Rožková,Brno,ŠPANĚLSKÝ,Ano
 2011,Soudní překladatel,Mgr.,Hana,Božáková,Kroměříž,ŠPANĚLSKÝ,Ano
 2011,Soudní překladatel,Mgr.,Hana,Fasurová,Brno,ITALSKÝ,Ne
 2011,Soudní překladatel,Mgr.,Julie Lien,Vrbková,Praha,VIETNAMSKÝ,Ano
 2009,Soudní překladatel,Mgr.,Irena,Solařová,Bystřice pod Hostýnem,ANGLICKÝ,Ne
-2009,Soudní překladatel,Mgr.,Barbora,Vázquezová Drahozalová,Kunice,ŠPANĚLSKÝ|PORTUGALSKÝ|FRANCOUZSKÝ,Ano
+2009,Soudní překladatel,Mgr.,Barbora,Vázquezová Drahozalová,Kunice,FRANCOUZSKÝ|ŠPANĚLSKÝ|PORTUGALSKÝ,Ano
 2011,Soudní překladatel,Mgr.,Alena,Králová,Brno,RUSKÝ,Ne
 2009,Soudní překladatel,Mgr. et Mgr.,Olga,Tomšíčková,Třebíč,ANGLICKÝ,Ano
 2009,Soudní překladatel,Mgr. Bc.,Markéta,Říhová Batista,Brno,NĚMECKÝ,Ne
@@ -794,10 +794,10 @@ Rok zápisu,Druh osoby,Titul,Jméno,Příjmení,Město,Jazyky,Zkouška vykonána
 2011,Soudní překladatel,Mgr.,Anna,Snopková,Staré Město,ANGLICKÝ,Ano
 2009,Soudní překladatel,Mgr. et Mgr. Ing.,Leona,Buzrlová,Moravský Žižkov,NĚMECKÝ|ANGLICKÝ,Ne
 2009,Soudní překladatel,bez titulu,Koraljka,Přikrylová,Brno,CHORVATSKÝ|SRBSKÝ,Ne
-2009,Soudní překladatel,Ing. Bc.,Jelena,Štěrbová,Uherské Hradiště,RUSKÝ,Ne
+2009,Soudní překladatel,Ing. Bc.,Jelena,Štěrbová,Kunovice,RUSKÝ,Ne
 2009,Soudní překladatel,Mgr.,Lenka,Ulrich,Dubňany,NĚMECKÝ,Ne
 2009,Soudní překladatel,bez titulu,Davor,Rogić,Třebíč,CHORVATSKÝ,Ne
-1998,Soudní překladatel,bez titulu,Eva,Lakanovičová,Brno,SRBSKÝ|BOSENSKÝ,Ne
+1998,Soudní překladatel,bez titulu,Eva,Lakanovičová,Brno,BOSENSKÝ|SRBSKÝ,Ne
 1999,Soudní překladatel,Bc.,VIKTORIE LEONTINA,HLAVAIOVÁ,Podivín,RUMUNSKÝ,Ne
 1992,Soudní překladatel,PhDr.,Helena,Pinková,Brno,NĚMECKÝ|ANGLICKÝ,Ne
 2011,Soudní překladatel,Mgr. Bc.,Pavel,Mašarák,Brno,NĚMECKÝ,Ano
@@ -830,23 +830,23 @@ Rok zápisu,Druh osoby,Titul,Jméno,Příjmení,Město,Jazyky,Zkouška vykonána
 1993,Soudní překladatel,bez titulu,Iva,Najmanová,Velké Meziříčí,SRBSKÝ|CHORVATSKÝ,Ne
 1992,Soudní překladatel,bez titulu,KARI,KAUPPINEN,Brno,FINSKÝ,Ne
 1999,Soudní překladatel,RNDr.,Erik,Schwarzbach,Miroslav,NĚMECKÝ,Ne
-2022,Soudní překladatel,Mgr. Bc.,Veronika,Cenková,Ostrava,ANGLICKÝ|UKRAJINSKÝ|RUSKÝ,Ano
+2022,Soudní překladatel,Mgr. Bc.,Veronika,Cenková,Ostrava,RUSKÝ|ANGLICKÝ|UKRAJINSKÝ,Ano
 2011,Soudní překladatel,Mag. phil.,Jitka,Roupcová,Litohoř,NĚMECKÝ,Ne
 2011,Soudní překladatel,Mgr.,Markéta,Páralová Tardy,Brno,POLSKÝ,Ano
 2002,Soudní překladatel,Mgr.,Romana,Divošová,Brumov-Bylnice,ANGLICKÝ,Ano
 1998,Soudní překladatel,Mgr.,Jarmila,Doležalová,Znojmo,NĚMECKÝ,Ne
-1995,Soudní překladatel,doc. PhDr.,Karla,Ondrášková,Šlapanice,POLSKÝ|RUSKÝ,Ne
+1995,Soudní překladatel,doc. PhDr.,Karla,Ondrášková,Šlapanice,RUSKÝ|POLSKÝ,Ne
 1994,Soudní překladatel,Mgr.,Jana,Zubalíková,Hodonín,NĚMECKÝ|RUSKÝ,Ne
 2000,Soudní překladatel,Mgr.,Jarmila,Černá,Bzenec,ANGLICKÝ|NĚMECKÝ,Ano
 2004,Soudní překladatel,Mgr.,Daniela,Budějovská,Pyšel,NĚMECKÝ,Ne
 1995,Soudní překladatel,PhDr.,Karel,Šenkeřík,Brno,NĚMECKÝ,Ne
-1998,Soudní překladatel,Mgr.,Zdeňka,Bušatličová,Brno,CHORVATSKÝ|SRBSKÝ,Ne
+1998,Soudní překladatel,Mgr.,Zdeňka,Bušatličová,Brno,SRBSKÝ|CHORVATSKÝ,Ne
 2003,Soudní překladatel,PhDr.,Ivana,Šelešovská,Brno,MAKEDONSKÝ,Ne
 2002,Soudní překladatel,Mgr.,Alexandra,Michaláčová,Brno,SLOVENSKÝ,Ano
 2003,Soudní překladatel,Ing.,Kamil,Khazaal,Staré Město,ARABSKÝ,Ne
 1999,Soudní překladatel,Mgr.,Ivana,Krčálová,Znojmo,NĚMECKÝ,Ne
 2002,Soudní překladatel,bez titulu,Joanna,Pacigová,Dyje,POLSKÝ,Ne
-2002,Soudní překladatel,Mgr.,Renata,Finková,Hodonín,NĚMECKÝ|ŠPANĚLSKÝ,Ne
+2002,Soudní překladatel,Mgr.,Renata,Finková,Hodonín,NĚMECKÝ|ŠPANĚLSKÝ,Ano
 1999,Soudní překladatel,Mgr.,Monika,Strmisková,Brno,NĚMECKÝ|ŠPANĚLSKÝ,Ne
 2002,Soudní překladatel,bez titulu,Zdeňka,Chytrá,Brno,NĚMECKÝ,Ne
 1996,Soudní překladatel,Mgr.,Jarmila,Kupková,Brno,FRANCOUZSKÝ|NĚMECKÝ,Ne
@@ -858,9 +858,9 @@ Rok zápisu,Druh osoby,Titul,Jméno,Příjmení,Město,Jazyky,Zkouška vykonána
 2003,Soudní překladatel,Mgr.,Zuzana,Vichorcová,Kunovice,NĚMECKÝ,Ne
 2003,Soudní překladatel,bez titulu,Larisa,Václavíková,Mariánské Lázně,RUSKÝ,Ne
 2003,Soudní překladatel,Mgr.,Zuzana,Kacetlová,Znojmo,ŠPANĚLSKÝ,Ne
-1997,Soudní překladatel,PhDr.,Iva,Příkazská,Brno,ŠPANĚLSKÝ|FRANCOUZSKÝ,Ne
+1997,Soudní překladatel,PhDr.,Iva,Příkazská,Brno,FRANCOUZSKÝ|ŠPANĚLSKÝ,Ne
 1993,Soudní překladatel,Mgr.,Martin,Průžek,Hodonín,NĚMECKÝ,Ne
-1998,Soudní překladatel,Mgr.,Petr,Bráník,Kroměříž,NĚMECKÝ|ANGLICKÝ,Ano
+1998,Soudní překladatel,Mgr.,Petr,Bráník,Kroměříž,ANGLICKÝ|NĚMECKÝ,Ano
 1995,Soudní překladatel,PhDr.,Hana,Urbánková,Brno,RUSKÝ,Ne
 1994,Soudní překladatel,PhDr.,Magdalena,Pintarová,Jihlava,SRBSKÝ|CHORVATSKÝ,Ne
 2004,Soudní překladatel,Ing.,Tibor,Fehér,Jihlava,MAĎARSKÝ,Ano
@@ -870,7 +870,7 @@ Rok zápisu,Druh osoby,Titul,Jméno,Příjmení,Město,Jazyky,Zkouška vykonána
 2003,Soudní překladatel,PhDr.,Petr,Mainuš,Brno,SLOVINSKÝ,Ano
 1996,Soudní překladatel,Mgr.,Eva,Minaříková,Blatnička,ANGLICKÝ,Ne
 1998,Soudní překladatel,bez titulu,Jindřiška Žofie,Matějková,Hrušovany nad Jevišovkou,NĚMECKÝ,Ne
-2002,Soudní překladatel,bez titulu,Petra,Oratorová,Lažánky,ŠVÉDSKÝ,Ne
+2002,Soudní překladatel,bez titulu,Petra,Oratorová,Znojmo,ŠVÉDSKÝ,Ne
 1992,Soudní překladatel,bez titulu,Hana,Vrbasová,Brno,CHORVATSKÝ|SRBSKÝ,Ne
 2002,Soudní překladatel,PhDr.,Roman,Kopřiva,Brno,NĚMECKÝ,Ne
 1996,Soudní překladatel,PhDr.,Jitka,Brešová,Brno,FRANCOUZSKÝ,Ne
@@ -882,7 +882,7 @@ Rok zápisu,Druh osoby,Titul,Jméno,Příjmení,Město,Jazyky,Zkouška vykonána
 2001,Soudní překladatel,Mgr.,Olga,Kozlovská,Holasice,RUSKÝ,Ne
 2000,Soudní překladatel,bez titulu,Holger Heinrich Adolf,Birckmann,Uherské Hradiště,NĚMECKÝ,Ne
 1992,Soudní překladatel,Ing.,Amer,Edin,Mokrá-Horákov,ARABSKÝ,Ne
-1993,Soudní překladatel,Mgr.,Yvona,Gregorová,Uherské Hradiště,NĚMECKÝ|RUSKÝ,Ne
+1993,Soudní překladatel,Mgr.,Yvona,Gregorová,Uherské Hradiště,RUSKÝ|NĚMECKÝ,Ne
 2000,Soudní překladatel,Mgr.,Petra,Mudráková,Valašské Klobouky,NĚMECKÝ,Ano
 2002,Soudní překladatel,bez titulu,Pavol,Lelovics,Kobeřice u Brna,MAĎARSKÝ,Ne
 1994,Soudní překladatel,PhDr.,Roman,Kandler,Prostějov,NĚMECKÝ,Ne
@@ -895,15 +895,15 @@ Rok zápisu,Druh osoby,Titul,Jméno,Příjmení,Město,Jazyky,Zkouška vykonána
 2002,Soudní překladatel,Mgr.,Zuzana,Vöröšová,Brno,SLOVENSKÝ|NĚMECKÝ,Ano
 1992,Soudní překladatel,Mgr.,Hana,Němcová,Blansko,ANGLICKÝ,Ne
 1997,Soudní překladatel,Ing.,Samir,Maloula,Znojmo,ARABSKÝ,Ne
-2004,Soudní překladatel,bez titulu,Jelena Sergejevna,Finková,Záříčí,FRANCOUZSKÝ|NĚMECKÝ|RUSKÝ,Ne
-2001,Soudní překladatel,bez titulu,Lenka,Vislousová,Znojmo,RUSKÝ,Ne
+2004,Soudní překladatel,bez titulu,Jelena Sergejevna,Finková,Záříčí,NĚMECKÝ|RUSKÝ|FRANCOUZSKÝ,Ne
+2001,Soudní překladatel,PhDr.,Lenka,Vislousová,Znojmo,RUSKÝ,Ano
 2001,Soudní překladatel,Mgr.,Lucie,Zavřelová,Brno,NĚMECKÝ,Ne
-2001,Soudní překladatel,doc. PhDr. RNDr.,Otto,Zwettler,Ždánice,RUSKÝ|NĚMECKÝ,Ne
+2001,Soudní překladatel,doc. PhDr. RNDr.,Otto,Zwettler,Ždánice,NĚMECKÝ|RUSKÝ,Ne
 1994,Soudní překladatel,Ing.,Konrad Piotr,Korzeniowski,Zlín,POLSKÝ,Ano
 2002,Soudní překladatel,Mgr.,Yveta,Rylichová,Břeclav,RUSKÝ,Ne
 2003,Soudní překladatel,Mgr.,Alojz,Jankó,Podivín,MAĎARSKÝ,Ne
 1993,Soudní překladatel,PhDr.,Alena,Jakubíčková,Jihlava,NĚMECKÝ,Ano
-2000,Soudní překladatel,bez titulu,Jana,Pajićová,Zlín,CHORVATSKÝ|SRBSKÝ,Ano
+2000,Soudní překladatel,bez titulu,Jana,Pajićová,Zlín,SRBSKÝ|CHORVATSKÝ,Ano
 1996,Soudní překladatel,Mgr.,Martina,Hoggardová,Ivančice,ANGLICKÝ,Ano
 2000,Soudní překladatel,Mgr.,Lukáš,Benda,Brno,MAĎARSKÝ,Ano
 2004,Soudní překladatel,Bc.,Kateřina,Lakomá Stőrová,Prostějov,ANGLICKÝ,Ne
@@ -921,9 +921,9 @@ Rok zápisu,Druh osoby,Titul,Jméno,Příjmení,Město,Jazyky,Zkouška vykonána
 1999,Soudní překladatel,Ing.,Pavlos,Kevrekidis,Brno,ŘECKÝ,Ne
 2002,Soudní překladatel,Mgr.,Dagmar,Vodičková,Brno,NĚMECKÝ,Ne
 1998,Soudní překladatel,Ing.,Ľudmila,Černá,Velatice,SLOVENSKÝ,Ne
-1992,Soudní překladatel,PhDr.,Miroslava,Sevciková,Hodonín,ANGLICKÝ|RUSKÝ,Ano
+1992,Soudní překladatel,PhDr.,Miroslava,Sevciková,Hodonín,RUSKÝ|ANGLICKÝ,Ano
 1998,Soudní překladatel,Ing.,Hoa,Doan,Jihlava,VIETNAMSKÝ,Ne
-2004,Soudní překladatel,doc. Mgr.,Pavel,Krejčí,Brno,BOSENSKÝ|BULHARSKÝ|SRBSKÝ|CHORVATSKÝ,Ano
+2004,Soudní překladatel,doc. Mgr.,Pavel,Krejčí,Brno,SRBSKÝ|CHORVATSKÝ|BOSENSKÝ|BULHARSKÝ,Ano
 1999,Soudní překladatel,PhDr.,Zora,Trňáčková,Slavkov u Brna,NĚMECKÝ,Ne
 1995,Soudní překladatel,Mgr.,Veronika,Hanušová,Klučov,ANGLICKÝ,Ne
 2002,Soudní překladatel,Mgr.,Lenka,Hofmanová,Rousínov,FRANCOUZSKÝ,Ne
@@ -991,7 +991,7 @@ Rok zápisu,Druh osoby,Titul,Jméno,Příjmení,Město,Jazyky,Zkouška vykonána
 2000,Soudní překladatel,bez titulu,Lenka,Brabcová,Nový Šaldorf-Sedlešovice,NĚMECKÝ,Ano
 1992,Soudní překladatel,PhDr.,Miroslava,Novotná,Brno,FRANCOUZSKÝ,Ne
 1993,Soudní překladatel,Ing.,Václav,Hrazdil,Brno,FRANCOUZSKÝ,Ne
-1999,Soudní překladatel,Ing.,Ha Phuong,Novotná,Brno,VIETNAMSKÝ,Ne
+1999,Soudní překladatel,Ing.,Ha Phuong,Novotná,Brno,VIETNAMSKÝ,Ano
 1992,Soudní překladatel,Mgr.,Eva,Čechová,Brno,NĚMECKÝ,Ne
 1996,Soudní překladatel,Ing.,Gediminas,Masteika,Hrušovany u Brna,LITEVSKÝ,Ano
 1994,Soudní překladatel,bez titulu,Martin,Linzer,Strážovice,NĚMECKÝ,Ne
@@ -1013,7 +1013,7 @@ Rok zápisu,Druh osoby,Titul,Jméno,Příjmení,Město,Jazyky,Zkouška vykonána
 2000,Soudní překladatel,PhDr.,Hana,Kallus,Brno,ANGLICKÝ,Ne
 1992,Soudní překladatel,PhDr.,Magda,Schulmeisterová,Brno,NĚMECKÝ,Ne
 1993,Soudní překladatel,Ing.,Hernán,Fernández,Brno,ŠPANĚLSKÝ,Ne
-1995,Soudní překladatel,Mgr.,Renata,Šilhánová,Vizovice,NĚMECKÝ,Ne
+1995,Soudní překladatel,Mgr.,Renata,Šilhánová,Vizovice,NĚMECKÝ,Ano
 1999,Soudní překladatel,Mgr.,Blanka,Vilasová,Brno,FRANCOUZSKÝ|ITALSKÝ,Ne
 1995,Soudní překladatel,Mgr.,Antonín Barend,Máčel,Pavlov,ANGLICKÝ|NĚMECKÝ|NIZOZEMSKÝ,Ne
 1992,Soudní překladatel,bez titulu,Hani,Baloush,Brno,ARABSKÝ,Ne
@@ -1051,7 +1051,7 @@ Rok zápisu,Druh osoby,Titul,Jméno,Příjmení,Město,Jazyky,Zkouška vykonána
 1998,Soudní překladatel,MVDr.,Zlatuše,Novotná,Brno,NĚMECKÝ,Ne
 2002,Soudní překladatel,Mgr.,Andrea,Palečková,Velká Bíteš,NĚMECKÝ,Ne
 1994,Soudní překladatel,Mgr.,Miloslav,Hambálek,Znojmo,RUSKÝ|NĚMECKÝ,Ne
-1992,Soudní překladatel,PhDr.,Alexandra,Kotoulková,Brno,ANGLICKÝ|RUSKÝ|NĚMECKÝ,Ne
+1992,Soudní překladatel,PhDr.,Alexandra,Kotoulková,Brno,NĚMECKÝ|ANGLICKÝ|RUSKÝ,Ne
 1992,Soudní překladatel,Mgr.,Renáta,Vídenská,Moravany,NĚMECKÝ,Ne
 2001,Soudní překladatel,bez titulu,Pavel,Rouča,Hrabětice,POLSKÝ,Ne
 2022,Soudní překladatel,bez titulu,NAILA,ALLAHVERDIYEVA,Kroměříž,AZERBAJDŽANSKÝ,Ano
@@ -1082,7 +1082,7 @@ Rok zápisu,Druh osoby,Titul,Jméno,Příjmení,Město,Jazyky,Zkouška vykonána
 2007,Soudní překladatel,Mgr.,Pavla,Nečasová,České Budějovice,NĚMECKÝ,Ano
 2007,Soudní tlumočník,Ing.,Kamila,Baloušková,České Budějovice,NĚMECKÝ,Ne
 2008,Soudní tlumočník,bez titulu,Minh Son,Nguyen,České Budějovice,VIETNAMSKÝ,Ne
-1994,Soudní tlumočník,PhDr.,Karel,Cejnar,Písek,NĚMECKÝ|RUSKÝ,Ne
+1994,Soudní tlumočník,PhDr.,Karel,Cejnar,Písek,RUSKÝ|NĚMECKÝ,Ano
 2008,Soudní tlumočník,bez titulu,Valéria,Kaiserová,České Budějovice,SLOVENSKÝ,Ne
 2001,Soudní tlumočník,Mgr.,Martina,Vomáčková,Písek,ANGLICKÝ,Ano
 2005,Soudní tlumočník,Mgr.,Marie,Valdová,Kardašova Řečice,NĚMECKÝ,Ne
@@ -1100,7 +1100,7 @@ Rok zápisu,Druh osoby,Titul,Jméno,Příjmení,Město,Jazyky,Zkouška vykonána
 1992,Soudní tlumočník,Ing.,Mária,Šalplachtová,České Budějovice,MAĎARSKÝ,Ne
 2003,Soudní tlumočník,bez titulu,Mariana,Grantová,Homole,ANGLICKÝ,Ne
 1996,Soudní tlumočník,DIETER,Hans Dieter,Arndt,České Budějovice,NĚMECKÝ,Ne
-1997,Soudní tlumočník,Mgr.,Hana,Smetanová,Tábor,RUSKÝ|NĚMECKÝ,Ne
+1997,Soudní tlumočník,Mgr.,Hana,Smetanová,Tábor,NĚMECKÝ|RUSKÝ,Ne
 2005,Soudní tlumočník,RSDr.,Jiří,Kotalík,Milevsko,NĚMECKÝ,Ne
 2005,Soudní tlumočník,Mag. phil.,Lenka,Šampalíková,Blatná,NĚMECKÝ,Ano
 1997,Soudní tlumočník,PaedDr.,Naděžda,Salmhoferová,Pelhřimov,NĚMECKÝ,Ne
@@ -1109,7 +1109,7 @@ Rok zápisu,Druh osoby,Titul,Jméno,Příjmení,Město,Jazyky,Zkouška vykonána
 1992,Soudní tlumočník,bez titulu,Alenka,Němcová,Tábor,NĚMECKÝ|ANGLICKÝ,Ne
 1995,Soudní tlumočník,Mgr.,Marie,Myšáková,Prachatice,NĚMECKÝ,Ne
 1994,Soudní tlumočník,JUDr.,Petra,Vaňková,České Budějovice,NĚMECKÝ,Ne
-1996,Soudní tlumočník,PhDr.,Marta,Vágnerová,Velešín,RUSKÝ,Ne
+1996,Soudní tlumočník,PhDr.,Marta,Vágnerová,Velešín,RUSKÝ,Ano
 1997,Soudní tlumočník,Mgr.,Dana,Šetinová,Vráto,NĚMECKÝ,Ano
 1993,Soudní tlumočník,Mgr.,Tadeusz,Mazurkiewicz,Tábor,POLSKÝ,Ne
 2004,Soudní tlumočník,Mgr.,Jarmila,Bártů,České Budějovice,NĚMECKÝ,Ne
@@ -1124,13 +1124,13 @@ Rok zápisu,Druh osoby,Titul,Jméno,Příjmení,Město,Jazyky,Zkouška vykonána
 2008,Soudní tlumočník,Mgr.,Lenka,Štěpánková,České Budějovice,ANGLICKÝ,Ne
 2008,Soudní tlumočník,Mgr.,Adéla,Kučerová,České Budějovice,NIZOZEMSKÝ,Ne
 2008,Soudní tlumočník,Mgr.,Hana,Oropeza Peňa Jandíková,České Budějovice,ŠPANĚLSKÝ,Ano
-1999,Soudní tlumočník,Ing.,Jana,Jechová,České Budějovice,RUSKÝ|UKRAJINSKÝ,Ne
+1999,Soudní tlumočník,Ing.,Jana,Jechová,Roudné,RUSKÝ|UKRAJINSKÝ,Ano
 2001,Soudní tlumočník,Mgr.,Markéta,Daňhová,České Budějovice,NĚMECKÝ,Ne
 2003,Soudní tlumočník,bez titulu,Ludmila,Korčaková,Trhové Sviny,ANGLICKÝ,Ne
 2016,Soudní tlumočník,bez titulu,Dinh Dung,Tran,Strakonice,VIETNAMSKÝ,Ne
 2016,Soudní tlumočník,bez titulu,THI HA,DANG,Vodňany,VIETNAMSKÝ,Ne
 2016,Soudní tlumočník,bez titulu,Van Manh,Dang,Vodňany,VIETNAMSKÝ,Ne
-2016,Soudní tlumočník,Ing.,Phuong Yen,Babinská Leová,Praha,VIETNAMSKÝ,Ne
+2016,Soudní tlumočník,Ing.,Phuong Yen,Babinská Leová,Praha,VIETNAMSKÝ,Ano
 2016,Soudní tlumočník,bez titulu,Petr,Wellemin,Slavče,NĚMECKÝ,Ne
 2016,Soudní tlumočník,bez titulu,Halina,Demeďuková,Včelná,RUSKÝ|UKRAJINSKÝ,Ne
 2016,Soudní tlumočník,Mgr.,Pavel,Šíp,České Budějovice,ŠPANĚLSKÝ,Ne
@@ -1154,7 +1154,7 @@ Rok zápisu,Druh osoby,Titul,Jméno,Příjmení,Město,Jazyky,Zkouška vykonána
 2018,Soudní tlumočník,Bc.,Šárka,Bendová,Hrdějovice,ANGLICKÝ,Ne
 2019,Soudní tlumočník,bez titulu,Zanzan,Liu,Český Krumlov,ČÍNSKÝ,Ne
 2019,Soudní tlumočník,Ing.,Hoang Long,Pham,Praha,VIETNAMSKÝ,Ne
-2020,Soudní tlumočník,Mgr.,Elena,Tomášková,Košice,RUSKÝ|UKRAJINSKÝ|NĚMECKÝ,Ne
+2020,Soudní tlumočník,Mgr.,Elena,Tomášková,Košice,NĚMECKÝ|RUSKÝ|UKRAJINSKÝ,Ne
 2020,Soudní tlumočník,Mgr.,Hana,Burešová,Třeboň,NĚMECKÝ|ANGLICKÝ,Ano
 2011,Soudní tlumočník,Mgr.,Alena,Čečetková,České Budějovice,NĚMECKÝ|ANGLICKÝ,Ano
 2011,Soudní překladatel,Mgr.,Alena,Jílková,Dubné,RUSKÝ|NĚMECKÝ,Ne
@@ -1167,11 +1167,10 @@ Rok zápisu,Druh osoby,Titul,Jméno,Příjmení,Město,Jazyky,Zkouška vykonána
 1994,Soudní tlumočník,Mgr.,Romana,Klaudy Zíková,Český Krumlov,ANGLICKÝ,Ano
 2018,Soudní tlumočník,bez titulu,Hoai Nam,Pham,Prachatice,VIETNAMSKÝ,Ne
 2011,Soudní tlumočník,PaedDr.,Marcela,Radová,Hluboká nad Vltavou,ANGLICKÝ,Ne
-1997,Soudní tlumočník,PhDr.,Andrej,Rády,Písek,FINSKÝ|SLOVENSKÝ,Ne
+1997,Soudní tlumočník,PhDr.,Andrej,Rády,Písek,SLOVENSKÝ|FINSKÝ,Ne
 2009,Soudní tlumočník,bez titulu,Petra,Najmanová,Písek,NĚMECKÝ,Ne
 2009,Soudní překladatel,Mgr.,Eva,Fichtnerová,České Budějovice,ANGLICKÝ|RUSKÝ,Ne
 2009,Soudní tlumočník,Mgr.,Petra,Lukešová,Strakonice,ITALSKÝ,Ne
-2010,Soudní tlumočník,Mgr.,Lucie,Melíšková,Hluboká nad Vltavou,ANGLICKÝ,Ne
 1996,Soudní tlumočník,bez titulu,Dinh Thien,Tran,Milevsko,VIETNAMSKÝ,Ne
 2010,Soudní tlumočník,Mgr. Bc.,Linda,Hanzlíková,České Budějovice,FRANCOUZSKÝ|ANGLICKÝ,Ano
 2009,Soudní tlumočník,Mgr.,Tereza,Chmelíková Počepická,Rodvínov,NĚMECKÝ,Ano
@@ -1180,7 +1179,7 @@ Rok zápisu,Druh osoby,Titul,Jméno,Příjmení,Město,Jazyky,Zkouška vykonána
 2014,Soudní tlumočník,Ing.,Viet Dung,Đinh,České Budějovice,VIETNAMSKÝ,Ne
 2014,Soudní tlumočník,bez titulu,Ivana,Pilná,Stráž nad Nežárkou,KOREJSKÝ,Ne
 2014,Soudní tlumočník,bez titulu,Renata,Procházková,Sezimovo Ústí,ANGLICKÝ,Ne
-2015,Soudní tlumočník,Mgr.,Martina,Podsedníková,Řípec,NĚMECKÝ,Ne
+2015,Soudní tlumočník,Mgr.,Martina,Brůžková,Řípec,NĚMECKÝ,Ne
 2012,Soudní tlumočník,BcA.,Zora,Jilečková,Prachatice,ANGLICKÝ,Ne
 2011,Soudní tlumočník,Mgr.,Natalija,Švihlová,České Budějovice,UKRAJINSKÝ|RUSKÝ,Ne
 2015,Soudní tlumočník,Mgr.,Simona,Fürstová,České Budějovice,NĚMECKÝ,Ano
@@ -1201,12 +1200,12 @@ Rok zápisu,Druh osoby,Titul,Jméno,Příjmení,Město,Jazyky,Zkouška vykonána
 1993,Soudní tlumočník,PaedDr.,Vladimíra,Šestauberová,Týn nad Vltavou,NĚMECKÝ,Ne
 1993,Soudní tlumočník,Mgr.,Jana,Bürgerová,Český Krumlov,NĚMECKÝ,Ne
 1995,Soudní tlumočník,bez titulu,Vladimír,Trojáček,Písek,NĚMECKÝ,Ne
-1993,Soudní překladatel,Ing.,Václav,Filip,Rudolfov,RUSKÝ|ANGLICKÝ,Ne
+1993,Soudní překladatel,Ing.,Václav,Filip,Rudolfov,RUSKÝ|ANGLICKÝ,Ano
 2003,Soudní tlumočník,Mgr.,Vlaďka,Pavlasová Kolářová,České Budějovice,NĚMECKÝ,Ne
 1997,Soudní tlumočník,Mgr.,Jan,Podráský,Dražice,ANGLICKÝ|NĚMECKÝ,Ne
 2003,Soudní tlumočník,Ing.,Michaela,Kudláčková,České Budějovice,ANGLICKÝ,Ne
-2000,Soudní tlumočník,MUDr.,Aleš,Chrdle,České Budějovice,ANGLICKÝ,Ne
-1993,Soudní tlumočník,Mgr.,Hana,Javůrková,Slavonice,NĚMECKÝ|RUSKÝ,Ne
+2000,Soudní tlumočník,MUDr.,Aleš,Chrdle,České Budějovice,ANGLICKÝ,Ano
+1993,Soudní tlumočník,Mgr.,Hana,Javůrková,Slavonice,RUSKÝ|NĚMECKÝ,Ne
 1993,Soudní tlumočník,Ing.,Cvetan,Cvetkov,České Budějovice,BULHARSKÝ,Ne
 1993,Soudní tlumočník,Mgr.,Pavla,Pegleyová,Prachatice,NĚMECKÝ,Ano
 1994,Soudní tlumočník,JUDr.,Karel,Škopek,České Budějovice,NĚMECKÝ,Ne
@@ -1221,7 +1220,7 @@ Rok zápisu,Druh osoby,Titul,Jméno,Příjmení,Město,Jazyky,Zkouška vykonána
 1992,Soudní tlumočník,Ing.,Jan,Kadlec,České Budějovice,NĚMECKÝ,Ne
 2001,Soudní tlumočník,bez titulu,František,Pouzar,České Budějovice,NĚMECKÝ,Ne
 1992,Soudní tlumočník,Ing.,Ivan,Drs,Tábor,ITALSKÝ,Ne
-1992,Soudní tlumočník,Mgr.,Dagmar,Bohdalová,Český Krumlov,RUSKÝ,Ne
+1992,Soudní tlumočník,Mgr.,Dagmar,Bohdalová,Český Krumlov,RUSKÝ,Ano
 1993,Soudní tlumočník,doc. PhDr.,Alena,Aigner,České Budějovice,NĚMECKÝ,Ne
 1999,Soudní tlumočník,Mgr.,Michaela,Procházková,České Budějovice,ITALSKÝ|NĚMECKÝ,Ano
 2003,Soudní tlumočník,Mgr.,Alena,Hrachová,Humpolec,NĚMECKÝ,Ne
@@ -1232,7 +1231,7 @@ Rok zápisu,Druh osoby,Titul,Jméno,Příjmení,Město,Jazyky,Zkouška vykonána
 1993,Soudní překladatel,Ing.,Svatoslav,Španvirt,České Budějovice,NĚMECKÝ|ANGLICKÝ,Ne
 1993,Soudní tlumočník,bez titulu,František,Ratschman,České Budějovice,SRBSKÝ|CHORVATSKÝ|BOSENSKÝ,Ne
 1995,Soudní tlumočník,bez titulu,Isabela,Šilhová,České Budějovice,NĚMECKÝ,Ne
-1992,Soudní tlumočník,PhDr.,Jitka,Vybíralová,Jindřichův Hradec,NĚMECKÝ,Ne
+1992,Soudní tlumočník,PhDr.,Jitka,Vybíralová,Jindřichův Hradec,NĚMECKÝ,Ano
 2001,Soudní tlumočník,Mgr.,Aleš,Stříbrský,Prachatice,NĚMECKÝ,Ne
 1997,Soudní tlumočník,PaedDr.,Marie,Váňová,Humpolec,NĚMECKÝ,Ne
 1994,Soudní tlumočník,Ing.,Vladimír,Kopecký,Tábor,NĚMECKÝ,Ne
@@ -1326,12 +1325,12 @@ Rok zápisu,Druh osoby,Titul,Jméno,Příjmení,Město,Jazyky,Zkouška vykonána
 1992,Soudní překladatel,Ing.,Jaroslav,Adamec,Týn nad Vltavou,NĚMECKÝ,Ne
 2006,Soudní překladatel,Mgr.,Marcela,Zusková,Písek,ŠPANĚLSKÝ|FRANCOUZSKÝ,Ano
 2006,Soudní překladatel,Mgr.,Zuzana,Mikešová,Loučovice,RUSKÝ,Ne
-2006,Soudní překladatel,Ing.,Jan,Pěkný,Netolice,ANGLICKÝ|NĚMECKÝ,Ne
+2006,Soudní překladatel,Ing.,Jan,Pěkný,Netolice,NĚMECKÝ|ANGLICKÝ,Ne
 2006,Soudní překladatel,Mgr.,Petra,Češková,Písek,UKRAJINSKÝ|RUSKÝ,Ano
 2007,Soudní překladatel,Mgr.,Kateřina,Lencová,Vlachovo Březí,ANGLICKÝ,Ne
 2006,Soudní překladatel,PhDr.,Zdeněk,Okůnek,Nová Včelnice,RUSKÝ,Ne
 2006,Soudní překladatel,bez titulu,Jiří,Heller,Hrdějovice,NĚMECKÝ,Ne
-1994,Soudní překladatel,PhDr.,Karel,Cejnar,Písek,RUSKÝ|NĚMECKÝ,Ne
+1994,Soudní překladatel,PhDr.,Karel,Cejnar,Písek,RUSKÝ|NĚMECKÝ,Ano
 2005,Soudní překladatel,Mgr.,Ivana,Reiterová,České Budějovice,ANGLICKÝ,Ano
 1992,Soudní překladatel,Ing.,Mária,Šalplachtová,České Budějovice,MAĎARSKÝ,Ne
 2003,Soudní překladatel,Ing.,Miroslava,Habartová,Strakonice,NĚMECKÝ,Ne
@@ -1347,19 +1346,19 @@ Rok zápisu,Druh osoby,Titul,Jméno,Příjmení,Město,Jazyky,Zkouška vykonána
 2005,Soudní překladatel,Mgr.,Marie,Valdová,Kardašova Řečice,NĚMECKÝ,Ne
 2007,Soudní překladatel,Ing.,Kamila,Baloušková,České Budějovice,NĚMECKÝ,Ne
 2001,Soudní překladatel,Mgr.,Martina,Vomáčková,Písek,FRANCOUZSKÝ|ANGLICKÝ,Ne
-1997,Soudní překladatel,Mgr.,Hana,Smetanová,Tábor,RUSKÝ|NĚMECKÝ,Ne
+1997,Soudní překladatel,Mgr.,Hana,Smetanová,Tábor,NĚMECKÝ|RUSKÝ,Ne
 1996,Soudní překladatel,DIETER,Hans Dieter,Arndt,České Budějovice,NĚMECKÝ,Ne
 2003,Soudní překladatel,bez titulu,Mariana,Grantová,Homole,ANGLICKÝ,Ne
 2020,Soudní překladatel,Mgr.,Hana,Burešová,Třeboň,NĚMECKÝ|ANGLICKÝ,Ano
 2019,Soudní překladatel,Ing.,Hoang Long,Pham,Praha,VIETNAMSKÝ,Ne
 2002,Soudní překladatel,Mgr.,Olga,Thámová,Český Krumlov,NĚMECKÝ,Ne
-2005,Soudní překladatel,Bc.,Michaela,Jodlová,Svatý Jan nad Malší,NĚMECKÝ|RUSKÝ,Ne
+2005,Soudní překladatel,Bc.,Michaela,Jodlová,Svatý Jan nad Malší,RUSKÝ|NĚMECKÝ,Ne
 1992,Soudní překladatel,PhDr.,Jan,Dressler,Zdíkov,NĚMECKÝ|ANGLICKÝ,Ano
 2007,Soudní překladatel,bez titulu,František,Dibitanzl,Vyšší Brod,NĚMECKÝ,Ne
 2007,Soudní překladatel,Mgr.,Kristýna,Pawlitschko,Strakonice,NĚMECKÝ,Ano
 2006,Soudní překladatel,Mgr.,Šárka,Straňáková,České Budějovice,NĚMECKÝ,Ne
 2000,Soudní překladatel,Ing.,Ctibor,Medek,Pelhřimov,POLSKÝ,Ne
-2016,Soudní překladatel,Ing.,Phuong Yen,Babinská Leová,Praha,VIETNAMSKÝ,Ne
+2016,Soudní překladatel,Ing.,Phuong Yen,Babinská Leová,Praha,VIETNAMSKÝ,Ano
 2016,Soudní překladatel,bez titulu,Petr,Wellemin,Slavče,NĚMECKÝ,Ne
 2016,Soudní překladatel,bez titulu,Halina,Demeďuková,Včelná,UKRAJINSKÝ|RUSKÝ,Ne
 2016,Soudní překladatel,Mgr.,Pavel,Šíp,České Budějovice,ŠPANĚLSKÝ,Ne
@@ -1381,7 +1380,7 @@ Rok zápisu,Druh osoby,Titul,Jméno,Příjmení,Město,Jazyky,Zkouška vykonána
 1997,Soudní překladatel,PaedDr.,Naděžda,Salmhoferová,Pelhřimov,NĚMECKÝ,Ne
 1996,Soudní překladatel,bez titulu,Eliška,Wallmüllerová,České Budějovice,NĚMECKÝ,Ne
 2008,Soudní překladatel,Mgr.,Klára,Koubová,Písek,ITALSKÝ,Ne
-1992,Soudní překladatel,bez titulu,Alenka,Němcová,Tábor,NĚMECKÝ|ANGLICKÝ,Ne
+1992,Soudní překladatel,bez titulu,Alenka,Němcová,Tábor,ANGLICKÝ|NĚMECKÝ,Ne
 1995,Soudní překladatel,Mgr.,Marie,Myšáková,Prachatice,NĚMECKÝ,Ne
 2008,Soudní překladatel,Mgr.,Hana,Oropeza Peňa Jandíková,České Budějovice,ŠPANĚLSKÝ,Ano
 2008,Soudní překladatel,Mgr.,Lenka,Štěpánková,České Budějovice,ANGLICKÝ,Ne
@@ -1400,11 +1399,11 @@ Rok zápisu,Druh osoby,Titul,Jméno,Příjmení,Město,Jazyky,Zkouška vykonána
 2011,Soudní překladatel,Mgr.,Natalija,Švihlová,České Budějovice,RUSKÝ|UKRAJINSKÝ,Ne
 2020,Soudní překladatel,Mgr.,Natalie,Didenko,České Budějovice,RUSKÝ|UKRAJINSKÝ|ANGLICKÝ,Ne
 2008,Soudní překladatel,Mgr.,Adéla,Kučerová,České Budějovice,NIZOZEMSKÝ,Ne
-1999,Soudní překladatel,Ing.,Jana,Jechová,České Budějovice,UKRAJINSKÝ|RUSKÝ,Ne
+1999,Soudní překladatel,Ing.,Jana,Jechová,Roudné,UKRAJINSKÝ|RUSKÝ,Ano
 2001,Soudní překladatel,Mgr.,Markéta,Daňhová,České Budějovice,NĚMECKÝ,Ne
 2003,Soudní překladatel,bez titulu,Ludmila,Korčaková,Trhové Sviny,ANGLICKÝ,Ne
 1994,Soudní překladatel,JUDr.,Petra,Vaňková,České Budějovice,NĚMECKÝ,Ne
-1996,Soudní překladatel,PhDr.,Marta,Vágnerová,Velešín,RUSKÝ,Ne
+1996,Soudní překladatel,PhDr.,Marta,Vágnerová,Velešín,RUSKÝ,Ano
 1997,Soudní překladatel,Mgr.,Dana,Šetinová,Vráto,NĚMECKÝ,Ano
 2012,Soudní překladatel,Mgr.,Benjamin,Phan,Týn nad Vltavou,ANGLICKÝ,Ne
 2012,Soudní překladatel,Mgr.,Lucia,Zemanová,České Budějovice,ANGLICKÝ,Ne
@@ -1414,7 +1413,7 @@ Rok zápisu,Druh osoby,Titul,Jméno,Příjmení,Město,Jazyky,Zkouška vykonána
 2014,Soudní překladatel,Ing.,Viet Dung,Đinh,České Budějovice,VIETNAMSKÝ,Ne
 2014,Soudní překladatel,bez titulu,Ivana,Pilná,Stráž nad Nežárkou,KOREJSKÝ,Ne
 2014,Soudní překladatel,bez titulu,Renata,Procházková,Sezimovo Ústí,ANGLICKÝ,Ne
-2015,Soudní překladatel,Mgr.,Martina,Podsedníková,Řípec,NĚMECKÝ,Ne
+2015,Soudní překladatel,Mgr.,Martina,Brůžková,Řípec,NĚMECKÝ,Ne
 2015,Soudní překladatel,Mgr.,Simona,Fürstová,České Budějovice,NĚMECKÝ,Ano
 1993,Soudní překladatel,Mgr.,Jana,Bürgerová,Český Krumlov,NĚMECKÝ,Ne
 1995,Soudní překladatel,bez titulu,Vladimír,Trojáček,Písek,NĚMECKÝ,Ne
@@ -1429,7 +1428,7 @@ Rok zápisu,Druh osoby,Titul,Jméno,Příjmení,Město,Jazyky,Zkouška vykonána
 2018,Soudní překladatel,Mgr.,Alexandra,Šípová,Bernartice,ANGLICKÝ,Ano
 2018,Soudní překladatel,Mgr.,Valentýna,Hubal,České Budějovice,RUSKÝ|UKRAJINSKÝ,Ne
 2018,Soudní překladatel,Ing.,Alexander,Bernshteyn,Borek,RUSKÝ,Ne
-2018,Soudní překladatel,bez titulu,Sladjana,Veselková,České Budějovice,SRBSKÝ|CHORVATSKÝ|ČERNOHORSKÝ|BOSENSKÝ,Ano
+2018,Soudní překladatel,bez titulu,Sladjana,Veselková,České Budějovice,BOSENSKÝ|SRBSKÝ|CHORVATSKÝ|ČERNOHORSKÝ,Ano
 2018,Soudní překladatel,Bc.,Šárka,Bendová,Hrdějovice,ANGLICKÝ,Ne
 1997,Soudní překladatel,PhDr.,Andrej,Rády,Písek,SLOVENSKÝ|FINSKÝ,Ne
 2011,Soudní překladatel,PaedDr.,Marcela,Radová,Hluboká nad Vltavou,ANGLICKÝ,Ne
@@ -1450,15 +1449,14 @@ Rok zápisu,Druh osoby,Titul,Jméno,Příjmení,Město,Jazyky,Zkouška vykonána
 2003,Soudní překladatel,bez titulu,Jitka,Branšovská,Hluboká nad Vltavou,ANGLICKÝ,Ne
 2009,Soudní překladatel,bez titulu,Petra,Najmanová,Písek,NĚMECKÝ,Ne
 2009,Soudní překladatel,Mgr.,Petra,Lukešová,Strakonice,ITALSKÝ,Ne
-2010,Soudní překladatel,Mgr.,Lucie,Melíšková,Hluboká nad Vltavou,ANGLICKÝ,Ne
 1996,Soudní překladatel,bez titulu,Dinh Thien,Tran,Milevsko,VIETNAMSKÝ,Ne
 2001,Soudní překladatel,Mgr.,Aleš,Stříbrský,Prachatice,NĚMECKÝ,Ne
 1997,Soudní překladatel,PaedDr.,Marie,Váňová,Humpolec,NĚMECKÝ,Ne
 1994,Soudní překladatel,Ing.,Vladimír,Kopecký,Tábor,NĚMECKÝ,Ne
 1993,Soudní překladatel,Ing.,Irena,Šefčíková,České Budějovice,NĚMECKÝ|ANGLICKÝ,Ne
-1992,Soudní překladatel,Mgr.,Dagmar,Bohdalová,Český Krumlov,RUSKÝ,Ne
+1992,Soudní překladatel,Mgr.,Dagmar,Bohdalová,Český Krumlov,RUSKÝ,Ano
 1993,Soudní překladatel,doc. PhDr.,Alena,Aigner,České Budějovice,NĚMECKÝ,Ne
-1999,Soudní překladatel,Mgr.,Michaela,Procházková,České Budějovice,NĚMECKÝ|ITALSKÝ,Ano
+1999,Soudní překladatel,Mgr.,Michaela,Procházková,České Budějovice,ITALSKÝ|NĚMECKÝ,Ano
 2003,Soudní překladatel,Mgr.,Alena,Hrachová,Humpolec,NĚMECKÝ,Ne
 1993,Soudní překladatel,PaedDr.,Vladimíra,Šestauberová,Týn nad Vltavou,NĚMECKÝ,Ne
 1993,Soudní překladatel,MUDr.,Eimad,Hanna,Kamenice nad Lipou,ARABSKÝ,Ne
@@ -1466,7 +1464,7 @@ Rok zápisu,Druh osoby,Titul,Jméno,Příjmení,Město,Jazyky,Zkouška vykonána
 2003,Soudní překladatel,Mgr.,Hana,Pašková,Milevsko,ANGLICKÝ,Ne
 1993,Soudní překladatel,bez titulu,František,Ratschman,České Budějovice,BOSENSKÝ|CHORVATSKÝ|SRBSKÝ,Ne
 1995,Soudní překladatel,bez titulu,Isabela,Šilhová,České Budějovice,NĚMECKÝ,Ne
-1992,Soudní překladatel,PhDr.,Jitka,Vybíralová,Jindřichův Hradec,NĚMECKÝ,Ne
+1992,Soudní překladatel,PhDr.,Jitka,Vybíralová,Jindřichův Hradec,NĚMECKÝ,Ano
 1993,Soudní překladatel,Ing.,Cvetan,Cvetkov,České Budějovice,BULHARSKÝ,Ne
 1993,Soudní překladatel,Mgr.,Pavla,Pegleyová,Prachatice,NĚMECKÝ,Ano
 1994,Soudní překladatel,JUDr.,Karel,Škopek,České Budějovice,NĚMECKÝ,Ne
@@ -1484,7 +1482,7 @@ Rok zápisu,Druh osoby,Titul,Jméno,Příjmení,Město,Jazyky,Zkouška vykonána
 2003,Soudní překladatel,Mgr.,Vlaďka,Pavlasová Kolářová,České Budějovice,NĚMECKÝ,Ne
 1997,Soudní překladatel,Mgr.,Jan,Podráský,Dražice,ANGLICKÝ|NĚMECKÝ,Ne
 2003,Soudní překladatel,Ing.,Michaela,Kudláčková,České Budějovice,ANGLICKÝ,Ne
-2000,Soudní překladatel,MUDr.,Aleš,Chrdle,České Budějovice,ANGLICKÝ,Ne
+2000,Soudní překladatel,MUDr.,Aleš,Chrdle,České Budějovice,ANGLICKÝ,Ano
 1993,Soudní překladatel,Mgr.,Hana,Javůrková,Slavonice,RUSKÝ|NĚMECKÝ,Ne
 1996,Soudní překladatel,Dr.,Anita,Pavlíčková,Kaplice,UKRAJINSKÝ|ŠPANĚLSKÝ|RUSKÝ,Ne
 1996,Soudní překladatel,PaedDr.,Zdeňka,Papáčková,České Budějovice,NĚMECKÝ,Ne
@@ -1573,10 +1571,10 @@ Rok zápisu,Druh osoby,Titul,Jméno,Příjmení,Město,Jazyky,Zkouška vykonána
 1995,Soudní tlumočník,bez titulu,Pavlína,Horníková,Přepeře,RUSKÝ|UKRAJINSKÝ,Ano
 2001,Soudní tlumočník,Ing.,Sanasar,Chanbekjan,Borohrádek,RUSKÝ|ARMÉNSKÝ,Ne
 1993,Soudní tlumočník,Mgr.,Marie,Pešková,Hradec Králové,RUSKÝ|ANGLICKÝ,Ano
-1995,Soudní tlumočník,Mgr.,Pavel,Štochl,Hradec Králové,ANGLICKÝ,Ne
+1995,Soudní tlumočník,Mgr.,Pavel,Štochl,Hradec Králové,ANGLICKÝ,Ano
 1997,Soudní tlumočník,Ing.,Valentin,Trenev,Pardubice,BULHARSKÝ,Ano
 1997,Soudní tlumočník,bez titulu,Petr,Šteffek,Vamberk,ANGLICKÝ,Ne
-1994,Soudní tlumočník,PhDr.,Jitka,Cvejnová,Rychnov nad Kněžnou,ŠPANĚLSKÝ|FRANCOUZSKÝ,Ano
+1994,Soudní tlumočník,PhDr.,Jitka,Cvejnová,Rychnov nad Kněžnou,FRANCOUZSKÝ|ŠPANĚLSKÝ,Ano
 1999,Soudní tlumočník,PhDr.,Hana,Kyralová,Praha,NĚMECKÝ,Ano
 2001,Soudní tlumočník,Ing.,Igor,Podivinský,Doksy,ANGLICKÝ,Ne
 1998,Soudní tlumočník,Mgr.,Jana,Tesařová,Pardubice,RUSKÝ|NĚMECKÝ,Ne
@@ -1591,7 +1589,7 @@ Rok zápisu,Druh osoby,Titul,Jméno,Příjmení,Město,Jazyky,Zkouška vykonána
 1998,Soudní tlumočník,bez titulu,Miroslav,Klepáček,Borovnice,RUMUNSKÝ,Ne
 1997,Soudní tlumočník,bez titulu,Renate,Cechová,Hradec Králové,NĚMECKÝ,Ano
 1994,Soudní tlumočník,bez titulu,Rudolf,Řehoř,Rudná,NĚMECKÝ,Ne
-1998,Soudní tlumočník,Mgr.,Radka,Filsak,Jičín,ITALSKÝ|FRANCOUZSKÝ,Ano
+1998,Soudní tlumočník,Mgr.,Radka,Filsak,Jičín,FRANCOUZSKÝ|ITALSKÝ,Ano
 1994,Soudní tlumočník,Mgr.,Hana,Formánková,Havlíčkův Brod,NĚMECKÝ,Ne
 1996,Soudní tlumočník,PhDr.,Jindřich,Kesner,Hradec Králové,RUSKÝ,Ano
 1995,Soudní tlumočník,PhDr.,Jindřich,Vojta,Semily,NĚMECKÝ,Ano
@@ -1603,9 +1601,9 @@ Rok zápisu,Druh osoby,Titul,Jméno,Příjmení,Město,Jazyky,Zkouška vykonána
 1996,Soudní tlumočník,JUDr.,Daniel,Novotný,Jičín,ANGLICKÝ,Ne
 2000,Soudní tlumočník,Mgr.,Lucie,Hůlková,Hradec Králové,ANGLICKÝ,Ano
 1996,Soudní tlumočník,Ing.,Viktor,Kořízek,Trutnov,NĚMECKÝ|ANGLICKÝ,Ne
-1999,Soudní tlumočník,Mgr.,Soňa,Nekvapilová,Ctětín,ANGLICKÝ|NĚMECKÝ,Ano
+1999,Soudní tlumočník,Mgr.,Soňa,Nekvapilová,Ctětín,NĚMECKÝ|ANGLICKÝ,Ano
 1992,Soudní tlumočník,bez titulu,Vlasta,Klímová,Rychnov nad Kněžnou,ANGLICKÝ,Ne
-1996,Soudní tlumočník,MUDr.,Vítězslav,Novohradský,Sezemice,UKRAJINSKÝ|RUSKÝ,Ne
+1996,Soudní tlumočník,MUDr.,Vítězslav,Novohradský,Sezemice,RUSKÝ|UKRAJINSKÝ,Ne
 1998,Soudní tlumočník,Mgr.,Petr,Borovička,Ústí nad Orlicí,ANGLICKÝ,Ano
 2003,Soudní tlumočník,Mgr.,Dmitrij,Pavlenko,Podhradí,RUSKÝ|UKRAJINSKÝ,Ano
 2000,Soudní tlumočník,Mgr.,Jitka,Nádvorníková,Vysoké Mýto,RUSKÝ|ANGLICKÝ,Ne
@@ -1639,7 +1637,7 @@ Rok zápisu,Druh osoby,Titul,Jméno,Příjmení,Město,Jazyky,Zkouška vykonána
 2013,Soudní tlumočník,Mgr.,Silvie,Oesterreicher,Týniště nad Orlicí,JAPONSKÝ|JAPONSKÝ,Ano
 2018,Soudní tlumočník,Mgr.,Sandra,Špačková,Hradec Králové,PORTUGALSKÝ,Ano
 2020,Soudní tlumočník,Mgr.,Lenka,Malinová,Havlíčkův Brod,ŠPANĚLSKÝ,Ne
-2020,Soudní tlumočník,Mgr. et Mgr.,Šárka,Valášková,Praha,ANGLICKÝ,Ne
+2020,Soudní tlumočník,Mgr. et Mgr.,Šárka,Valášková,Praha,ANGLICKÝ,Ano
 2020,Soudní tlumočník,bez titulu,Bukhbilegt,Erkhbayar,Havlíčkův Brod,MONGOLSKÝ,Ne
 2009,Soudní tlumočník,Ing.,Tsogzolmaa,Ailia,Pardubice,MONGOLSKÝ,Ne
 1994,Soudní tlumočník,Mgr.,Monika,Nováková,Javornice,RUSKÝ,Ne
@@ -1648,12 +1646,12 @@ Rok zápisu,Druh osoby,Titul,Jméno,Příjmení,Město,Jazyky,Zkouška vykonána
 2004,Soudní tlumočník,bez titulu,Ilona,Vávrová,Vysoké Mýto,UKRAJINSKÝ,Ne
 2004,Soudní tlumočník,Mgr.,Svitlana,Sazečková,Dolní Dvůr,UKRAJINSKÝ|UKRAJINSKÝ,Ano
 2004,Soudní tlumočník,bez titulu,Vyacheslav,Gulov,Pardubice,UKRAJINSKÝ,Ne
-2004,Soudní tlumočník,bez titulu,Jelena,Tomková,Pardubice,UKRAJINSKÝ|RUSKÝ,Ne
+2004,Soudní tlumočník,bez titulu,Jelena,Tomková,Pardubice,UKRAJINSKÝ|RUSKÝ,Ano
 2004,Soudní tlumočník,bez titulu,Anna,Linhartová,Hradec Králové,RUSKÝ|UKRAJINSKÝ,Ne
 2013,Soudní tlumočník,bez titulu,Viktorija,Tyvodarová,Litomyšl,UKRAJINSKÝ|RUSKÝ,Ano
 2013,Soudní tlumočník,Mgr.,Jiřina,Dvořáková,Náchod,RUSKÝ|UKRAJINSKÝ,Ne
 1994,Soudní tlumočník,PhDr.,Jan,Čapek,Jeníkovice,NĚMECKÝ,Ne
-2008,Soudní tlumočník,Mgr.,Roman,Grossman,Hradec Králové,SRBSKÝ|BOSENSKÝ,Ne
+2008,Soudní tlumočník,Mgr.,Roman,Grossman,Hradec Králové,BOSENSKÝ|SRBSKÝ,Ne
 2007,Soudní tlumočník,Mgr.,Lenka,Řehová,Trutnov,NIZOZEMSKÝ,Ne
 2007,Soudní tlumočník,Mgr.,Aleš,Kozár,Bukovka,SLOVINSKÝ,Ne
 2007,Soudní tlumočník,Mgr.,Valerie,Fibichová,Pardubice,ANGLICKÝ,Ano
@@ -1683,7 +1681,7 @@ Rok zápisu,Druh osoby,Titul,Jméno,Příjmení,Město,Jazyky,Zkouška vykonána
 2013,Soudní tlumočník,PhDr.,Hana,Zikmundová,Jičín,NĚMECKÝ,Ne
 1997,Soudní tlumočník,bez titulu,Ivana,Tomková,Kramolna,ITALSKÝ,Ne
 2001,Soudní tlumočník,Mgr.,Jaroslav,Bareš,Vrchlabí,ANGLICKÝ,Ne
-1998,Soudní tlumočník,Mgr.,Radka,Svobodová,Pardubice,ANGLICKÝ,Ne
+1998,Soudní tlumočník,Mgr.,Radka,Svobodová,Pardubice,ANGLICKÝ,Ano
 1998,Soudní tlumočník,PaedDr.,Vladimír,Macků,Jevíčko,NĚMECKÝ|RUSKÝ,Ne
 1997,Soudní tlumočník,PhDr.,Luděk,Sedlák,Věž,FRANCOUZSKÝ|RUSKÝ,Ne
 1997,Soudní tlumočník,Bc.,Louis André J,Petithan,Červený Kostelec,FRANCOUZSKÝ,Ne
@@ -1692,7 +1690,7 @@ Rok zápisu,Druh osoby,Titul,Jméno,Příjmení,Město,Jazyky,Zkouška vykonána
 1993,Soudní tlumočník,JUDr.,František,Loskot,Hradec Králové,NĚMECKÝ|FRANCOUZSKÝ,Ne
 1992,Soudní tlumočník,PaedDr.,Hana,Bastlová,Chrudim,RUSKÝ,Ne
 1997,Soudní tlumočník,B.A.,Jiří,Čihulka,Turnov,ANGLICKÝ,Ne
-1999,Soudní tlumočník,Mgr.,Ilona,Karaman,Jičín,UKRAJINSKÝ|RUSKÝ,Ano
+1999,Soudní tlumočník,Mgr.,Ilona,Karaman,Jičín,RUSKÝ|UKRAJINSKÝ,Ano
 1992,Soudní tlumočník,Ing.,Alena,Užachovová,Pardubice,RUSKÝ,Ne
 1996,Soudní tlumočník,Mgr.,Marie,Pozděnová,Radvanice,RUSKÝ,Ano
 1999,Soudní tlumočník,Mgr.,Monika,Krúpová,Třebechovice pod Orebem,ZNAKOVÝ JAZYK,Ne
@@ -1704,9 +1702,9 @@ Rok zápisu,Druh osoby,Titul,Jméno,Příjmení,Město,Jazyky,Zkouška vykonána
 2000,Soudní tlumočník,Mgr.,Lenka,Filová,Litomyšl,ŠPANĚLSKÝ,Ne
 1997,Soudní tlumočník,bez titulu,Irena,Hurdová,Vamberk,ŠPANĚLSKÝ,Ne
 1993,Soudní překladatel,PhDr.,Miluše,Malá,Trutnov,NĚMECKÝ|ANGLICKÝ,Ano
-1998,Soudní tlumočník,PaedDr.,Eva,Štěpová,Jičín,RUSKÝ|ANGLICKÝ,Ne
+1998,Soudní tlumočník,PaedDr.,Eva,Štěpová,Jičín,RUSKÝ|ANGLICKÝ,Ano
 1994,Soudní tlumočník,PhDr.,Miloslava,Jebavá,Jilemnice,ANGLICKÝ,Ne
-1992,Soudní tlumočník,Ing.,Ján,Sabo,Litomyšl,CHORVATSKÝ|SRBSKÝ,Ne
+1992,Soudní tlumočník,Ing.,Ján,Sabo,Litomyšl,SRBSKÝ|CHORVATSKÝ,Ne
 1994,Soudní tlumočník,PharmDr.,Lada,Petránková,Náchod,NĚMECKÝ,Ne
 1995,Soudní tlumočník,bez titulu,Tomáš,Matoušek,Hradec Králové,ANGLICKÝ,Ne
 1996,Soudní tlumočník,Ing.,Galina,Serďukova,Pardubice,UKRAJINSKÝ|RUSKÝ,Ne
@@ -1719,7 +1717,7 @@ Rok zápisu,Druh osoby,Titul,Jméno,Příjmení,Město,Jazyky,Zkouška vykonána
 1992,Soudní tlumočník,Ing.,Miroslav,Schovanec,Hradec Králové,RUSKÝ,Ne
 1995,Soudní překladatel,Ing.,Zdeňka,Kočí,Chrudim,ITALSKÝ,Ano
 1999,Soudní tlumočník,Mgr.,Lidija,Hubálková,Hradec Králové,ANGLICKÝ|JAPONSKÝ|RUSKÝ,Ne
-1994,Soudní tlumočník,Mgr.,Anna,Šnýdlová,Přibyslav,RUSKÝ|NĚMECKÝ,Ne
+1994,Soudní tlumočník,Mgr.,Anna,Šnýdlová,Přibyslav,NĚMECKÝ|RUSKÝ,Ne
 1995,Soudní tlumočník,bez titulu,Šárka,Sejfi,Chotěboř,RUSKÝ,Ne
 2000,Soudní tlumočník,Mgr.,Alena,Hašková,Pardubice,RUSKÝ,Ne
 1997,Soudní tlumočník,Ing.,Miroslav,Sýkora,Pardubice,ANGLICKÝ,Ne
@@ -1760,7 +1758,6 @@ Rok zápisu,Druh osoby,Titul,Jméno,Příjmení,Město,Jazyky,Zkouška vykonána
 1998,Soudní tlumočník,bez titulu,Cecylia Helena,Zárubová,Náchod,POLSKÝ,Ne
 1996,Soudní tlumočník,Mgr.,Albína,Farková,Hradec Králové,UKRAJINSKÝ|RUSKÝ,Ano
 2000,Soudní tlumočník,Ing.,Ivona,Runčíková,Jičín,SLOVENSKÝ,Ne
-1994,Soudní překladatel,Ing.,Pavel,Křivka,Pardubice,NĚMECKÝ|NIZOZEMSKÝ,Ne
 1994,Soudní překladatel,bez titulu,Ludmila,Daulová,Moravská Třebová,NĚMECKÝ,Ne
 1997,Soudní tlumočník,Mgr.,Karel,Volkmer,Svitavy,ANGLICKÝ,Ne
 1999,Soudní tlumočník,Ing.,Milena,Hálková,Hradec Králové,ANGLICKÝ,Ne
@@ -1774,7 +1771,7 @@ Rok zápisu,Druh osoby,Titul,Jméno,Příjmení,Město,Jazyky,Zkouška vykonána
 1996,Soudní tlumočník,bez titulu,Son,Thái,Nový Bydžov,VIETNAMSKÝ,Ne
 2000,Soudní tlumočník,bez titulu,Romana,Píchová,Čepí,NĚMECKÝ,Ne
 1994,Soudní tlumočník,Ing.,Rostislav,Exner,Havlíčkův Brod,RUSKÝ|ANGLICKÝ,Ne
-1995,Soudní tlumočník,bez titulu,Gabriela,Beckerová,Havlíčkův Brod,RUSKÝ|ANGLICKÝ,Ne
+1995,Soudní tlumočník,bez titulu,Gabriela,Beckerová,Havlíčkův Brod,ANGLICKÝ|RUSKÝ,Ne
 1996,Soudní tlumočník,bez titulu,Karel,Müller,Moravská Třebová,NĚMECKÝ,Ne
 1997,Soudní tlumočník,Mgr.,Hana,Mrázková,Pardubice,NĚMECKÝ,Ne
 1994,Soudní tlumočník,Mgr. PaedDr.,Jiří,Hrubeš,Chrudim,NĚMECKÝ,Ne
@@ -1797,7 +1794,7 @@ Rok zápisu,Druh osoby,Titul,Jméno,Příjmení,Město,Jazyky,Zkouška vykonána
 1994,Soudní překladatel,PhDr.,Jitka,Cvejnová,Rychnov nad Kněžnou,ŠPANĚLSKÝ|FRANCOUZSKÝ,Ano
 1997,Soudní překladatel,bez titulu,Petr,Šteffek,Vamberk,ANGLICKÝ,Ne
 1997,Soudní překladatel,Ing.,Valentin,Trenev,Pardubice,BULHARSKÝ,Ano
-1995,Soudní překladatel,Mgr.,Pavel,Štochl,Hradec Králové,ANGLICKÝ,Ne
+1995,Soudní překladatel,Mgr.,Pavel,Štochl,Hradec Králové,ANGLICKÝ,Ano
 1993,Soudní překladatel,Mgr.,Marie,Pešková,Hradec Králové,RUSKÝ|ANGLICKÝ,Ano
 1998,Soudní překladatel,PhDr.,Olga,Kovářová,Jičín,ANGLICKÝ,Ne
 1999,Soudní překladatel,Mgr.,Jana,Nejezchlebová,Pardubice,ANGLICKÝ|NĚMECKÝ,Ano
@@ -1814,7 +1811,7 @@ Rok zápisu,Druh osoby,Titul,Jméno,Příjmení,Město,Jazyky,Zkouška vykonána
 1992,Soudní překladatel,bez titulu,Vlasta,Klímová,Rychnov nad Kněžnou,ANGLICKÝ,Ne
 1999,Soudní překladatel,Mgr.,Soňa,Nekvapilová,Ctětín,ANGLICKÝ|NĚMECKÝ,Ano
 1996,Soudní překladatel,Ing.,Viktor,Kořízek,Trutnov,NĚMECKÝ|ANGLICKÝ,Ne
-2000,Soudní překladatel,Mgr.,Lucie,Hůlková,Hradec Králové,DÁNSKÝ|ANGLICKÝ,Ano
+2000,Soudní překladatel,Mgr.,Lucie,Hůlková,Hradec Králové,ANGLICKÝ|DÁNSKÝ,Ano
 1996,Soudní překladatel,JUDr.,Daniel,Novotný,Jičín,ANGLICKÝ,Ne
 1996,Soudní překladatel,Bc.,Robert,Pek,Hradec Králové,NĚMECKÝ,Ne
 2001,Soudní překladatel,Ing.,Igor,Podivinský,Doksy,ANGLICKÝ,Ne
@@ -1833,17 +1830,17 @@ Rok zápisu,Druh osoby,Titul,Jméno,Příjmení,Město,Jazyky,Zkouška vykonána
 2018,Soudní překladatel,bez titulu,Valentin,Dubnov,Dolní Čermná,RUSKÝ,Ne
 2000,Soudní překladatel,Ing.,Světlana,Hnilicová,Turnov,RUSKÝ,Ano
 1994,Soudní překladatel,bez titulu,IZABELA,PACANOVÁ,Trutnov,POLSKÝ,Ne
-1995,Soudní překladatel,bez titulu,Pavlína,Horníková,Přepeře,RUSKÝ|UKRAJINSKÝ,Ano
+1995,Soudní překladatel,bez titulu,Pavlína,Horníková,Přepeře,UKRAJINSKÝ|RUSKÝ,Ano
 1997,Soudní překladatel,Mgr.,Monika,Hradilová,Hradec Králové,NĚMECKÝ,Ano
 1999,Soudní překladatel,PhDr.,REINHARD,HOFFMANN,Polička,NĚMECKÝ,Ne
 1998,Soudní překladatel,Mgr.,Jana,Tesařová,Pardubice,RUSKÝ|NĚMECKÝ,Ne
 2013,Soudní překladatel,bez titulu,Viktorija,Tyvodarová,Litomyšl,UKRAJINSKÝ|RUSKÝ,Ano
-2013,Soudní překladatel,Mgr.,Jiřina,Dvořáková,Náchod,UKRAJINSKÝ|RUSKÝ,Ne
+2013,Soudní překladatel,Mgr.,Jiřina,Dvořáková,Náchod,RUSKÝ|UKRAJINSKÝ,Ne
 1994,Soudní překladatel,PhDr.,Jan,Čapek,Jeníkovice,NĚMECKÝ,Ne
 2013,Soudní překladatel,Mgr.,Silvie,Oesterreicher,Týniště nad Orlicí,JAPONSKÝ,Ano
 2018,Soudní překladatel,Mgr.,Sandra,Špačková,Hradec Králové,PORTUGALSKÝ,Ano
 2020,Soudní překladatel,Mgr.,Lenka,Malinová,Havlíčkův Brod,ŠPANĚLSKÝ,Ne
-2020,Soudní překladatel,Mgr. et Mgr.,Šárka,Valášková,Praha,ANGLICKÝ,Ne
+2020,Soudní překladatel,Mgr. et Mgr.,Šárka,Valášková,Praha,ANGLICKÝ,Ano
 2020,Soudní překladatel,bez titulu,Bukhbilegt,Erkhbayar,Havlíčkův Brod,MONGOLSKÝ,Ne
 2017,Soudní překladatel,Mgr.,Jaroslava,Benková,Hlušovice,ŠPANĚLSKÝ,Ne
 2018,Soudní překladatel,Mgr.,Radka,Kotrčová,Praha,ANGLICKÝ,Ne
@@ -1853,7 +1850,7 @@ Rok zápisu,Druh osoby,Titul,Jméno,Příjmení,Město,Jazyky,Zkouška vykonána
 2004,Soudní překladatel,bez titulu,Ilona,Vávrová,Vysoké Mýto,UKRAJINSKÝ,Ne
 2004,Soudní překladatel,Mgr.,Svitlana,Sazečková,Dolní Dvůr,UKRAJINSKÝ,Ano
 2004,Soudní překladatel,bez titulu,Vyacheslav,Gulov,Pardubice,UKRAJINSKÝ,Ne
-2004,Soudní překladatel,bez titulu,Jelena,Tomková,Pardubice,RUSKÝ|UKRAJINSKÝ,Ne
+2004,Soudní překladatel,bez titulu,Jelena,Tomková,Pardubice,RUSKÝ|UKRAJINSKÝ,Ano
 2004,Soudní překladatel,bez titulu,Anna,Linhartová,Hradec Králové,UKRAJINSKÝ|RUSKÝ,Ne
 2013,Soudní překladatel,RNDr.,Michal,Sygeryč,Pardubice,ANGLICKÝ,Ne
 2004,Soudní překladatel,dr.,Lada,Aldini,Luže,ITALSKÝ,Ne
@@ -1887,12 +1884,12 @@ Rok zápisu,Druh osoby,Titul,Jméno,Příjmení,Město,Jazyky,Zkouška vykonána
 1992,Soudní překladatel,Ing.,Alena,Užachovová,Pardubice,RUSKÝ,Ne
 1996,Soudní překladatel,Mgr.,Marie,Pozděnová,Radvanice,RUSKÝ,Ano
 1999,Soudní překladatel,Mgr.,Monika,Krúpová,Třebechovice pod Orebem,ZNAKOVÝ JAZYK,Ne
-1997,Soudní překladatel,Ing.,Ludmila,Klavdijenková,Nové Město nad Metují,UKRAJINSKÝ|RUSKÝ,Ne
+1997,Soudní překladatel,Ing.,Ludmila,Klavdijenková,Nové Město nad Metují,RUSKÝ|UKRAJINSKÝ,Ne
 1993,Soudní překladatel,bez titulu,Josef,Vodehnal,Dolní Lánov,ANGLICKÝ,Ne
 1999,Soudní překladatel,Mgr.,Jana,Hoffmann,Polička,NĚMECKÝ,Ne
 1997,Soudní překladatel,bez titulu,Ivana,Tomková,Kramolna,ITALSKÝ,Ne
 2001,Soudní překladatel,Mgr.,Jaroslav,Bareš,Vrchlabí,ANGLICKÝ,Ne
-1998,Soudní překladatel,Mgr.,Radka,Svobodová,Pardubice,ANGLICKÝ,Ne
+1998,Soudní překladatel,Mgr.,Radka,Svobodová,Pardubice,ANGLICKÝ,Ano
 1998,Soudní překladatel,PaedDr.,Vladimír,Macků,Jevíčko,RUSKÝ|NĚMECKÝ,Ne
 2005,Soudní překladatel,bez titulu,Karel,Redlich,Semily,ZNAKOVÝ JAZYK,Ne
 1994,Soudní překladatel,Mgr.,Marie,Sklářová,Dvůr Králové nad Labem,NĚMECKÝ,Ne
@@ -1907,7 +1904,7 @@ Rok zápisu,Druh osoby,Titul,Jméno,Příjmení,Město,Jazyky,Zkouška vykonána
 2011,Soudní překladatel,Mgr.,Irena,Fridrichová,Pardubice,ANGLICKÝ,Ne
 2005,Soudní překladatel,bez titulu,Olga,Přibylová,Pardubice,ANGLICKÝ,Ne
 2009,Soudní překladatel,Mgr.,Radka,Černá,Předměřice nad Labem,ANGLICKÝ,Ne
-2008,Soudní překladatel,Mgr.,Roman,Grossman,Hradec Králové,BOSENSKÝ|SRBSKÝ,Ne
+2008,Soudní překladatel,Mgr.,Roman,Grossman,Hradec Králové,SRBSKÝ|BOSENSKÝ,Ne
 2007,Soudní překladatel,Mgr.,Lenka,Řehová,Trutnov,NIZOZEMSKÝ,Ne
 2007,Soudní překladatel,Mgr.,Aleš,Kozár,Bukovka,SLOVINSKÝ,Ne
 2007,Soudní překladatel,Mgr.,Valerie,Fibichová,Pardubice,ANGLICKÝ,Ano
@@ -1938,9 +1935,9 @@ Rok zápisu,Druh osoby,Titul,Jméno,Příjmení,Město,Jazyky,Zkouška vykonána
 1994,Soudní překladatel,Ing.,Jana,Fischerová,Havlíčkův Brod,NĚMECKÝ,Ne
 1996,Soudní překladatel,doc. Mgr.,Boris,Iljuk,Jaroměř,UKRAJINSKÝ|RUSKÝ|FRANCOUZSKÝ,Ne
 1994,Soudní překladatel,bez titulu,Mirosława,Eliášová,Trutnov,POLSKÝ,Ne
-1994,Soudní překladatel,Ing.,Zuzana,Grégrová,Srch,NĚMECKÝ|SLOVENSKÝ,Ne
+1994,Soudní překladatel,Ing.,Zuzana,Grégrová,Srch,SLOVENSKÝ|NĚMECKÝ,Ne
 1997,Soudní překladatel,bez titulu,Irena,Hurdová,Vamberk,ŠPANĚLSKÝ,Ne
-1998,Soudní překladatel,PaedDr.,Eva,Štěpová,Jičín,RUSKÝ|ANGLICKÝ,Ne
+1998,Soudní překladatel,PaedDr.,Eva,Štěpová,Jičín,RUSKÝ|ANGLICKÝ,Ano
 1999,Soudní překladatel,Mgr.,Lidija,Hubálková,Hradec Králové,RUSKÝ|JAPONSKÝ|ANGLICKÝ,Ne
 1995,Soudní překladatel,bez titulu,Michal,Rufert,Hradec Králové,ANGLICKÝ,Ne
 1994,Soudní překladatel,PhDr.,Miloslava,Jebavá,Jilemnice,ANGLICKÝ,Ne
@@ -1954,7 +1951,7 @@ Rok zápisu,Druh osoby,Titul,Jméno,Příjmení,Město,Jazyky,Zkouška vykonána
 1994,Soudní překladatel,Ing.,Jiří,Kružík,Chrudim,NĚMECKÝ,Ne
 2000,Soudní překladatel,PaedDr.,Irena,Kodrlíková,Chrudim,RUSKÝ|ANGLICKÝ,Ne
 1998,Soudní překladatel,Mgr.,Eliška,Ducháčová,Česká Skalice,NĚMECKÝ,Ne
-1994,Soudní překladatel,PhDr.,Romana,Lišková,Hradec Králové,RUSKÝ|NĚMECKÝ,Ne
+1994,Soudní překladatel,PhDr.,Romana,Lišková,Hradec Králové,NĚMECKÝ|RUSKÝ,Ne
 1994,Soudní překladatel,bez titulu,Barbara,Kozáková,Trutnov,POLSKÝ,Ne
 2000,Soudní překladatel,Mgr.,Lenka,Filová,Litomyšl,ŠPANĚLSKÝ,Ne
 1992,Soudní překladatel,Ing.,Miroslav,Schovanec,Hradec Králové,RUSKÝ,Ne
@@ -1964,7 +1961,7 @@ Rok zápisu,Druh osoby,Titul,Jméno,Příjmení,Město,Jazyky,Zkouška vykonána
 1997,Soudní překladatel,Ing.,Miroslav,Sýkora,Pardubice,ANGLICKÝ,Ne
 1999,Soudní překladatel,bez titulu,Ildikó,Anovčínová,Hajnice,MAĎARSKÝ,Ne
 1994,Soudní překladatel,Ing.,Jana,Petrášková,Smiřice,NĚMECKÝ,Ne
-1992,Soudní překladatel,Mgr.,Marija,Vašatko,Ústí nad Orlicí,SRBSKÝ|RUSKÝ|CHORVATSKÝ,Ne
+1992,Soudní překladatel,Mgr.,Marija,Vašatko,Ústí nad Orlicí,CHORVATSKÝ|SRBSKÝ|RUSKÝ,Ne
 1996,Soudní překladatel,Ing.,Galina,Serďukova,Pardubice,UKRAJINSKÝ|RUSKÝ,Ne
 1994,Soudní překladatel,bez titulu,Jan,Moucha,Náchod,ANGLICKÝ,Ne
 1994,Soudní překladatel,Mgr. PaedDr.,Jiří,Hrubeš,Chrudim,NĚMECKÝ,Ne
@@ -2000,7 +1997,7 @@ Rok zápisu,Druh osoby,Titul,Jméno,Příjmení,Město,Jazyky,Zkouška vykonána
 2000,Soudní překladatel,bez titulu,Romana,Píchová,Čepí,NĚMECKÝ,Ne
 1995,Soudní překladatel,Ing.,Dušan,Müller,Pardubice,RUSKÝ,Ano
 1999,Soudní překladatel,bez titulu,Andrea,Šrůtová,Hradec Králové,ANGLICKÝ,Ne
-2001,Soudní překladatel,Mgr.,Jaromír,Žejdlík,Žamberk,NĚMECKÝ|RUSKÝ,Ne
+2001,Soudní překladatel,Mgr.,Jaromír,Žejdlík,Žamberk,RUSKÝ|NĚMECKÝ,Ne
 1998,Soudní překladatel,bez titulu,Cecylia Helena,Zárubová,Náchod,POLSKÝ,Ne
 2020,Soudní překladatel,Mgr.,Kamila,Vymětalová,Pardubice,NĚMECKÝ,Ano
 2010,Soudní tlumočník,Mgr.,Jana,Ďoubalová,Praha,ANGLICKÝ|FRANCOUZSKÝ,Ne
@@ -2026,7 +2023,7 @@ Rok zápisu,Druh osoby,Titul,Jméno,Příjmení,Město,Jazyky,Zkouška vykonána
 2005,Soudní tlumočník,Ing.,Minh Tu,Pham,Praha,VIETNAMSKÝ,Ne
 1997,Soudní tlumočník,RNDr.,Klára,Kašová,Praha,ANGLICKÝ,Ano
 2008,Soudní tlumočník,Mgr.,Michaela,Kupková,Praha,INDONÉSKÝ,Ne
-2011,Soudní tlumočník,bez titulu,Iveta,Kožíšková,Praha,MAĎARSKÝ,Ne
+2011,Soudní tlumočník,bez titulu,Iveta,Kožíšková,Praha,MAĎARSKÝ,Ano
 2011,Soudní tlumočník,bez titulu,Ondřej,Büchler,Praha,NĚMECKÝ,Ne
 2000,Soudní tlumočník,bez titulu,Van Mua,Do,Praha,VIETNAMSKÝ,Ne
 2012,Soudní tlumočník,Ing.,Binh,Smržová,Praha,VIETNAMSKÝ,Ne
@@ -2036,7 +2033,7 @@ Rok zápisu,Druh osoby,Titul,Jméno,Příjmení,Město,Jazyky,Zkouška vykonána
 2009,Soudní tlumočník,JUDr.,Iva,Podhorská,Praha,NĚMECKÝ,Ne
 2011,Soudní tlumočník,Mgr.,Milan,Skála,Praha,RUMUNSKÝ|UKRAJINSKÝ,Ne
 2011,Soudní tlumočník,Mgr.,Bagrat,Verdiyan,Praha,ARMÉNSKÝ|RUSKÝ,Ne
-2011,Soudní tlumočník,Ing.,Daler Kamilovič,Abdurachmanov,Praha,UZBECKÝ|TÁDŽICKÝ,Ne
+2011,Soudní tlumočník,Ing.,Daler Kamilovič,Abdurachmanov,Praha,TÁDŽICKÝ|UZBECKÝ,Ne
 2011,Soudní tlumočník,Mgr.,Věra,Bőhmová,Chýně,CHORVATSKÝ|SLOVINSKÝ|SRBSKÝ|BOSENSKÝ,Ne
 1992,Soudní tlumočník,PhDr.,Ladislav,Vobr,Praha,ANGLICKÝ,Ne
 2007,Soudní tlumočník,bez titulu,Michaela,Miričová,Praha,SRBSKÝ,Ne
@@ -2044,25 +2041,25 @@ Rok zápisu,Druh osoby,Titul,Jméno,Příjmení,Město,Jazyky,Zkouška vykonána
 2000,Soudní tlumočník,Mgr.,Sara,Petruška,Praha,NĚMECKÝ,Ne
 2008,Soudní tlumočník,Mgr.,Petra,Kulovaná,Praha,NĚMECKÝ,Ne
 2003,Soudní tlumočník,bez titulu,Mi Young,Park,Praha,ČÍNSKÝ|KOREJSKÝ,Ne
-2008,Soudní překladatel,Mgr.,Soňa,Marešová,Praha,ANGLICKÝ|NĚMECKÝ,Ano
+2008,Soudní překladatel,Mgr.,Soňa,Marešová,Praha,NĚMECKÝ|ANGLICKÝ,Ano
 1999,Soudní tlumočník,bez titulu,Oyuntulkhuur,Dookhuu,Praha,MONGOLSKÝ,Ne
 2014,Soudní tlumočník,Mgr.,Silvia,Hromádková,Praha,ANGLICKÝ|ANGLICKÝ,Ano
 1998,Soudní tlumočník,Mgr.,Tomáš,Erbs,Praha,ŠPANĚLSKÝ|ANGLICKÝ,Ano
 2013,Soudní tlumočník,Mgr.,Robert,Sochorec,Praha,ANGLICKÝ,Ano
 2013,Soudní tlumočník,Mgr.,Linda,Kaprová,Praha,ŠVÉDSKÝ,Ano
 2008,Soudní tlumočník,Mgr.,Lucie,Butcher,Praha,ANGLICKÝ,Ne
-2014,Soudní tlumočník,Mgr.,Radka,Nováková,Praha,SLOVINSKÝ|SRBSKÝ,Ne
+2014,Soudní tlumočník,Mgr.,Radka,Nováková,Praha,SLOVINSKÝ|SRBSKÝ,Ano
 2014,Soudní tlumočník,Mgr.,Slavěna,Brownová,Praha,ANGLICKÝ,Ne
 2010,Soudní tlumočník,RNDr.,Sodikjon,Kurbanov,Praha,UZBECKÝ|UZBECKÝ,Ano
 2009,Soudní tlumočník,Mgr.,Radka,Stará,Praha,ZNAKOVÝ JAZYK,Ano
-2013,Soudní tlumočník,Mgr.,Jakub,Jaroš,Praha,ANGLICKÝ|NĚMECKÝ,Ne
+2013,Soudní tlumočník,Mgr.,Jakub,Jaroš,Praha,NĚMECKÝ|ANGLICKÝ,Ne
 2007,Soudní tlumočník,Mgr.,Michal,Chuchút,Praha,NĚMECKÝ,Ano
 2010,Soudní tlumočník,Mgr.,Lenka,Martinková,Praha,NĚMECKÝ,Ano
 1992,Soudní tlumočník,Ing.,Jaromír,Janev,Praha,ARABSKÝ,Ne
 2012,Soudní tlumočník,Mgr.,Hau,Phamová,Praha,VIETNAMSKÝ,Ano
 2013,Soudní tlumočník,Mgr.,Blanka,Trojan Svobodová,Praha,ANGLICKÝ,Ne
 2013,Soudní tlumočník,bez titulu,Sabe,Amthor Soe,Praha,BARMSKÝ,Ne
-2013,Soudní tlumočník,Mgr.,Hana,Novotná,Praha,ANGLICKÝ,Ne
+2013,Soudní tlumočník,Mgr.,Hana,Novotná,Praha,ANGLICKÝ,Ano
 2013,Soudní tlumočník,Mgr.,Lilija,Grudina,Praha,UKRAJINSKÝ|RUSKÝ,Ano
 1999,Soudní tlumočník,Mgr.,Eva,Vyoralová,Praha,NĚMECKÝ,Ne
 1992,Soudní tlumočník,JUDr.,František,Němec,Praha,ŠPANĚLSKÝ,Ano
@@ -2079,9 +2076,8 @@ Rok zápisu,Druh osoby,Titul,Jméno,Příjmení,Město,Jazyky,Zkouška vykonána
 2007,Soudní tlumočník,bez titulu,Štěpánka,Neumannová,Praha,NĚMECKÝ|ANGLICKÝ,Ne
 2009,Soudní tlumočník,Bc.,Anna,Oniky,Praha,UKRAJINSKÝ|RUSKÝ,Ano
 1992,Soudní tlumočník,Ing. arch.,Nora,Martišková,Praha,ANGLICKÝ|NĚMECKÝ,Ne
-2007,Soudní tlumočník,Mgr.,Jakub,Pachinger,Praha,ČÍNSKÝ,Ne
 2005,Soudní překladatel,Mgr.,Martina,Šimůnková,Praha,ANGLICKÝ,Ne
-2008,Soudní tlumočník,RSDr.,Miroslav,Grossmann,Praha,RUSKÝ,Ne
+2008,Soudní tlumočník,RSDr.,Miroslav,Grossmann,Praha,RUSKÝ|RUSKÝ,Ano
 1998,Soudní tlumočník,Ing.,Kim Phung,Nguyen,Praha,VIETNAMSKÝ,Ne
 2008,Soudní tlumočník,Mgr.,Magda,Nováková Lindová,Praha,ANGLICKÝ|NĚMECKÝ,Ne
 2008,Soudní tlumočník,PhDr.,Emíra,Klementová,Praha,ARABSKÝ,Ne
@@ -2102,7 +2098,7 @@ Rok zápisu,Druh osoby,Titul,Jméno,Příjmení,Město,Jazyky,Zkouška vykonána
 2002,Soudní tlumočník,Mgr.,Světlana,Gross,Praha,ANGLICKÝ,Ne
 1992,Soudní tlumočník,Ing.,Jiří,Habersberger,Praha,ANGLICKÝ|NĚMECKÝ,Ne
 2000,Soudní tlumočník,Ing.,Alexander,Kutarňa,Praha,NĚMECKÝ|SLOVENSKÝ,Ne
-2001,Soudní překladatel,Mgr.,Magdalena,Pechová,Praha,RUSKÝ|ANGLICKÝ,Ne
+2001,Soudní překladatel,Mgr.,Magdalena,Pechová,Praha,RUSKÝ|ANGLICKÝ,Ano
 1998,Soudní tlumočník,bez titulu,Tolga,Alačam,Praha,TURECKÝ,Ano
 1997,Soudní tlumočník,Mgr.,Lucie,Bransten,Praha,ANGLICKÝ|NĚMECKÝ|RUSKÝ,Ano
 1998,Soudní tlumočník,Mgr.,Renáta,Růžková,Libice nad Cidlinou,NĚMECKÝ,Ano
@@ -2152,14 +2148,13 @@ Rok zápisu,Druh osoby,Titul,Jméno,Příjmení,Město,Jazyky,Zkouška vykonána
 1996,Soudní tlumočník,Mgr.,Hana,Majerová,Praha,FRANCOUZSKÝ,Ne
 2020,Soudní překladatel,Mgr.,Radka,Hálová,Praha,ANGLICKÝ,Ano
 2016,Soudní překladatel,Mgr.,Jana,Palečková,Praha,SLOVENSKÝ,Ano
-2011,Soudní tlumočník,Mgr.,Ivona,Černohausová,Praha,DÁNSKÝ|ANGLICKÝ,Ano
+2011,Soudní tlumočník,Mgr.,Ivona,Černohausová,Praha,ANGLICKÝ|DÁNSKÝ,Ano
 2013,Soudní tlumočník,Mgr. Bc.,Marija,Kmošková,Praha,BULHARSKÝ,Ne
 2016,Soudní tlumočník,bez titulu,Thu Huong,Tran Thi,Praha,VIETNAMSKÝ,Ne
 2020,Soudní tlumočník,Ing. et Ing.,Štěpán,Polák,Praha,NĚMECKÝ,Ne
-2011,Soudní tlumočník,Mgr.,Monika,Čevelová,Praha,RUSKÝ,Ne
 2012,Soudní tlumočník,Mgr.,Jurij,Mirošničenko,Praha,RUSKÝ|UKRAJINSKÝ,Ne
 2006,Soudní tlumočník,Ing.,Son Lam,Giang,Praha,VIETNAMSKÝ,Ne
-2019,Soudní tlumočník,Mgr.,Milena,Fučíková,Praha,FRANCOUZSKÝ|NĚMECKÝ,Ne
+2019,Soudní tlumočník,Mgr.,Milena,Fučíková,Dobřichovice,FRANCOUZSKÝ|NĚMECKÝ,Ne
 1996,Soudní tlumočník,Ing.,Van Tuan,Vu,Praha,VIETNAMSKÝ,Ne
 2006,Soudní tlumočník,Mgr.,Libuše,Kovářová,Praha,ŠPANĚLSKÝ,Ne
 2012,Soudní tlumočník,Mgr.,Markéta,Braik,Praha,NĚMECKÝ,Ne
@@ -2185,7 +2180,7 @@ Rok zápisu,Druh osoby,Titul,Jméno,Příjmení,Město,Jazyky,Zkouška vykonána
 2001,Soudní tlumočník,bez titulu,Svatoslav,Ščyhol,Praha,RUSKÝ|UKRAJINSKÝ,Ano
 2022,Soudní tlumočník,Mgr.,Bubulina,Spanosová,Praha,ŘECKÝ,Ano
 2022,Soudní tlumočník,Mgr.,Štěpán,Nekut,Praha,NĚMECKÝ,Ano
-2015,Soudní tlumočník,Mgr.,Ina,Maertens,Praha,RUSKÝ|ANGLICKÝ,Ano
+2015,Soudní tlumočník,Mgr.,Ina,Maertens,Nymburk,RUSKÝ|ANGLICKÝ,Ano
 2022,Soudní tlumočník,Mgr.,Helena,Poněšická,Praha,FRANCOUZSKÝ,Ano
 2021,Soudní překladatel,Ing.,Tereza,Adams,Praha,ANGLICKÝ,Ne
 2020,Soudní tlumočník,Mgr.,Sergo,Matkava,Praha,GRUZÍNSKÝ,Ne
@@ -2200,7 +2195,7 @@ Rok zápisu,Druh osoby,Titul,Jméno,Příjmení,Město,Jazyky,Zkouška vykonána
 2021,Soudní tlumočník,Mgr.,Quynh Nga,Ngo,Praha,VIETNAMSKÝ,Ano
 2021,Soudní překladatel,Mgr.,Nicola,Zichová,Praha,ANGLICKÝ,Ne
 2021,Soudní tlumočník,Ing.,Valentina,Vonderková,Praha,RUSKÝ|RUSKÝ,Ano
-2010,Soudní tlumočník,Mgr. et Mgr.,Karolina,Juráková,Praha,RUMUNSKÝ|ŠPANĚLSKÝ|RUSKÝ,Ano
+2010,Soudní tlumočník,Mgr. et Mgr.,Karolina,Juráková,Praha,ŠPANĚLSKÝ|RUSKÝ|RUMUNSKÝ,Ano
 2019,Soudní tlumočník,Mgr.,Libor,Nenutil,Praha,FRANCOUZSKÝ|ANGLICKÝ,Ano
 2018,Soudní tlumočník,bez titulu,Duc Hiep,Nguyen,Praha,VIETNAMSKÝ,Ne
 1994,Soudní překladatel,Mgr.,Věra,Dvořáková,Praha,RUSKÝ|ANGLICKÝ,Ano
@@ -2220,9 +2215,9 @@ Rok zápisu,Druh osoby,Titul,Jméno,Příjmení,Město,Jazyky,Zkouška vykonána
 2016,Soudní tlumočník,Mgr.,Hana,Košťálová,Praha,RUSKÝ,Ne
 2016,Soudní tlumočník,Mgr. Ing.,Alexandr,Tichonov,Praha,RUSKÝ|BĚLORUSKÝ,Ano
 2016,Soudní tlumočník,Mgr.,Michaela,Rybáková,Praha,ANGLICKÝ,Ano
-2016,Soudní tlumočník,PhDr.,Ilona,Podolyan,Praha,UKRAJINSKÝ|RUSKÝ|ANGLICKÝ,Ano
-2016,Soudní tlumočník,Mgr.,Hanna Maria,Marciniak,Praha,POLSKÝ,Ne
-2013,Soudní tlumočník,Mgr.,Robert,Forberger,Postřekov,NĚMECKÝ|ANGLICKÝ,Ne
+2016,Soudní tlumočník,PhDr.,Ilona,Podolyan,Praha,RUSKÝ|ANGLICKÝ|UKRAJINSKÝ,Ano
+2016,Soudní tlumočník,Mgr.,Hanna Maria,Marciniak,Praha,POLSKÝ,Ano
+2013,Soudní tlumočník,Mgr.,Robert,Forberger,Postřekov,ANGLICKÝ|NĚMECKÝ,Ne
 2011,Soudní překladatel,Mgr.,Lucie,Bervidová,Praha,ANGLICKÝ|RUSKÝ,Ano
 2004,Soudní tlumočník,PaedDr.,Kamila,Exnerová,Praha,NĚMECKÝ,Ne
 2015,Soudní tlumočník,Mgr.,Taťjana,Michaljova,Praha,RUSKÝ,Ano
@@ -2253,7 +2248,7 @@ Rok zápisu,Druh osoby,Titul,Jméno,Příjmení,Město,Jazyky,Zkouška vykonána
 2015,Soudní tlumočník,PhDr.,Eva,Klímová,Praha,ITALSKÝ|POLSKÝ|FRANCOUZSKÝ,Ano
 2012,Soudní tlumočník,Mgr.,Julie,Lukaštíková,Praha,PORTUGALSKÝ,Ano
 2016,Soudní překladatel,Mgr.,Eva,Jezberová,Praha,FRANCOUZSKÝ|ANGLICKÝ,Ano
-2009,Soudní tlumočník,Mgr.,Vlasta,Mosciatti,Praha,MAĎARSKÝ|ŠPANĚLSKÝ,Ne
+2009,Soudní tlumočník,Mgr.,Vlasta,Mosciatti,Praha,ŠPANĚLSKÝ|MAĎARSKÝ,Ne
 2019,Soudní tlumočník,Ing.,Filip,Pšenička,Praha,RUSKÝ,Ne
 2006,Soudní tlumočník,Mgr.,Marta,Chýlová,Praha,NĚMECKÝ,Ne
 1994,Soudní tlumočník,bez titulu,Tomáš,Lorenc,Praha,FRANCOUZSKÝ,Ne
@@ -2276,7 +2271,7 @@ Rok zápisu,Druh osoby,Titul,Jméno,Příjmení,Město,Jazyky,Zkouška vykonána
 2022,Soudní tlumočník,Ing.,Eva,Axmanová,Praha,RUSKÝ,Ano
 2017,Soudní tlumočník,Mgr. et Mgr.,Kateřina,Židkova,Praha,RUSKÝ|NĚMECKÝ,Ano
 2017,Soudní tlumočník,Mgr.,Štěpán,Pavlík,Praha,ČÍNSKÝ,Ne
-2017,Soudní tlumočník,Ing.,Vladimír,Hulpach,Praha,ANGLICKÝ,Ne
+2017,Soudní tlumočník,Ing.,Vladimír,Hulpach,Praha,ANGLICKÝ,Ano
 2014,Soudní tlumočník,Mgr.,Veronika,Šatánková,Praha,FRANCOUZSKÝ,Ne
 2009,Soudní tlumočník,Mgr.,Lucie,Aparicio,Praha,ANGLICKÝ|ŠPANĚLSKÝ,Ne
 2017,Soudní tlumočník,Mgr.,Jana,Vymazalová,Praha,NĚMECKÝ,Ano
@@ -2351,7 +2346,7 @@ Rok zápisu,Druh osoby,Titul,Jméno,Příjmení,Město,Jazyky,Zkouška vykonána
 1991,Soudní tlumočník,bez titulu,Jiřina,Matoušková,Praha,ANGLICKÝ,Ne
 1996,Soudní tlumočník,bez titulu,Iivi,Zajedova,Praha,ESTONSKÝ|ANGLICKÝ|RUSKÝ,Ne
 1993,Soudní tlumočník,PhDr.,Klára,Bojarová,Praha,FRANCOUZSKÝ,Ne
-2001,Soudní tlumočník,Mgr.,Eduard,Bartek,Praha,SRBSKÝ|ČERNOHORSKÝ|BOSENSKÝ|CHORVATSKÝ,Ano
+2001,Soudní tlumočník,Mgr.,Eduard,Bartek,Praha,ČERNOHORSKÝ|BOSENSKÝ|CHORVATSKÝ|SRBSKÝ,Ano
 1997,Soudní tlumočník,JUDr.,Milada,Sigmundová,Praha,NĚMECKÝ|ANGLICKÝ,Ne
 1991,Soudní tlumočník,PhDr.,Zinaida,Ayoubová,Praha,ARABSKÝ,Ne
 2002,Soudní tlumočník,Ing.,VAN QUANG,TRAN,Praha,VIETNAMSKÝ,Ne
@@ -2369,7 +2364,7 @@ Rok zápisu,Druh osoby,Titul,Jméno,Příjmení,Město,Jazyky,Zkouška vykonána
 1991,Soudní tlumočník,RNDr.,Luboš,Žufan,Praha,RUSKÝ,Ne
 1994,Soudní tlumočník,bez titulu,Stanislav,Čejka,Praha,POLSKÝ,Ne
 1991,Soudní tlumočník,Mgr.,Pavlína,Klofáčová,Praha,NĚMECKÝ,Ano
-1991,Soudní tlumočník,PhDr.,Zbyněk,Pačes,Praha,FRANCOUZSKÝ|POLSKÝ|RUSKÝ,Ne
+1991,Soudní tlumočník,PhDr.,Zbyněk,Pačes,Praha,POLSKÝ|RUSKÝ|FRANCOUZSKÝ,Ne
 1997,Soudní tlumočník,Mgr.,Michal,Laštovička,Praha,RUSKÝ,Ne
 1993,Soudní tlumočník,Mgr.,Ondřej,Staněk,Praha,NĚMECKÝ,Ne
 1995,Soudní tlumočník,Ing.,Inna,Boke,Praha,RUSKÝ,Ne
@@ -2400,9 +2395,9 @@ Rok zápisu,Druh osoby,Titul,Jméno,Příjmení,Město,Jazyky,Zkouška vykonána
 1996,Soudní tlumočník,Mgr.,Daniela,Krolupperová,Praha,NORSKÝ,Ne
 2000,Soudní překladatel,bez titulu,Minh,Nguyen,Praha,VIETNAMSKÝ,Ne
 1996,Soudní tlumočník,Ing.,Jarmila,Efendičová,Praha,ČERNOHORSKÝ|CHORVATSKÝ|SRBSKÝ|BOSENSKÝ,Ne
-1991,Soudní tlumočník,Mgr.,Milena,Roháčová,Praha,BOSENSKÝ|SRBSKÝ|CHORVATSKÝ|ČERNOHORSKÝ,Ne
+1991,Soudní tlumočník,Mgr.,Milena,Roháčová,Praha,BOSENSKÝ|BOSENSKÝ|ČERNOHORSKÝ|ČERNOHORSKÝ|CHORVATSKÝ|CHORVATSKÝ|SRBSKÝ|SRBSKÝ,Ano
 2002,Soudní tlumočník,MARIA,Lala Maria,Rakotomaniraka,Praha,MALGAŠSKÝ,Ne
-1992,Soudní tlumočník,bez titulu,Zuzana,Churanová,Praha,ŠPANĚLSKÝ,Ne
+1992,Soudní tlumočník,Mgr.,Zuzana,Churanová,Praha,ŠPANĚLSKÝ,Ne
 2002,Soudní tlumočník,Mgr.,Miwa,Oi,Praha,JAPONSKÝ,Ano
 1995,Soudní tlumočník,bez titulu,Jarmila,Charfreitagová,Praha,NORSKÝ,Ne
 1992,Soudní tlumočník,Ing.,Josef,Konečný,Praha,ANGLICKÝ,Ne
@@ -2410,7 +2405,7 @@ Rok zápisu,Druh osoby,Titul,Jméno,Příjmení,Město,Jazyky,Zkouška vykonána
 2001,Soudní tlumočník,Mgr.,Veronika,Kapišovská,Praha,MONGOLSKÝ|RUSKÝ|SLOVENSKÝ,Ne
 1994,Soudní tlumočník,Mgr.,Marcela,Koutská,Praha,ČERNOHORSKÝ|CHORVATSKÝ|SRBSKÝ|BOSENSKÝ,Ne
 2001,Soudní tlumočník,Mgr.,Markéta,Frank,Praha,NĚMECKÝ,Ano
-1991,Soudní tlumočník,Mgr.,Ruben,Pellar,Praha,RÓMSKÝ|NIZOZEMSKÝ,Ne
+1991,Soudní tlumočník,Mgr.,Ruben,Pellar,Praha,NIZOZEMSKÝ|RÓMSKÝ,Ne
 2000,Soudní tlumočník,PhDr.,Milena,Macková,Praha,ITALSKÝ|ITALSKÝ,Ano
 2001,Soudní tlumočník,JUDr. Mgr.,Jana,Lelková Schovancová,Praha,ŠPANĚLSKÝ,Ano
 1991,Soudní tlumočník,Ing.,Petr,Levý,Praha,RUSKÝ,Ano
@@ -2425,12 +2420,12 @@ Rok zápisu,Druh osoby,Titul,Jméno,Příjmení,Město,Jazyky,Zkouška vykonána
 2000,Soudní tlumočník,Mgr.,Monika,Masařová,Praha,NĚMECKÝ,Ano
 1998,Soudní tlumočník,Mgr.,Ira,Arshakyan,Praha,ARMÉNSKÝ|ANGLICKÝ|RUSKÝ,Ne
 2005,Soudní tlumočník,Mgr.,Jan,Mauric,Praha,NĚMECKÝ,Ano
-2005,Soudní tlumočník,Mgr.,Hana,Topercerová,Říčany,ANGLICKÝ|NĚMECKÝ,Ano
+2005,Soudní tlumočník,Mgr.,Hana,Topercerová,Říčany,NĚMECKÝ|ANGLICKÝ,Ano
 2005,Soudní tlumočník,PhDr.,Šárka,Stellner,Praha,NĚMECKÝ,Ne
 2005,Soudní tlumočník,Mgr.,Robert,Procházka,Praha,NĚMECKÝ,Ne
 2004,Soudní tlumočník,PaedDr.,Jiří,Kokeš,Praha,NĚMECKÝ,Ne
 2004,Soudní tlumočník,Mgr.,Jitka,Piňosová,Praha,NĚMECKÝ,Ne
-2004,Soudní tlumočník,Ing.,Věra,Šťovíčková,Praha,SRBSKÝ|ČERNOHORSKÝ|BOSENSKÝ,Ne
+2004,Soudní tlumočník,Ing.,Věra,Šťovíčková,Praha,ČERNOHORSKÝ|BOSENSKÝ|SRBSKÝ,Ne
 2004,Soudní tlumočník,Mgr.,Karel,Jirásek,Praha,CHORVATSKÝ,Ne
 2003,Soudní tlumočník,Mgr.,Daniela,Zůnová,Praha,FRANCOUZSKÝ,Ne
 2003,Soudní tlumočník,bez titulu,Eva,Tůmová,Praha,SLOVENSKÝ,Ne
@@ -2512,7 +2507,7 @@ Rok zápisu,Druh osoby,Titul,Jméno,Příjmení,Město,Jazyky,Zkouška vykonána
 1997,Soudní tlumočník,Ing.,Ingrid,Mrázová,Praha,SLOVENSKÝ,Ne
 1991,Soudní tlumočník,bez titulu,Hana,Fialová,Praha,ITALSKÝ,Ano
 2002,Soudní tlumočník,Ing.,Vladimír,Šulc,Praha,ANGLICKÝ|RUSKÝ,Ne
-1991,Soudní tlumočník,PhDr.,Jiří,Šíma,Praha,MONGOLSKÝ|ČÍNSKÝ,Ne
+1991,Soudní tlumočník,PhDr.,Jiří,Šíma,Praha,ČÍNSKÝ|MONGOLSKÝ,Ne
 1994,Soudní tlumočník,bez titulu,Mervyn,Sterneck,Praha,NĚMECKÝ,Ano
 2002,Soudní tlumočník,Mgr.,Simona,Doniniová,Klecany,LATINSKÝ|ITALSKÝ,Ne
 2000,Soudní tlumočník,bez titulu,Kestrina,Peza,Praha,ALBÁNSKÝ,Ano
@@ -2548,7 +2543,7 @@ Rok zápisu,Druh osoby,Titul,Jméno,Příjmení,Město,Jazyky,Zkouška vykonána
 1995,Soudní tlumočník,MUDr.,Olga,Kaucká Kroftová,Praha,ANGLICKÝ,Ne
 1997,Soudní tlumočník,Mgr.,Michaela,Romanová,Praha,NĚMECKÝ,Ano
 2000,Soudní tlumočník,Ing.,Ivana,Jasanská,Praha,RUSKÝ,Ano
-1998,Soudní tlumočník,PhDr.,Jana,Hořejší,Velké Přílepy,RUSKÝ|FRANCOUZSKÝ,Ne
+1998,Soudní tlumočník,PhDr.,Jana,Hořejší,Velké Přílepy,FRANCOUZSKÝ|RUSKÝ,Ne
 1992,Soudní tlumočník,PhDr.,Jaroslava,Jindrová,Praha,PORTUGALSKÝ,Ne
 1996,Soudní tlumočník,PhDr.,Lada,Weissová,Praha,PORTUGALSKÝ,Ano
 2001,Soudní tlumočník,JUDr.,Tomáš,Linhart,Praha,NĚMECKÝ,Ne
@@ -2558,7 +2553,7 @@ Rok zápisu,Druh osoby,Titul,Jméno,Příjmení,Město,Jazyky,Zkouška vykonána
 1994,Soudní tlumočník,Ing.,Wlodzimierz Kazimierz,Krajewski,Praha,POLSKÝ,Ano
 1993,Soudní tlumočník,PhDr.,Khaled,Abu Dayeh,Praha,ARABSKÝ,Ne
 2012,Soudní překladatel,JUDr.,Thomas,Britz,Líbeznice,ANGLICKÝ|NĚMECKÝ|ŠPANĚLSKÝ|UKRAJINSKÝ|RUSKÝ,Ano
-2004,Soudní překladatel,Mgr.,Ludmila,Baskakova,Praha,UKRAJINSKÝ|ANGLICKÝ|RUSKÝ,Ano
+2004,Soudní překladatel,Mgr.,Ludmila,Baskakova,Praha,RUSKÝ|UKRAJINSKÝ|ANGLICKÝ,Ano
 2010,Soudní překladatel,Mgr.,Stanislava,Karaarslan,Praha,TURECKÝ,Ano
 2009,Soudní překladatel,bez titulu,Duc Kien,Dinh,Praha,VIETNAMSKÝ,Ne
 2012,Soudní překladatel,PhDr.,Drahomíra,Roubalová,Praha,ČÍNSKÝ,Ne
@@ -2582,7 +2577,7 @@ Rok zápisu,Druh osoby,Titul,Jméno,Příjmení,Město,Jazyky,Zkouška vykonána
 2007,Soudní překladatel,bez titulu,Michaela,Miričová,Praha,SRBSKÝ,Ne
 2008,Soudní překladatel,Mgr.,Michaela,Kupková,Praha,INDONÉSKÝ,Ne
 2007,Soudní překladatel,Mgr.,Michal,Chuchút,Praha,NĚMECKÝ,Ano
-2011,Soudní překladatel,bez titulu,Iveta,Kožíšková,Praha,MAĎARSKÝ,Ne
+2011,Soudní překladatel,bez titulu,Iveta,Kožíšková,Praha,MAĎARSKÝ,Ano
 2008,Soudní překladatel,Ing.,Hicham,Mourad,Praha,ARABSKÝ,Ne
 2000,Soudní překladatel,PhDr.,Hedvika,Žirová,Praha,BULHARSKÝ|RUSKÝ|NIZOZEMSKÝ,Ano
 2009,Soudní překladatel,JUDr.,Iva,Podhorská,Praha,NĚMECKÝ,Ne
@@ -2598,14 +2593,14 @@ Rok zápisu,Druh osoby,Titul,Jméno,Příjmení,Město,Jazyky,Zkouška vykonána
 1997,Soudní překladatel,RNDr.,Klára,Kašová,Praha,ANGLICKÝ,Ano
 2005,Soudní překladatel,Ing.,Minh Tu,Pham,Praha,VIETNAMSKÝ,Ne
 2009,Soudní překladatel,Bc.,Alexander,Hajna,Praha,ANGLICKÝ,Ano
-2011,Soudní překladatel,Mgr.,Věra,Bőhmová,Chýně,SRBSKÝ|SLOVINSKÝ|CHORVATSKÝ|BOSENSKÝ,Ne
+2011,Soudní překladatel,Mgr.,Věra,Bőhmová,Chýně,SLOVINSKÝ|CHORVATSKÝ|SRBSKÝ|BOSENSKÝ,Ne
 2011,Soudní překladatel,Ing.,Daler Kamilovič,Abdurachmanov,Praha,TÁDŽICKÝ|UZBECKÝ,Ne
 2011,Soudní překladatel,Mgr.,Bagrat,Verdiyan,Praha,ARMÉNSKÝ|RUSKÝ,Ne
 2011,Soudní překladatel,Mgr.,Milan,Skála,Praha,RUMUNSKÝ|UKRAJINSKÝ,Ne
 2009,Soudní překladatel,Bc.,Anna,Oniky,Praha,RUSKÝ|UKRAJINSKÝ,Ano
 1992,Soudní překladatel,Ing. arch.,Nora,Martišková,Praha,NĚMECKÝ|ANGLICKÝ,Ne
 2007,Soudní překladatel,Mgr.,Jakub,Pachinger,Praha,ČÍNSKÝ,Ne
-2008,Soudní překladatel,RSDr.,Miroslav,Grossmann,Praha,RUSKÝ,Ne
+2008,Soudní překladatel,RSDr.,Miroslav,Grossmann,Praha,RUSKÝ,Ano
 1998,Soudní překladatel,Ing.,Kim Phung,Nguyen,Praha,VIETNAMSKÝ,Ne
 2008,Soudní překladatel,Mgr.,Magda,Nováková Lindová,Praha,ANGLICKÝ|NĚMECKÝ,Ne
 2008,Soudní překladatel,PhDr.,Emíra,Klementová,Praha,ARABSKÝ,Ne
@@ -2623,7 +2618,7 @@ Rok zápisu,Druh osoby,Titul,Jméno,Příjmení,Město,Jazyky,Zkouška vykonána
 2007,Soudní překladatel,bez titulu,Štěpánka,Neumannová,Praha,NĚMECKÝ|ANGLICKÝ,Ne
 2013,Soudní překladatel,Mgr.,Linda,Kaprová,Praha,ANGLICKÝ|ŠVÉDSKÝ,Ano
 2008,Soudní překladatel,Mgr.,Lucie,Butcher,Praha,ANGLICKÝ|ŠPANĚLSKÝ,Ne
-2014,Soudní překladatel,Mgr.,Radka,Nováková,Praha,SRBSKÝ|SLOVINSKÝ,Ne
+2014,Soudní překladatel,Mgr.,Radka,Nováková,Praha,SRBSKÝ|SLOVINSKÝ,Ano
 2014,Soudní překladatel,Mgr.,Slavěna,Brownová,Praha,ANGLICKÝ,Ano
 2010,Soudní překladatel,RNDr.,Sodikjon,Kurbanov,Praha,UZBECKÝ,Ano
 2013,Soudní překladatel,Mgr.,Vladimíra,Jindřichová,Praha,ANGLICKÝ,Ano
@@ -2634,7 +2629,7 @@ Rok zápisu,Druh osoby,Titul,Jméno,Příjmení,Město,Jazyky,Zkouška vykonána
 2012,Soudní překladatel,Mgr.,Hau,Phamová,Praha,VIETNAMSKÝ,Ano
 2013,Soudní překladatel,Mgr.,Blanka,Trojan Svobodová,Praha,ANGLICKÝ,Ne
 2013,Soudní překladatel,bez titulu,Sabe,Amthor Soe,Praha,BARMSKÝ,Ne
-2013,Soudní překladatel,Mgr.,Hana,Novotná,Praha,ANGLICKÝ,Ne
+2013,Soudní překladatel,Mgr.,Hana,Novotná,Praha,ANGLICKÝ,Ano
 2013,Soudní překladatel,Mgr.,Lilija,Grudina,Praha,RUSKÝ|UKRAJINSKÝ,Ano
 1999,Soudní překladatel,Mgr.,Eva,Vyoralová,Praha,NĚMECKÝ,Ne
 1992,Soudní překladatel,JUDr.,František,Němec,Praha,ŠPANĚLSKÝ,Ano
@@ -2710,7 +2705,7 @@ Rok zápisu,Druh osoby,Titul,Jméno,Příjmení,Město,Jazyky,Zkouška vykonána
 2002,Soudní překladatel,Mgr.,Petra,Stankovska,Praha,MAKEDONSKÝ|LATINSKÝ,Ne
 2019,Soudní překladatel,Mgr.,Tereza,Zellerinová,Praha,JAPONSKÝ,Ne
 2022,Soudní překladatel,Ing.,Ladislav,Stejskal,Praha,ANGLICKÝ,Ano
-2015,Soudní překladatel,Mgr.,Ina,Maertens,Praha,RUSKÝ|ANGLICKÝ,Ano
+2015,Soudní překladatel,Mgr.,Ina,Maertens,Nymburk,RUSKÝ|ANGLICKÝ,Ano
 2022,Soudní překladatel,Mgr.,Helena,Poněšická,Praha,FRANCOUZSKÝ,Ano
 2021,Soudní překladatel,Ing.,Bohdan,Meško,Praha,UKRAJINSKÝ,Ano
 2021,Soudní překladatel,Ing.,Huyen,Doová,Praha,VIETNAMSKÝ,Ne
@@ -2719,7 +2714,7 @@ Rok zápisu,Druh osoby,Titul,Jméno,Příjmení,Město,Jazyky,Zkouška vykonána
 2002,Soudní překladatel,bez titulu,Vladimír,Dvořák,Beroun,RUSKÝ|UKRAJINSKÝ,Ne
 2012,Soudní překladatel,Mgr.,Jurij,Mirošničenko,Praha,RUSKÝ|UKRAJINSKÝ,Ne
 2006,Soudní překladatel,Ing.,Son Lam,Giang,Praha,VIETNAMSKÝ,Ne
-2019,Soudní překladatel,Mgr.,Milena,Fučíková,Praha,FRANCOUZSKÝ|NĚMECKÝ,Ne
+2019,Soudní překladatel,Mgr.,Milena,Fučíková,Dobřichovice,FRANCOUZSKÝ|NĚMECKÝ,Ne
 2013,Soudní překladatel,Mgr.,Monika,Árkai,Praha,NĚMECKÝ,Ano
 2019,Soudní překladatel,Mgr.,Jitka,Jannesová,Praha,NĚMECKÝ,Ano
 2019,Soudní překladatel,Mgr.,Stanislava,Šedivcová,Praha,ANGLICKÝ|RUSKÝ,Ano
@@ -2730,11 +2725,10 @@ Rok zápisu,Druh osoby,Titul,Jméno,Příjmení,Město,Jazyky,Zkouška vykonána
 2003,Soudní překladatel,Mgr.,Petr,Příkop,Praha,ČÍNSKÝ|ANGLICKÝ,Ne
 2019,Soudní překladatel,Mgr.,Lucie,Lísková,Praha,NĚMECKÝ,Ano
 2020,Soudní překladatel,Mgr.,Tereza,Hubačová,Praha,NĚMECKÝ,Ano
-2011,Soudní překladatel,Mgr.,Ivona,Černohausová,Praha,DÁNSKÝ|ANGLICKÝ,Ano
+2011,Soudní překladatel,Mgr.,Ivona,Černohausová,Praha,ANGLICKÝ|DÁNSKÝ,Ano
 2013,Soudní překladatel,Mgr. Bc.,Marija,Kmošková,Praha,BULHARSKÝ,Ne
 2016,Soudní překladatel,bez titulu,Thu Huong,Tran Thi,Praha,VIETNAMSKÝ,Ne
 2020,Soudní překladatel,Ing. et Ing.,Štěpán,Polák,Praha,NĚMECKÝ,Ne
-2011,Soudní překladatel,Mgr.,Monika,Čevelová,Praha,RUSKÝ,Ne
 2010,Soudní překladatel,Bc.,Thu Nguyet,Nguyen,Praha,VIETNAMSKÝ,Ne
 1999,Soudní překladatel,Ing.,František,Chaloupka,Praha,BULHARSKÝ,Ne
 2022,Soudní překladatel,JUDr.,Anna,Daňková,Praha,NĚMECKÝ,Ano
@@ -2747,17 +2741,17 @@ Rok zápisu,Druh osoby,Titul,Jméno,Příjmení,Město,Jazyky,Zkouška vykonána
 2016,Soudní překladatel,Mgr. Ing.,Alexandr,Tichonov,Praha,BĚLORUSKÝ|RUSKÝ,Ano
 2016,Soudní překladatel,PhDr.,Ilona,Podolyan,Praha,ANGLICKÝ|RUSKÝ|UKRAJINSKÝ,Ano
 2007,Soudní překladatel,Bc.,Thu Ha,Nguyenová,Praha,VIETNAMSKÝ,Ne
-2016,Soudní překladatel,Mgr.,Hanna Maria,Marciniak,Praha,POLSKÝ,Ne
-2013,Soudní překladatel,Mgr.,Robert,Forberger,Postřekov,ANGLICKÝ|NĚMECKÝ,Ne
+2016,Soudní překladatel,Mgr.,Hanna Maria,Marciniak,Praha,POLSKÝ,Ano
+2013,Soudní překladatel,Mgr.,Robert,Forberger,Praha,ANGLICKÝ|NĚMECKÝ,Ano
 2004,Soudní překladatel,PaedDr.,Kamila,Exnerová,Praha,NĚMECKÝ,Ne
 2007,Soudní překladatel,PhDr.,Zuzana,Sellová Jarešová,Praha,NĚMECKÝ,Ne
 2002,Soudní překladatel,bez titulu,Věra,Dítětová,Praha,ŠPANĚLSKÝ,Ne
 2021,Soudní překladatel,Ing.,Valentina,Vonderková,Praha,RUSKÝ,Ano
 2019,Soudní překladatel,Ing.,Zdeněk,Vávra,Praha,NĚMECKÝ,Ne
-2022,Soudní překladatel,Mgr.,Irena,Makrousova,Praha,RUSKÝ|UKRAJINSKÝ,Ano
+2022,Soudní překladatel,Mgr.,Irena,Makrousova,Praha,UKRAJINSKÝ|RUSKÝ,Ano
 2016,Soudní překladatel,Mgr.,Michaela,Rybáková,Praha,ANGLICKÝ,Ano
 2007,Soudní překladatel,Mgr.,Anna,Sochová,Praha,ARMÉNSKÝ,Ne
-1999,Soudní překladatel,Mgr.,Ilona,Blažková,Praha,ANGLICKÝ|RUSKÝ,Ne
+1999,Soudní překladatel,Mgr.,Ilona,Blažková,Praha,RUSKÝ|ANGLICKÝ,Ne
 2016,Soudní překladatel,Bc.,Ilir,Allushi,Praha,ALBÁNSKÝ,Ano
 2016,Soudní překladatel,Mgr.,Vladimir,Mitić,Praha,SRBSKÝ,Ne
 2014,Soudní překladatel,Mgr.,Pavel,Křivda,Praha,ANGLICKÝ,Ne
@@ -2765,7 +2759,7 @@ Rok zápisu,Druh osoby,Titul,Jméno,Příjmení,Město,Jazyky,Zkouška vykonána
 2021,Soudní překladatel,Mgr.,Dominika,Bernáthová,Praha,ŠPANĚLSKÝ,Ne
 2020,Soudní překladatel,Mgr.,Kateřina,Batistová,Praha,NĚMECKÝ,Ano
 2020,Soudní překladatel,Mgr.,Fagan,Hamidov,Praha,AZERBAJDŽANSKÝ,Ne
-2021,Soudní překladatel,Ing.,Jakub,Suljić,Praha,CHORVATSKÝ|SRBSKÝ|BOSENSKÝ,Ne
+2021,Soudní překladatel,Ing.,Jakub,Suljić,Praha,SRBSKÝ|BOSENSKÝ|CHORVATSKÝ,Ne
 2021,Soudní překladatel,Mgr.,Petra,Kameníková,Praha,FRANCOUZSKÝ,Ano
 2009,Soudní překladatel,Mgr.,Dieu Huyen,Tranová,Herink,VIETNAMSKÝ,Ano
 2021,Soudní překladatel,Mgr.,Quynh Nga,Ngo,Praha,VIETNAMSKÝ,Ano
@@ -2796,7 +2790,7 @@ Rok zápisu,Druh osoby,Titul,Jméno,Příjmení,Město,Jazyky,Zkouška vykonána
 1994,Soudní překladatel,bez titulu,Georgios,Baltas,Praha,MAKEDONSKÝ,Ne
 2008,Soudní překladatel,PhDr.,Pavlína,Vydrželová,Praha,NĚMECKÝ,Ano
 1996,Soudní překladatel,Ing.,Kole,Borovski,Praha,MAKEDONSKÝ,Ano
-2006,Soudní překladatel,Mgr.,Michal,Brabec,Praha,ŠPANĚLSKÝ|KATALÁNSKÝ|ANGLICKÝ,Ne
+2006,Soudní překladatel,Mgr.,Michal,Brabec,Praha,ANGLICKÝ|ŠPANĚLSKÝ|KATALÁNSKÝ,Ne
 2016,Soudní překladatel,Mgr.,Monika,Bažantová,Praha,NĚMECKÝ,Ano
 2016,Soudní překladatel,RNDr.,Alexander,Voronin,Praha,RUSKÝ,Ano
 2016,Soudní překladatel,Mgr.,Kateřina,Jírů,Praha,ANGLICKÝ,Ne
@@ -2807,7 +2801,7 @@ Rok zápisu,Druh osoby,Titul,Jméno,Příjmení,Město,Jazyky,Zkouška vykonána
 2015,Soudní překladatel,PhDr.,Zuzana,Sedláčková,Praha,ANGLICKÝ,Ne
 1991,Soudní překladatel,Mgr.,Elvira Dina,Hanslik,Praha,NĚMECKÝ,Ne
 2017,Soudní překladatel,Mgr.,Štěpán,Pavlík,Praha,ČÍNSKÝ,Ne
-2017,Soudní překladatel,Ing.,Vladimír,Hulpach,Praha,ANGLICKÝ,Ne
+2017,Soudní překladatel,Ing.,Vladimír,Hulpach,Praha,ANGLICKÝ,Ano
 2014,Soudní překladatel,Mgr.,Veronika,Šatánková,Praha,FRANCOUZSKÝ,Ne
 2009,Soudní překladatel,Mgr.,Lucie,Aparicio,Praha,ANGLICKÝ|ŠPANĚLSKÝ,Ne
 2019,Soudní překladatel,Ing.,Filip,Pšenička,Praha,RUSKÝ,Ne
@@ -2827,7 +2821,7 @@ Rok zápisu,Druh osoby,Titul,Jméno,Příjmení,Město,Jazyky,Zkouška vykonána
 2018,Soudní překladatel,Dipl.-Jur.,Jan,Sommerfeld,Praha,NĚMECKÝ,Ne
 2001,Soudní překladatel,MUDr.,Elsan Sadajogli,Nazarov,Praha,AZERBAJDŽANSKÝ|TURECKÝ|RUSKÝ,Ne
 1998,Soudní překladatel,Mgr.,Ines,Esterková,Praha,NĚMECKÝ,Ne
-2015,Soudní překladatel,PhDr.,Eva,Klímová,Praha,ITALSKÝ|POLSKÝ|FRANCOUZSKÝ,Ano
+2015,Soudní překladatel,PhDr.,Eva,Klímová,Praha,POLSKÝ|FRANCOUZSKÝ|ITALSKÝ,Ano
 2012,Soudní překladatel,Mgr.,Julie,Lukaštíková,Praha,PORTUGALSKÝ,Ano
 2009,Soudní překladatel,Mgr.,Vlasta,Mosciatti,Praha,MAĎARSKÝ|ŠPANĚLSKÝ,Ne
 2000,Soudní překladatel,bez titulu,VU ANH,PHAM,Praha,VIETNAMSKÝ,Ne
@@ -2876,7 +2870,7 @@ Rok zápisu,Druh osoby,Titul,Jméno,Příjmení,Město,Jazyky,Zkouška vykonána
 2002,Soudní překladatel,Ing.,VAN QUANG,TRAN,Praha,VIETNAMSKÝ,Ne
 2001,Soudní překladatel,bez titulu,Daniela,Bojtarová,Praha,ITALSKÝ,Ne
 1996,Soudní překladatel,Ing.,Birute,Chlupáčová,Praha,LITEVSKÝ,Ne
-2002,Soudní překladatel,Mgr.,Lucie,Rounová,Mnichovice,FRANCOUZSKÝ|ANGLICKÝ,Ano
+2002,Soudní překladatel,Mgr.,Lucie,Rounová,Mnichovice,ANGLICKÝ|FRANCOUZSKÝ,Ano
 1997,Soudní překladatel,Mgr.,Roman,Hujer,Praha,RUSKÝ,Ano
 1991,Soudní překladatel,doc. Ing.,Ladislav,Chládek,Praha,NĚMECKÝ,Ne
 1991,Soudní překladatel,bez titulu,Simona,Houdková,Praha,CHORVATSKÝ,Ne
@@ -2896,7 +2890,7 @@ Rok zápisu,Druh osoby,Titul,Jméno,Příjmení,Město,Jazyky,Zkouška vykonána
 1998,Soudní překladatel,bez titulu,Jaroslava,Bulánková,Praha,RUSKÝ,Ne
 1991,Soudní překladatel,Ing.,Marcela,Máchová,Praha,ITALSKÝ,Ne
 1995,Soudní překladatel,bez titulu,Dagmar,De Blasio Denčíková,Praha,ITALSKÝ|SLOVENSKÝ,Ano
-1996,Soudní překladatel,bez titulu,Iivi,Zajedova,Praha,ESTONSKÝ|ANGLICKÝ|RUSKÝ,Ne
+1996,Soudní překladatel,bez titulu,Iivi,Zajedova,Praha,ANGLICKÝ|RUSKÝ|ESTONSKÝ,Ne
 1992,Soudní překladatel,Ing.,Ute,Kabelíková,Praha,NĚMECKÝ,Ano
 1991,Soudní překladatel,PhDr.,Monika,Vopálenská,Praha,SRBSKÝ|CHORVATSKÝ|BULHARSKÝ,Ne
 1991,Soudní překladatel,bez titulu,Dinh Chuong,Vuong,Praha,VIETNAMSKÝ,Ne
@@ -2915,7 +2909,7 @@ Rok zápisu,Druh osoby,Titul,Jméno,Příjmení,Město,Jazyky,Zkouška vykonána
 1996,Soudní překladatel,Mgr.,Pavel,Štoll,Praha,LOTYŠSKÝ,Ano
 1991,Soudní překladatel,bez titulu,Jiřina,Matoušková,Praha,ANGLICKÝ,Ne
 1993,Soudní překladatel,PhDr.,Klára,Bojarová,Praha,FRANCOUZSKÝ,Ne
-2001,Soudní překladatel,Mgr.,Eduard,Bartek,Praha,SRBSKÝ|CHORVATSKÝ|ČERNOHORSKÝ|BOSENSKÝ,Ano
+2001,Soudní překladatel,Mgr.,Eduard,Bartek,Praha,BOSENSKÝ|SRBSKÝ|CHORVATSKÝ|ČERNOHORSKÝ,Ano
 1997,Soudní překladatel,JUDr.,Milada,Sigmundová,Praha,ANGLICKÝ|NĚMECKÝ,Ne
 1994,Soudní překladatel,Mgr. et Mgr. Bc.,Ivan,Henn,Praha,ŠPANĚLSKÝ|PORTUGALSKÝ,Ne
 2003,Soudní překladatel,Ing.,Quyet Tien,Nguyen,Praha,VIETNAMSKÝ,Ne
@@ -2925,9 +2919,9 @@ Rok zápisu,Druh osoby,Titul,Jméno,Příjmení,Město,Jazyky,Zkouška vykonána
 2000,Soudní překladatel,Mgr.,Lenka,Sieberger,Praha,NĚMECKÝ,Ne
 1996,Soudní překladatel,Mgr.,Daniela,Krolupperová,Praha,NORSKÝ,Ne
 1996,Soudní překladatel,Ing.,Jarmila,Efendičová,Praha,ČERNOHORSKÝ|SRBSKÝ|BOSENSKÝ|CHORVATSKÝ,Ne
-1991,Soudní překladatel,Mgr.,Milena,Roháčová,Praha,BOSENSKÝ|SRBSKÝ|CHORVATSKÝ|ČERNOHORSKÝ,Ne
+1991,Soudní překladatel,Mgr.,Milena,Roháčová,Praha,BOSENSKÝ|SRBSKÝ|CHORVATSKÝ|ČERNOHORSKÝ,Ano
 2002,Soudní překladatel,MARIA,Lala Maria,Rakotomaniraka,Praha,MALGAŠSKÝ,Ne
-1992,Soudní překladatel,bez titulu,Zuzana,Churanová,Praha,ŠPANĚLSKÝ,Ne
+1992,Soudní překladatel,Mgr.,Zuzana,Churanová,Praha,ŠPANĚLSKÝ,Ano
 2002,Soudní překladatel,Mgr.,Miwa,Oi,Praha,JAPONSKÝ,Ano
 2002,Soudní překladatel,Bc.,Miloš,Gerstner,Praha,ANGLICKÝ,Ano
 2000,Soudní překladatel,Mgr.,Monika,Masařová,Praha,NĚMECKÝ|ANGLICKÝ,Ano
@@ -2962,7 +2956,7 @@ Rok zápisu,Druh osoby,Titul,Jméno,Příjmení,Město,Jazyky,Zkouška vykonána
 1992,Soudní překladatel,JUDr.,Petr,Balcar,Praha,NĚMECKÝ,Ne
 1992,Soudní překladatel,bez titulu,Jitka,Kuncová,Praha,NĚMECKÝ,Ne
 1993,Soudní překladatel,Ing.,Tomáš,Vostrý,Praha,SLOVINSKÝ,Ne
-1992,Soudní překladatel,Ing.,Ivana,Horáková,Praha,ŠPANĚLSKÝ|ANGLICKÝ|FRANCOUZSKÝ|NĚMECKÝ,Ano
+1992,Soudní překladatel,Ing.,Ivana,Horáková,Praha,ANGLICKÝ|FRANCOUZSKÝ|ŠPANĚLSKÝ|NĚMECKÝ,Ano
 1994,Soudní překladatel,bez titulu,Pavol,Herman,Praha,MAĎARSKÝ,Ne
 1991,Soudní překladatel,MUDr.,Riad,Sabra,Praha,ANGLICKÝ|ARABSKÝ|FRANCOUZSKÝ,Ne
 2004,Soudní překladatel,bez titulu,Petr,Bílek,Praha,ANGLICKÝ,Ano
@@ -2972,7 +2966,7 @@ Rok zápisu,Druh osoby,Titul,Jméno,Příjmení,Město,Jazyky,Zkouška vykonána
 2004,Soudní překladatel,Mgr.,Gabrijela,Petkovič,Praha,SRBSKÝ|CHORVATSKÝ,Ano
 2004,Soudní překladatel,bez titulu,Ngoc Vinh,Tran,Praha,VIETNAMSKÝ,Ne
 2004,Soudní překladatel,Mgr.,Emad,Othman,Praha,ARABSKÝ,Ano
-2004,Soudní překladatel,Mgr.,Branislava,Kubešová,Praha,CHORVATSKÝ|MAKEDONSKÝ|SRBSKÝ,Ne
+2004,Soudní překladatel,Mgr.,Branislava,Kubešová,Praha,SRBSKÝ|CHORVATSKÝ|MAKEDONSKÝ,Ne
 2005,Soudní překladatel,Ing.,Danute,Reichová,Praha,LITEVSKÝ,Ne
 2004,Soudní překladatel,JUDr.,Věra,Valterová,Praha,CHORVATSKÝ|BULHARSKÝ|SRBSKÝ,Ne
 2003,Soudní překladatel,Mgr.,Vanda,Vybíralová,Praha,ITALSKÝ|FRANCOUZSKÝ,Ano
@@ -2980,7 +2974,7 @@ Rok zápisu,Druh osoby,Titul,Jméno,Příjmení,Město,Jazyky,Zkouška vykonána
 2006,Soudní překladatel,Mgr.,Martin,Kutra,Praha,ALBÁNSKÝ,Ne
 1995,Soudní překladatel,Bc.,Jaroslav,Marek,Petrovice,NĚMECKÝ,Ne
 2002,Soudní překladatel,Ing.,Evžen,Barnoki,Praha,RUSKÝ,Ne
-1999,Soudní překladatel,JUDr.,Zdeňka,Nocarová,Praha,NĚMECKÝ|ANGLICKÝ,Ano
+1999,Soudní překladatel,JUDr.,Zdeňka,Nocarová,Praha,ANGLICKÝ|NĚMECKÝ,Ano
 2003,Soudní překladatel,Ing.,Marek,Buljat,Rudná,CHORVATSKÝ,Ano
 2005,Soudní překladatel,Mgr.,Květa,Sunarto,Praha,INDONÉSKÝ,Ne
 2003,Soudní překladatel,JUDr.,Mariyana,Dimitrova,Praha,BULHARSKÝ,Ano
@@ -2998,7 +2992,7 @@ Rok zápisu,Druh osoby,Titul,Jméno,Příjmení,Město,Jazyky,Zkouška vykonána
 2005,Soudní překladatel,Ing.,Phuong Quynh,Tranová,Praha,VIETNAMSKÝ,Ne
 2004,Soudní překladatel,Mgr.,Judita,Dunajevská,Praha,HEBREJSKÝ,Ano
 2005,Soudní překladatel,Ing.,Zahid,Rashid,Praha,URDSKÝ|PANDŽÁBSKÝ,Ano
-1998,Soudní překladatel,Mgr.,Ira,Arshakyan,Praha,RUSKÝ|ARMÉNSKÝ|ANGLICKÝ,Ne
+1998,Soudní překladatel,Mgr.,Ira,Arshakyan,Praha,ANGLICKÝ|RUSKÝ|ARMÉNSKÝ,Ne
 2005,Soudní překladatel,Mgr.,Jan,Mauric,Praha,NĚMECKÝ,Ano
 2005,Soudní překladatel,Mgr.,Hana,Topercerová,Říčany,NĚMECKÝ|ANGLICKÝ,Ano
 2005,Soudní překladatel,PhDr.,Šárka,Stellner,Praha,NĚMECKÝ,Ano
@@ -3026,9 +3020,9 @@ Rok zápisu,Druh osoby,Titul,Jméno,Příjmení,Město,Jazyky,Zkouška vykonána
 2006,Soudní překladatel,Mgr.,Adriano,Mondelli,Praha,ITALSKÝ,Ne
 2005,Soudní překladatel,Dr. phil.,Petra,Vlček Wörndl,Praha,NĚMECKÝ,Ano
 1994,Soudní překladatel,bez titulu,Mervyn,Sterneck,Praha,NĚMECKÝ,Ano
-2002,Soudní překladatel,Mgr.,Simona,Doniniová,Klecany,ITALSKÝ|LATINSKÝ,Ne
+2002,Soudní překladatel,Mgr.,Simona,Doniniová,Klecany,LATINSKÝ|ITALSKÝ,Ne
 1999,Soudní překladatel,Mgr.,Zdeněk,Staněk,Praha,SLOVENSKÝ,Ne
-1996,Soudní překladatel,Mgr.,Dita,Sálová,Praha,JAPONSKÝ|ANGLICKÝ,Ano
+1996,Soudní překladatel,Mgr.,Dita,Sálová,Praha,ANGLICKÝ|JAPONSKÝ,Ano
 1992,Soudní překladatel,JUDr.,Petr,Wűnsch,Praha,NĚMECKÝ|ŠVÉDSKÝ,Ne
 1991,Soudní překladatel,bez titulu,Zoi,Giatagantzidou Or Jatagandzidu,Praha,ŘECKÝ,Ne
 1997,Soudní překladatel,bez titulu,Blanka,Owensová,Praha,ANGLICKÝ|NĚMECKÝ,Ano
@@ -3037,7 +3031,7 @@ Rok zápisu,Druh osoby,Titul,Jméno,Příjmení,Město,Jazyky,Zkouška vykonána
 2000,Soudní překladatel,Mgr.,Pavla,Horníčková,Praha,ANGLICKÝ,Ne
 2002,Soudní překladatel,Mgr.,Jana,Freise Váňová,Praha,NĚMECKÝ,Ne
 2004,Soudní překladatel,bez titulu,Simona,Sternová,Praha,ANGLICKÝ,Ne
-2000,Soudní překladatel,Mgr.,Kateřina,Řiháčková,Praha,ITALSKÝ|ŠPANĚLSKÝ,Ano
+2000,Soudní překladatel,Mgr.,Kateřina,Řiháčková,Praha,ŠPANĚLSKÝ|ITALSKÝ,Ano
 1993,Soudní překladatel,PhDr.,Lenka,Lánová,Teplice,FRANCOUZSKÝ,Ne
 2002,Soudní překladatel,Mgr.,Martina,Nová,Praha,ITALSKÝ,Ne
 1999,Soudní překladatel,JUDr.,Chu Hung,Nguyen,Praha,VIETNAMSKÝ,Ne
@@ -3045,7 +3039,7 @@ Rok zápisu,Druh osoby,Titul,Jméno,Příjmení,Město,Jazyky,Zkouška vykonána
 1998,Soudní překladatel,Mgr.,Petr,Janoušek,Praha,ANGLICKÝ,Ne
 2005,Soudní překladatel,Mgr.,Angelina,Červenková,Praha,RUSKÝ|UKRAJINSKÝ,Ano
 2000,Soudní překladatel,Mgr.,Lenka,Hrochová,Praha,NĚMECKÝ,Ne
-2006,Soudní překladatel,JUDr.,Taras,Moroz,Praha,UKRAJINSKÝ|RUSKÝ,Ano
+2006,Soudní překladatel,JUDr.,Taras,Moroz,Praha,RUSKÝ|UKRAJINSKÝ,Ano
 2006,Soudní překladatel,bez titulu,Michaela,Rozov,Praha,ANGLICKÝ|HEBREJSKÝ,Ano
 2001,Soudní překladatel,Mgr.,Moian,Khoder,Praha,ARABSKÝ,Ano
 2006,Soudní překladatel,Ing.,Václav,Karabiberov,Praha,BULHARSKÝ,Ano
@@ -3087,7 +3081,7 @@ Rok zápisu,Druh osoby,Titul,Jméno,Příjmení,Město,Jazyky,Zkouška vykonána
 1997,Soudní překladatel,Ing.,Dinh Hai,Ngo,Praha,VIETNAMSKÝ,Ne
 2001,Soudní překladatel,Mgr.,Hana,Bumbová,Praha,ŠPANĚLSKÝ|ANGLICKÝ,Ano
 1997,Soudní překladatel,Ing.,Ingrid,Mrázová,Praha,SLOVENSKÝ,Ne
-1991,Soudní překladatel,PhDr.,Helena,Strakatá,Praha,FRANCOUZSKÝ|ITALSKÝ,Ano
+1991,Soudní překladatel,PhDr.,Helena,Strakatá,Praha,ITALSKÝ|FRANCOUZSKÝ,Ano
 2000,Soudní překladatel,Mgr.,Martina,Levey,Praha,ANGLICKÝ,Ano
 1993,Soudní překladatel,bez titulu,Jana,Ševčíková,Praha,NIZOZEMSKÝ,Ne
 2001,Soudní překladatel,Mgr.,Jekatěrina,Sochorová,Praha,RUSKÝ,Ano
@@ -3098,7 +3092,7 @@ Rok zápisu,Druh osoby,Titul,Jméno,Příjmení,Město,Jazyky,Zkouška vykonána
 1991,Soudní překladatel,Ing.,Jan,Verner,Praha,ŠPANĚLSKÝ|NĚMECKÝ|ANGLICKÝ,Ne
 2002,Soudní překladatel,Mgr.,Marta,Bartošková,Praha,NORSKÝ|ISLANDSKÝ,Ne
 1997,Soudní překladatel,Ing.,Reza,Mirchi,Praha,PERSKÝ,Ne
-2022,Soudní překladatel,JUDr.,Marcela,Kunešová,Praha,NĚMECKÝ,Ano
+2022,Soudní překladatel,JUDr.,Marcela,Stauner,Praha,NĚMECKÝ,Ano
 1998,Soudní překladatel,Mgr.,Barbora,Leblancová,Praha,ANGLICKÝ,Ano
 1996,Soudní překladatel,Ing.,Amirzada,Ahmadzai,Praha,PAŠTSKÝ|DÁRIJSKÝ|PERSKÝ|TÁDŽICKÝ,Ne
 1991,Soudní překladatel,JUDr.,Martin,Šebek,Praha,ANGLICKÝ|FRANCOUZSKÝ,Ne
@@ -3106,30 +3100,29 @@ Rok zápisu,Druh osoby,Titul,Jméno,Příjmení,Město,Jazyky,Zkouška vykonána
 1992,Soudní překladatel,JUDr.,Petr,Studený,Praha,NĚMECKÝ,Ano
 2008,Soudní tlumočník,bez titulu,Minh,Nguyen Xuan,Praha,VIETNAMSKÝ,Ne
 2007,Soudní tlumočník,Mgr.,Barbora,Ottnerová,Český Těšín,FRANCOUZSKÝ,Ne
-2007,Soudní tlumočník,PhDr.,Barbora,Černá Dvořáková,Ostrava,ANGLICKÝ,Ne
+2007,Soudní tlumočník,PhDr.,Barbora,Černá Dvořáková,Ostrava,ANGLICKÝ,Ano
 2007,Soudní tlumočník,bez titulu,Otgon,Lkhamsurenová,Hodslavice,MONGOLSKÝ,Ne
 2007,Soudní tlumočník,bez titulu,Gahira,Mammadova,Ostrava,AZERBAJDŽANSKÝ|RUSKÝ,Ne
 2007,Soudní tlumočník,Mgr.,Emir,Šehović,Opava,BOSENSKÝ|SRBSKÝ|CHORVATSKÝ,Ne
 2007,Soudní tlumočník,doc. Ing.,Aleksandr,Ključnikov,Ostrava,RUSKÝ|BĚLORUSKÝ,Ne
 2007,Soudní tlumočník,Bc.,Kamila,Švejcarová,Olomouc,NIZOZEMSKÝ,Ne
 1994,Soudní tlumočník,Ing.,Natalia,Mlynková,Havířov,POLSKÝ,Ne
-2007,Soudní tlumočník,Mgr. et Mgr.,Marie,Maliňáková,Olomouc,NĚMECKÝ,Ne
+2007,Soudní tlumočník,Mgr. et Mgr.,Marie,Maliňáková,Olomouc,NĚMECKÝ,Ano
 2006,Soudní tlumočník,Ing.,Xuan Lan,Nguyen,Ostrava,VIETNAMSKÝ,Ano
 2006,Soudní tlumočník,Mgr.,Jolanta,Tarabová,Havířov,POLSKÝ,Ano
 2006,Soudní tlumočník,Ing.,Žofie,Siudová,Dětmarovice,POLSKÝ,Ne
 2006,Soudní tlumočník,Mgr.,Pavlína,Gregorová,Přerov,ANGLICKÝ,Ne
-2006,Soudní tlumočník,PhDr.,Beáta,Sedláčková,Krnov,SLOVENSKÝ,Ne
 2006,Soudní tlumočník,PhDr.,Alicja,Smiga,Český Těšín,POLSKÝ,Ano
 2006,Soudní tlumočník,Mgr.,Zita,Sýkorová,Valašské Meziříčí,ANGLICKÝ,Ne
 2007,Soudní tlumočník,RNDr.,Roman,Strzondala,Mosty u Jablunkova,POLSKÝ,Ne
 2009,Soudní tlumočník,Mgr.,Jana,Pálková,Olomouc,ITALSKÝ,Ne
 2009,Soudní tlumočník,bez titulu,Agim,Saraçi,Ostrava,ALBÁNSKÝ,Ne
-2009,Soudní tlumočník,Mgr.,Martina,Pálušová,Hlušovice,RUSKÝ,Ne
+2009,Soudní tlumočník,Mgr.,Martina,Pálušová,Hlušovice,RUSKÝ|RUSKÝ,Ano
 2009,Soudní překladatel,Mgr.,Jacek,Cienciala,Horní Suchá,POLSKÝ,Ne
 2009,Soudní tlumočník,bez titulu,Anatolij,Butrym,Opava,UKRAJINSKÝ|RUSKÝ|NĚMECKÝ,Ne
 2008,Soudní tlumočník,Mgr.,Jan,Zyder,Horní Suchá,POLSKÝ,Ano
 2008,Soudní tlumočník,Mgr.,Lucie,Šebelová,Město Albrechtice,POLSKÝ,Ano
-2008,Soudní tlumočník,Mgr.,Lukáš,Utíkal,Náklo,ŠPANĚLSKÝ|ANGLICKÝ,Ne
+2008,Soudní tlumočník,Mgr.,Lukáš,Utíkal,Náklo,ŠPANĚLSKÝ|ANGLICKÝ,Ano
 2008,Soudní tlumočník,Mgr.,Pavlína,Hradilová,Krnov,ANGLICKÝ,Ne
 2008,Soudní tlumočník,Mgr.,Ivana,Müllerová,Praha,NĚMECKÝ,Ne
 2008,Soudní tlumočník,Mgr.,Jana,Karpecká,Mosty u Jablunkova,ANGLICKÝ,Ne
@@ -3143,7 +3136,7 @@ Rok zápisu,Druh osoby,Titul,Jméno,Příjmení,Město,Jazyky,Zkouška vykonána
 2004,Soudní tlumočník,Bc.,Minh,Tran,Ostrava,VIETNAMSKÝ,Ne
 2004,Soudní tlumočník,bez titulu,Věra Anna,Mánek,Opava,ZNAKOVÝ JAZYK,Ne
 2006,Soudní tlumočník,Mgr.,Eva,Lešenarová,Nový Jičín,NĚMECKÝ,Ne
-2006,Soudní tlumočník,Mgr.,Soňa,Onderková,Olomouc,RUSKÝ|NIZOZEMSKÝ|NĚMECKÝ,Ne
+2006,Soudní tlumočník,Mgr.,Soňa,Onderková,Olomouc,NIZOZEMSKÝ|NĚMECKÝ|RUSKÝ,Ne
 2006,Soudní tlumočník,Mgr.,Pavlína,Ullmannová,Olomouc,ŠPANĚLSKÝ,Ano
 2006,Soudní tlumočník,Ing.,Lenka,Zbožínková,Přerov,RUSKÝ,Ano
 2008,Soudní překladatel,Mgr.,Renáta,Bohuslavová,Praha,ANGLICKÝ|RUSKÝ,Ano
@@ -3166,8 +3159,8 @@ Rok zápisu,Druh osoby,Titul,Jméno,Příjmení,Město,Jazyky,Zkouška vykonána
 2000,Soudní tlumočník,Mgr.,Radomír,Pátík,Šumperk,ANGLICKÝ,Ano
 1995,Soudní tlumočník,Mgr.,Monika,Jarošová,Opava,ANGLICKÝ,Ano
 2005,Soudní tlumočník,bez titulu,Fusheng,Li,Ostrava,ČÍNSKÝ,Ne
-2005,Soudní tlumočník,PhDr.,Dagmar,Toulová,Opava,FRANCOUZSKÝ|RUSKÝ,Ne
-2005,Soudní tlumočník,Ing.,Dušan,Fürst,Olomouc,CHORVATSKÝ|BOSENSKÝ|ČERNOHORSKÝ|SRBSKÝ,Ne
+2005,Soudní tlumočník,PhDr.,Dagmar,Toulová,Opava,RUSKÝ|FRANCOUZSKÝ,Ne
+2005,Soudní tlumočník,Ing.,Dušan,Fürst,Olomouc,BOSENSKÝ|ČERNOHORSKÝ|SRBSKÝ|CHORVATSKÝ,Ne
 2005,Soudní tlumočník,Mgr.,Alena,Němcová,Chuchelná,NĚMECKÝ,Ne
 2005,Soudní tlumočník,PhDr.,Libor,Šanovec,Ruda nad Moravou,RUSKÝ|NĚMECKÝ,Ne
 2005,Soudní tlumočník,Mgr.,Barbara,Bubiková,Ostrava,POLSKÝ,Ano
@@ -3198,7 +3191,7 @@ Rok zápisu,Druh osoby,Titul,Jméno,Příjmení,Město,Jazyky,Zkouška vykonána
 2014,Soudní tlumočník,Mgr.,Yuji,Nakaya,Olomouc,JAPONSKÝ,Ano
 2015,Soudní tlumočník,Mgr. et Mgr.,Robert,Kufa,Český Těšín,POLSKÝ,Ano
 2010,Soudní tlumočník,Mgr.,Lucie,Vrbová,Olomouc,ANGLICKÝ|JAPONSKÝ,Ne
-2016,Soudní tlumočník,Mgr.,Jana,Mikulenková,Životice u Nového Jičína,ANGLICKÝ,Ne
+2016,Soudní tlumočník,Mgr.,Jana,Mikulenková,Životice u Nového Jičína,ANGLICKÝ|ANGLICKÝ,Ano
 2016,Soudní tlumočník,Mgr.,Andrea,Fajkusová,Ostrava,ŠPANĚLSKÝ|NĚMECKÝ,Ano
 2016,Soudní tlumočník,Mgr.,Kateřina,Divišová,Nový Malín,PORTUGALSKÝ|FRANCOUZSKÝ,Ne
 2016,Soudní tlumočník,Ing.,Jan,Struhala,Ostrava,ANGLICKÝ,Ne
@@ -3221,16 +3214,16 @@ Rok zápisu,Druh osoby,Titul,Jméno,Příjmení,Město,Jazyky,Zkouška vykonána
 2019,Soudní tlumočník,bez titulu,Manuela Eugenia,Gheorghe,Horní Město,RUMUNSKÝ|ANGLICKÝ,Ne
 2019,Soudní tlumočník,Bc.,Khandarmaa,Tsogt,Přerov,MONGOLSKÝ,Ne
 2019,Soudní tlumočník,Ing. Mgr.,Pavel,Brunda,Olomouc,ANGLICKÝ|ANGLICKÝ,Ano
-2019,Soudní tlumočník,Mgr.,Iveta,Svozilová,Praha,ŠPANĚLSKÝ,Ne
+2019,Soudní tlumočník,Mgr.,Iveta,Svozilová,Praha,ŠPANĚLSKÝ,Ano
 2019,Soudní tlumočník,MSc.,Jitka,Marešová,Šumperk,ANGLICKÝ,Ano
 2010,Soudní tlumočník,PhDr.,Michaela,Dvořáková,Olomouc,ŠPANĚLSKÝ,Ano
 2010,Soudní tlumočník,bez titulu,Otmar,Robosz,Horní Suchá,POLSKÝ,Ne
 2013,Soudní tlumočník,Mgr.,Šárka,Richterová,Ostrava,ANGLICKÝ,Ano
 2014,Soudní překladatel,Mgr.,Zuzana,Kebzová,Kojetín,ANGLICKÝ,Ne
-2018,Soudní tlumočník,Mgr.,Martina,Vykrentová,Havířov,ŠPANĚLSKÝ|FRANCOUZSKÝ,Ne
+2018,Soudní tlumočník,Mgr.,Martina,Vykrentová,Havířov,FRANCOUZSKÝ|ŠPANĚLSKÝ,Ne
 2018,Soudní tlumočník,Mgr.,Adéla,Horáková,Olomouc,ANGLICKÝ,Ano
 2018,Soudní tlumočník,Mgr.,Silvie,Průšová,Šumperk,ŠPANĚLSKÝ,Ne
-2019,Soudní tlumočník,Ing. Mgr.,Miroslava,Müllerová,Bohuňovice,BULHARSKÝ,Ne
+2019,Soudní tlumočník,Ing. Mgr.,Miroslava,Müllerová,Bohuňovice,BULHARSKÝ,Ano
 1997,Soudní tlumočník,bez titulu,Jiřina,Vysoká,Havířov,NĚMECKÝ,Ne
 2010,Soudní tlumočník,Ing.,Ho Trúc,Vu,Přerov,VIETNAMSKÝ,Ne
 2010,Soudní překladatel,Mgr.,Jana,Lasalle,Vsetín,ANGLICKÝ,Ano
@@ -3246,7 +3239,7 @@ Rok zápisu,Druh osoby,Titul,Jméno,Příjmení,Město,Jazyky,Zkouška vykonána
 2010,Soudní tlumočník,Mgr.,Nina,Roušová,Olomouc,CHORVATSKÝ|CHORVATSKÝ|SRBSKÝ|SRBSKÝ,Ano
 2009,Soudní tlumočník,Mgr.,Jakub,Mrózek,Jablunkov,POLSKÝ,Ne
 2009,Soudní tlumočník,Mgr.,David,Biernot,Rychvald,HEBREJSKÝ,Ne
-2009,Soudní tlumočník,Mgr.,Marie,Werbová,Ostrava,NĚMECKÝ,Ne
+2009,Soudní tlumočník,Mgr.,Marie,Werbová,Ostrava,NĚMECKÝ,Ano
 2009,Soudní překladatel,Mgr.,Miriam,Čekalová,Opava,ANGLICKÝ,Ano
 2009,Soudní tlumočník,bez titulu,Monika,Sulasová,Nový Malín,ŘECKÝ,Ne
 2009,Soudní tlumočník,Ing.,Dorota,Kukuczka Jurzyca,Třinec,POLSKÝ,Ano
@@ -3256,7 +3249,7 @@ Rok zápisu,Druh osoby,Titul,Jméno,Příjmení,Město,Jazyky,Zkouška vykonána
 2011,Soudní tlumočník,Mgr.,Vendulka,Bervicová,Nový Jičín,ANGLICKÝ,Ne
 2001,Soudní tlumočník,PhDr.,Sylva,Špačková,Olomouc,NĚMECKÝ,Ne
 2013,Soudní tlumočník,Mgr.,Andrea,Smetanová,Olomouc,ANGLICKÝ,Ne
-2011,Soudní tlumočník,Mgr.,Lenka,Havrdová,Vratimov,NIZOZEMSKÝ|ANGLICKÝ,Ne
+2011,Soudní tlumočník,Mgr.,Lenka,Havrdová,Vratimov,ANGLICKÝ|NIZOZEMSKÝ,Ne
 1998,Soudní překladatel,Mgr.,Jan,Smejkal,Havířov,NĚMECKÝ,Ne
 1996,Soudní tlumočník,Ing.,Kristýna,Kolouchová,Karviná,POLSKÝ,Ne
 2011,Soudní tlumočník,Mgr.,Hana,Havlíčková,Olomouc,ANGLICKÝ,Ano
@@ -3268,7 +3261,7 @@ Rok zápisu,Druh osoby,Titul,Jméno,Příjmení,Město,Jazyky,Zkouška vykonána
 2011,Soudní tlumočník,bez titulu,Lenka,Bartusková,Orlová,ŠPANĚLSKÝ,Ne
 2011,Soudní tlumočník,Ing.,Jelena,Litvinova,Ostrava,RUSKÝ,Ne
 1999,Soudní překladatel,PhDr.,Renata,Vystrčilová,Olomouc,ANGLICKÝ,Ano
-1997,Soudní tlumočník,PhDr.,Ivana,Dobrotová,Olomouc,POLSKÝ,Ne
+1997,Soudní tlumočník,doc. PhDr.,Ivana,Dobrotová,Olomouc,POLSKÝ,Ano
 1993,Soudní tlumočník,Mgr.,Natalia,Tellerová,Vsetín,RUSKÝ,Ne
 1991,Soudní tlumočník,bez titulu,Božena,Pokludová,Nový Jičín,NĚMECKÝ,Ne
 1996,Soudní tlumočník,Ing.,Evelina,Zajoncová,Havířov,POLSKÝ,Ne
@@ -3281,8 +3274,8 @@ Rok zápisu,Druh osoby,Titul,Jméno,Příjmení,Město,Jazyky,Zkouška vykonána
 1992,Soudní tlumočník,PhDr.,Dagmar,Hahnová,Opava,ANGLICKÝ,Ne
 2000,Soudní tlumočník,Mgr.,Marcela,Neničková,Karviná,ANGLICKÝ,Ne
 2001,Soudní tlumočník,Ing.,Božetěch,David,Petřvald,RUMUNSKÝ,Ne
-2003,Soudní tlumočník,Ing.,Olga,Lazorišáková,Služovice,UKRAJINSKÝ|RUSKÝ,Ne
-2000,Soudní tlumočník,Ing.,Mir,Shirzad,Ostrava,PAŠTSKÝ|DÁRIJSKÝ|PERSKÝ,Ne
+2003,Soudní tlumočník,Ing.,Olga,Lazorišáková,Služovice,RUSKÝ|UKRAJINSKÝ,Ne
+2000,Soudní tlumočník,Ing.,Mir,Shirzad,Ostrava,DÁRIJSKÝ|PERSKÝ|PAŠTSKÝ,Ne
 2001,Soudní tlumočník,ISMAEL,SUGRANĚS,IGARTÚA,Lipník nad Bečvou,ANGLICKÝ|ŠPANĚLSKÝ,Ne
 1993,Soudní tlumočník,Ing.,Miloslava,Malenková,Ostrava,UKRAJINSKÝ|RUSKÝ,Ne
 1999,Soudní tlumočník,bez titulu,Světlana,Alexandruková,Suchdol nad Odrou,UKRAJINSKÝ|RUSKÝ,Ne
@@ -3317,9 +3310,9 @@ Rok zápisu,Druh osoby,Titul,Jméno,Příjmení,Město,Jazyky,Zkouška vykonána
 2003,Soudní tlumočník,Ing.,Petr,Twardzik,Český Těšín,POLSKÝ,Ne
 2002,Soudní tlumočník,Mgr.,Irena,Šotková,Olomouc,ANGLICKÝ,Ne
 1991,Soudní tlumočník,Ing.,Richard,Wieluch,Ostrava,CHORVATSKÝ|SRBSKÝ,Ne
-1995,Soudní tlumočník,Mgr.,Taťána,Dumonceau,Horní Benešov,RUSKÝ,Ne
-2002,Soudní tlumočník,BcA.,Hana,Baronová,Kozmice,ANGLICKÝ,Ne
-2002,Soudní tlumočník,Mgr.,Milan,Kříž,Olomouc,NIZOZEMSKÝ,Ne
+1995,Soudní tlumočník,Mgr.,Taťána,Dumonceau,Horní Benešov,RUSKÝ,Ano
+2002,Soudní tlumočník,BcA.,Hana,Baronová,Kozmice,ANGLICKÝ,Ano
+2002,Soudní tlumočník,Mgr.,Milan,Kříž,Olomouc,NIZOZEMSKÝ,Ano
 1991,Soudní tlumočník,Ing.,Kateřina,Podlasová,Ostrava,NĚMECKÝ,Ne
 1994,Soudní tlumočník,Ing.,Vladimír,Malenko,Ostrava,RUSKÝ|UKRAJINSKÝ,Ne
 1993,Soudní tlumočník,PhDr.,Dana,Nowaková,Praha,NĚMECKÝ,Ne
@@ -3332,7 +3325,7 @@ Rok zápisu,Druh osoby,Titul,Jméno,Příjmení,Město,Jazyky,Zkouška vykonána
 2001,Soudní překladatel,Mgr.,Zuzana,Hamuľaková,Valašské Meziříčí,NĚMECKÝ,Ne
 2002,Soudní tlumočník,Ing.,Irina,Spáčilová,Havířov,RUSKÝ,Ano
 2002,Soudní tlumočník,bez titulu,Nana,Slavíková,Ostrava,GRUZÍNSKÝ,Ne
-1991,Soudní tlumočník,PhDr. Ing.,Irena,Srkalová,Opava,ESPERANTO|NĚMECKÝ|ANGLICKÝ,Ne
+1991,Soudní tlumočník,PhDr. Ing.,Irena,Srkalová,Opava,NĚMECKÝ|ANGLICKÝ|ESPERANTO,Ne
 1991,Soudní tlumočník,bez titulu,Jarmila,Navrátilová,Přerov,FRANCOUZSKÝ,Ne
 2002,Soudní tlumočník,Ing.,Omar,Agilla,Ostrava,ARABSKÝ,Ne
 1996,Soudní tlumočník,Mgr.,Petr,Valášek,Olomouc,NĚMECKÝ,Ne
@@ -3362,16 +3355,16 @@ Rok zápisu,Druh osoby,Titul,Jméno,Příjmení,Město,Jazyky,Zkouška vykonána
 1997,Soudní tlumočník,RNDr.,Lumír,Krátký,Ostrava,RUSKÝ,Ne
 1997,Soudní tlumočník,bez titulu,Riem,Nguyen,Mohelnice,VIETNAMSKÝ,Ne
 1991,Soudní tlumočník,JUDr.,Jana,Matýsková,Třinec,POLSKÝ,Ne
-1999,Soudní tlumočník,Ing.,Radim,Škvára,Přerov,ANGLICKÝ|SLOVENSKÝ,Ne
+1999,Soudní tlumočník,Ing.,Radim,Škvára,Přerov,ANGLICKÝ|SLOVENSKÝ|SLOVENSKÝ,Ano
 1995,Soudní tlumočník,Ing.,Jana,Matlochová,Ostrava,POLSKÝ,Ne
 1992,Soudní tlumočník,Ing.,Božena,Dostálová,Čechy,NĚMECKÝ,Ne
 1995,Soudní tlumočník,Mgr.,Aleš,Bajgar,Ostrava,ANGLICKÝ,Ano
 2002,Soudní tlumočník,bez titulu,Lenka,Petrášová,Kopřivnice,ANGLICKÝ,Ano
 1991,Soudní tlumočník,Ing.,Jaroslav,Nahodil,Ostrava,NĚMECKÝ,Ne
-1995,Soudní tlumočník,Mgr.,Jindřiška,Radevová,Opava,ITALSKÝ|FRANCOUZSKÝ,Ne
+1995,Soudní tlumočník,Mgr.,Jindřiška,Radevová,Opava,FRANCOUZSKÝ|ITALSKÝ,Ne
 1995,Soudní tlumočník,Ing. Mgr.,Petr,Bednarský,Hranice,ANGLICKÝ|NĚMECKÝ,Ne
 1998,Soudní tlumočník,Mgr.,Ivana,Nováková,Valašské Meziříčí,NĚMECKÝ,Ne
-2002,Soudní překladatel,Mgr.,Lucie,Kováčová,Bruntál,RUSKÝ|ANGLICKÝ,Ne
+2002,Soudní překladatel,Mgr.,Lucie,Kováčová,Bruntál,ANGLICKÝ|RUSKÝ,Ano
 1996,Soudní tlumočník,Mgr.,Hana,Bártková,Lučina,NĚMECKÝ,Ne
 1997,Soudní tlumočník,Ing.,Salem Mohammad Najeeb,Batiha,Ostrava,ARABSKÝ,Ne
 1994,Soudní tlumočník,RNDr.,Petr,Rumpel,Bohumín,NĚMECKÝ,Ne
@@ -3397,7 +3390,7 @@ Rok zápisu,Druh osoby,Titul,Jméno,Příjmení,Město,Jazyky,Zkouška vykonána
 1999,Soudní tlumočník,Mgr.,Farid,Alizey,Ostrava,PERSKÝ|PAŠTSKÝ,Ne
 2001,Soudní tlumočník,Mgr.,Petra,Stanjurová,Opava,NĚMECKÝ,Ne
 2000,Soudní tlumočník,Mgr.,Martina,Thaiszová,Frýdek-Místek,NĚMECKÝ,Ne
-1996,Soudní tlumočník,doc. Mgr.,Jaromír,Kadlec,Olomouc,FRANCOUZSKÝ|ŠPANĚLSKÝ,Ano
+1996,Soudní tlumočník,doc. Mgr.,Jaromír,Kadlec,Olomouc,ŠPANĚLSKÝ|FRANCOUZSKÝ,Ano
 2001,Soudní tlumočník,bez titulu,Lucie,Kilian,"Konnersreuth, Německo",NĚMECKÝ|NĚMECKÝ,Ano
 1991,Soudní tlumočník,Ing.,Nikolaos,Tsametis,Ostrava,ŘECKÝ,Ne
 2001,Soudní tlumočník,Ing.,Marie,Čaušević,Praha,CHORVATSKÝ|SRBSKÝ,Ne
@@ -3412,7 +3405,7 @@ Rok zápisu,Druh osoby,Titul,Jméno,Příjmení,Město,Jazyky,Zkouška vykonána
 2001,Soudní překladatel,Mgr.,Blažena,Coufalová,Šumperk,ANGLICKÝ,Ne
 1991,Soudní tlumočník,PhDr.,Zora,Kudělková,Hodslavice,NĚMECKÝ,Ne
 2002,Soudní tlumočník,Mgr.,Andrea,Krúpová,Karviná,LATINSKÝ,Ne
-1991,Soudní tlumočník,Mgr.,Nina,Přibylová,Ostrava,NĚMECKÝ|POLSKÝ,Ne
+1991,Soudní tlumočník,Mgr.,Nina,Přibylová,Ostrava,POLSKÝ|NĚMECKÝ,Ne
 1991,Soudní tlumočník,Ing.,Elvira Mária,Janác,Frýdek-Místek,MAĎARSKÝ,Ne
 1995,Soudní tlumočník,bez titulu,Anna,Pyszná,Karviná,POLSKÝ,Ne
 1999,Soudní tlumočník,Mgr.,Milena,Saňáková,Kopřivnice,NĚMECKÝ|NORSKÝ|ANGLICKÝ,Ne
@@ -3421,12 +3414,12 @@ Rok zápisu,Druh osoby,Titul,Jméno,Příjmení,Město,Jazyky,Zkouška vykonána
 1995,Soudní tlumočník,Mgr.,Martin,Štěrba,Olomouc,ANGLICKÝ,Ano
 1991,Soudní tlumočník,bez titulu,Canh,Nguyen,Ostrava,VIETNAMSKÝ,Ne
 2003,Soudní tlumočník,Mgr.,Jelena,Kutějová,Karlovy Vary,BĚLORUSKÝ|RUSKÝ,Ne
-1995,Soudní tlumočník,Mgr.,Jitka,Ditmarová,Olomouc,NĚMECKÝ,Ne
+1995,Soudní tlumočník,Mgr.,Jitka,Ditmarová,Olomouc,NĚMECKÝ,Ano
 1997,Soudní tlumočník,Mgr.,Martin,Schuster,Opava,ANGLICKÝ,Ne
 2002,Soudní tlumočník,Mgr.,Hana,Miencil,Praha,ITALSKÝ|ANGLICKÝ,Ne
 2002,Soudní tlumočník,Mgr.,Kateřina,Křížová,Olomouc,NIZOZEMSKÝ,Ne
 1993,Soudní tlumočník,Mgr.,Jitka,Suchanková,Frýdek-Místek,RUSKÝ|NĚMECKÝ|FRANCOUZSKÝ,Ne
-2007,Soudní překladatel,Mgr. et Mgr.,Marie,Maliňáková,Olomouc,NĚMECKÝ,Ne
+2007,Soudní překladatel,Mgr. et Mgr.,Marie,Maliňáková,Olomouc,NĚMECKÝ,Ano
 2008,Soudní překladatel,Mgr.,Lucie,Šebelová,Město Albrechtice,POLSKÝ,Ano
 2008,Soudní překladatel,Mgr.,Jan,Zyder,Horní Suchá,POLSKÝ,Ano
 2004,Soudní překladatel,Mgr.,Linda,Miervová,Opava,ANGLICKÝ,Ne
@@ -3439,7 +3432,6 @@ Rok zápisu,Druh osoby,Titul,Jméno,Příjmení,Město,Jazyky,Zkouška vykonána
 2007,Soudní překladatel,RNDr.,Roman,Strzondala,Mosty u Jablunkova,POLSKÝ,Ne
 2006,Soudní překladatel,Mgr.,Zita,Sýkorová,Valašské Meziříčí,ANGLICKÝ,Ne
 2006,Soudní překladatel,PhDr.,Alicja,Smiga,Český Těšín,POLSKÝ,Ano
-2006,Soudní překladatel,PhDr.,Beáta,Sedláčková,Krnov,SLOVENSKÝ,Ne
 2006,Soudní překladatel,Mgr.,Pavlína,Gregorová,Přerov,ANGLICKÝ,Ne
 2006,Soudní překladatel,Mgr.,Silvie,Kany,Brušperk,NĚMECKÝ,Ne
 2006,Soudní překladatel,Ing.,Žofie,Siudová,Dětmarovice,POLSKÝ,Ne
@@ -3449,13 +3441,13 @@ Rok zápisu,Druh osoby,Titul,Jméno,Příjmení,Město,Jazyky,Zkouška vykonána
 2008,Soudní překladatel,Mgr.,Veronika,Maňasová,Hlučín,NĚMECKÝ,Ano
 2007,Soudní překladatel,Bc.,Kamila,Švejcarová,Olomouc,NIZOZEMSKÝ,Ne
 2007,Soudní překladatel,doc. Ing.,Aleksandr,Ključnikov,Ostrava,RUSKÝ|BĚLORUSKÝ,Ne
-2007,Soudní překladatel,Mgr.,Emir,Šehović,Opava,CHORVATSKÝ|BOSENSKÝ|SRBSKÝ,Ne
+2007,Soudní překladatel,Mgr.,Emir,Šehović,Opava,BOSENSKÝ|SRBSKÝ|CHORVATSKÝ,Ne
 2007,Soudní překladatel,bez titulu,Gahira,Mammadova,Ostrava,AZERBAJDŽANSKÝ|RUSKÝ,Ne
 2007,Soudní překladatel,bez titulu,Otgon,Lkhamsurenová,Hodslavice,MONGOLSKÝ,Ne
-2007,Soudní překladatel,PhDr.,Barbora,Černá Dvořáková,Ostrava,ANGLICKÝ,Ne
+2007,Soudní překladatel,PhDr.,Barbora,Černá Dvořáková,Ostrava,ANGLICKÝ,Ano
 2007,Soudní překladatel,Mgr.,Barbora,Ottnerová,Český Těšín,FRANCOUZSKÝ,Ne
 2006,Soudní překladatel,Ing.,Lenka,Zbožínková,Přerov,RUSKÝ,Ano
-2006,Soudní překladatel,Mgr.,Pavlína,Ullmannová,Olomouc,ŠPANĚLSKÝ|ANGLICKÝ,Ano
+2006,Soudní překladatel,Mgr.,Pavlína,Ullmannová,Olomouc,ANGLICKÝ|ŠPANĚLSKÝ,Ano
 2006,Soudní překladatel,Mgr.,Soňa,Onderková,Olomouc,RUSKÝ|NĚMECKÝ|NIZOZEMSKÝ,Ne
 2006,Soudní překladatel,Mgr.,Eva,Lešenarová,Nový Jičín,NĚMECKÝ,Ne
 2004,Soudní překladatel,bez titulu,Věra Anna,Mánek,Opava,ZNAKOVÝ JAZYK,Ne
@@ -3465,21 +3457,21 @@ Rok zápisu,Druh osoby,Titul,Jméno,Příjmení,Město,Jazyky,Zkouška vykonána
 2009,Soudní překladatel,bez titulu,Anatolij,Butrym,Opava,UKRAJINSKÝ|RUSKÝ|NĚMECKÝ,Ne
 2008,Soudní překladatel,PhDr.,Ljuba,Mrověcová,Ostrava,RUSKÝ,Ne
 2008,Soudní překladatel,Ing.,Šárka,Chorovská,Ostrava,ITALSKÝ,Ano
-2008,Soudní překladatel,Mgr.,Adéla,Banáková,Frýdek-Místek,NĚMECKÝ,Ne
+2008,Soudní překladatel,Mgr.,Adéla,Banáková,Frýdek-Místek,NĚMECKÝ,Ano
 2008,Soudní překladatel,bez titulu,Pavli,Rose,Zlaté Hory,ANGLICKÝ,Ne
 2008,Soudní překladatel,Mgr.,Izabela,Żurová,Třinec,POLSKÝ,Ne
 2008,Soudní překladatel,bez titulu,Danuše,Lukasová,Ostrava,ZNAKOVÝ JAZYK,Ne
 2008,Soudní překladatel,Mgr.,Jana,Karpecká,Mosty u Jablunkova,ANGLICKÝ,Ne
 2008,Soudní překladatel,Mgr.,Ivana,Müllerová,Praha,NĚMECKÝ,Ne
 2008,Soudní překladatel,Mgr.,Pavlína,Hradilová,Krnov,ANGLICKÝ,Ne
-2008,Soudní překladatel,Mgr.,Lukáš,Utíkal,Náklo,ANGLICKÝ|ŠPANĚLSKÝ,Ne
+2008,Soudní překladatel,Mgr.,Lukáš,Utíkal,Náklo,ANGLICKÝ|ŠPANĚLSKÝ,Ano
 2005,Soudní překladatel,Mgr.,Libuše,Marková,Krhová,ANGLICKÝ,Ano
 2005,Soudní překladatel,Mgr.,Dalimil,Šebesta,Havířov,ANGLICKÝ|ŠPANĚLSKÝ,Ne
 2005,Soudní překladatel,bez titulu,Fusheng,Li,Ostrava,ČÍNSKÝ,Ne
 2005,Soudní překladatel,PhDr.,Dagmar,Toulová,Opava,FRANCOUZSKÝ|RUSKÝ,Ne
 2004,Soudní překladatel,bez titulu,Miluše,Helie,Dolní Bečva,FRANCOUZSKÝ,Ne
 1994,Soudní překladatel,Ing.,Natalia,Mlynková,Havířov,POLSKÝ,Ne
-2009,Soudní překladatel,Mgr.,Martina,Pálušová,Hlušovice,RUSKÝ,Ne
+2009,Soudní překladatel,Mgr.,Martina,Pálušová,Hlušovice,RUSKÝ,Ano
 2009,Soudní překladatel,Mgr.,Jana,Pálková,Olomouc,ITALSKÝ,Ne
 2018,Soudní překladatel,Mgr.,Hana,Kubicová,Žulová,ANGLICKÝ,Ano
 2009,Soudní překladatel,Mgr.,Alexandra,Paszová,Orlová,ŠPANĚLSKÝ|POLSKÝ,Ano
@@ -3493,7 +3485,7 @@ Rok zápisu,Druh osoby,Titul,Jméno,Příjmení,Město,Jazyky,Zkouška vykonána
 2005,Soudní překladatel,Mgr.,Petr,Máj,Opava,NĚMECKÝ|FRANCOUZSKÝ,Ne
 2005,Soudní překladatel,Mgr.,Alena,Němcová,Chuchelná,NĚMECKÝ,Ne
 2004,Soudní překladatel,dipl.Germ.Univ.,Lucie,Meidel,Třinec,NĚMECKÝ,Ne
-2005,Soudní překladatel,Ing.,Dušan,Fürst,Olomouc,SRBSKÝ|BOSENSKÝ|CHORVATSKÝ|ČERNOHORSKÝ,Ne
+2005,Soudní překladatel,Ing.,Dušan,Fürst,Olomouc,CHORVATSKÝ|ČERNOHORSKÝ|SRBSKÝ|BOSENSKÝ,Ne
 2016,Soudní překladatel,Mgr.,Tomáš,Macek,Baška,NĚMECKÝ,Ano
 2016,Soudní překladatel,Mgr.,Jakub,Hovorka,Postřelmůvek,ANGLICKÝ,Ano
 2016,Soudní překladatel,Mgr.,Darina,Černochová,Bordovice,ANGLICKÝ|FRANCOUZSKÝ,Ano
@@ -3512,7 +3504,7 @@ Rok zápisu,Druh osoby,Titul,Jméno,Příjmení,Město,Jazyky,Zkouška vykonána
 2004,Soudní překladatel,Mgr.,Zuzana,Kočičková,Vrbno pod Pradědem,ANGLICKÝ,Ano
 2005,Soudní překladatel,Mgr.,Barbara,Bubiková,Ostrava,POLSKÝ,Ano
 2006,Soudní překladatel,Mgr.,Pavlína,Knap Dlouhá,Olomouc,NIZOZEMSKÝ,Ne
-2005,Soudní překladatel,Ing.,Radovan,Žorič,Havířov,CHORVATSKÝ|SRBSKÝ|BOSENSKÝ,Ne
+2005,Soudní překladatel,Ing.,Radovan,Žorič,Havířov,SRBSKÝ|BOSENSKÝ|CHORVATSKÝ,Ne
 2009,Soudní překladatel,Mgr.,Marie,Tomášková,Ostrava,FRANCOUZSKÝ,Ne
 2005,Soudní překladatel,Mgr.,Renata,Poloková,Ostrava,NĚMECKÝ,Ano
 1996,Soudní překladatel,Mgr.,Josef,Melecký,Kravaře,NĚMECKÝ,Ne
@@ -3520,12 +3512,12 @@ Rok zápisu,Druh osoby,Titul,Jméno,Příjmení,Město,Jazyky,Zkouška vykonána
 1992,Soudní překladatel,Bc.,Pavlína,Zarubová,Ostrava,ZNAKOVÝ JAZYK,Ne
 2018,Soudní překladatel,Mgr.,Adéla,Horáková,Olomouc,ANGLICKÝ,Ano
 2018,Soudní překladatel,Mgr.,Silvie,Průšová,Šumperk,ŠPANĚLSKÝ,Ne
-2019,Soudní překladatel,Ing. Mgr.,Miroslava,Müllerová,Bohuňovice,BULHARSKÝ,Ne
+2019,Soudní překladatel,Ing. Mgr.,Miroslava,Müllerová,Bohuňovice,BULHARSKÝ,Ano
 1997,Soudní překladatel,bez titulu,Jiřina,Vysoká,Havířov,NĚMECKÝ,Ne
 2019,Soudní překladatel,Mgr.,Joachim,Heczko,Český Těšín,POLSKÝ,Ne
 2016,Soudní překladatel,Mgr.,Kateřina,Divišová,Nový Malín,FRANCOUZSKÝ|PORTUGALSKÝ,Ne
 2016,Soudní překladatel,Mgr.,Uljana,Cholodová,Olomouc,UKRAJINSKÝ|RUSKÝ,Ano
-2005,Soudní překladatel,PhDr.,Libor,Šanovec,Ruda nad Moravou,RUSKÝ|NĚMECKÝ,Ne
+2005,Soudní překladatel,PhDr.,Libor,Šanovec,Ruda nad Moravou,NĚMECKÝ|RUSKÝ,Ne
 2002,Soudní překladatel,Mgr.,Lenka,Stratilová,Olomouc,NĚMECKÝ,Ano
 2006,Soudní překladatel,PhDr.,Juana,Bolek,Havířov,ŠPANĚLSKÝ,Ne
 2010,Soudní překladatel,Mgr.,Barbora,Arvai,Ostrava,ANGLICKÝ,Ano
@@ -3554,21 +3546,21 @@ Rok zápisu,Druh osoby,Titul,Jméno,Příjmení,Město,Jazyky,Zkouška vykonána
 2014,Soudní překladatel,Mgr.,Yuji,Nakaya,Olomouc,JAPONSKÝ,Ano
 2015,Soudní překladatel,Mgr. et Mgr.,Robert,Kufa,Český Těšín,POLSKÝ,Ano
 2010,Soudní překladatel,Mgr.,Lucie,Vrbová,Olomouc,ANGLICKÝ|JAPONSKÝ,Ano
-2016,Soudní překladatel,Mgr.,Jana,Mikulenková,Životice u Nového Jičína,ANGLICKÝ,Ne
+2016,Soudní překladatel,Mgr.,Jana,Mikulenková,Životice u Nového Jičína,ANGLICKÝ,Ano
 2016,Soudní překladatel,Mgr.,Andrea,Fajkusová,Ostrava,ŠPANĚLSKÝ|NĚMECKÝ,Ano
 2019,Soudní překladatel,Bc.,Khandarmaa,Tsogt,Přerov,MONGOLSKÝ,Ne
 2019,Soudní překladatel,Ing. Mgr.,Pavel,Brunda,Olomouc,ANGLICKÝ,Ano
-2019,Soudní překladatel,Mgr.,Iveta,Svozilová,Praha,ŠPANĚLSKÝ,Ne
+2019,Soudní překladatel,Mgr.,Iveta,Svozilová,Praha,ŠPANĚLSKÝ,Ano
 2019,Soudní překladatel,MSc.,Jitka,Marešová,Šumperk,ANGLICKÝ,Ano
 2021,Soudní překladatel,Mgr.,Terezie,Šťastná,Olomouc,ANGLICKÝ,Ne
 2021,Soudní překladatel,bez titulu,Pavlína,Matějová,Křelov-Břuchotín,NĚMECKÝ,Ano
 2022,Soudní překladatel,Mgr.,Gordana,Raková,Opava,RUSKÝ,Ne
 2022,Soudní překladatel,Mgr.,Jitka,Králová Lukášová,Slatina,ŠPANĚLSKÝ,Ne
-2022,Soudní překladatel,Mgr.,Petra,Dokládalová,Olomouc,ŠPANĚLSKÝ|PORTUGALSKÝ,Ano
+2022,Soudní překladatel,Mgr.,Petra,Dokládalová,Olomouc,PORTUGALSKÝ|ŠPANĚLSKÝ,Ano
 2018,Soudní překladatel,Mgr.,Jana,Hawkins,Praha,ANGLICKÝ,Ano
-1997,Soudní překladatel,PhDr.,Ivana,Dobrotová,Olomouc,POLSKÝ,Ne
+1997,Soudní překladatel,doc. PhDr.,Ivana,Dobrotová,Olomouc,POLSKÝ,Ano
 1993,Soudní překladatel,Mgr.,Natalia,Tellerová,Vsetín,RUSKÝ,Ne
-1999,Soudní překladatel,Mgr.,Kamila,Štefánková,Havířov,ANGLICKÝ,Ne
+1999,Soudní překladatel,Mgr.,Kamila,Štefánková,Havířov,ANGLICKÝ,Ano
 1991,Soudní překladatel,bez titulu,Božena,Pokludová,Nový Jičín,NĚMECKÝ,Ne
 1996,Soudní překladatel,Ing.,Evelina,Zajoncová,Havířov,POLSKÝ,Ne
 2009,Soudní překladatel,Mgr.,David,Biernot,Rychvald,HEBREJSKÝ,Ne
@@ -3600,7 +3592,7 @@ Rok zápisu,Druh osoby,Titul,Jméno,Příjmení,Město,Jazyky,Zkouška vykonána
 2010,Soudní překladatel,Mgr.,Denisa,Korabíková,Český Těšín,NĚMECKÝ,Ne
 2010,Soudní překladatel,Bc.,Ivan,Fizer,Frýdek-Místek,UKRAJINSKÝ,Ano
 2013,Soudní překladatel,Mgr.,Iva,Neulsová,Přerov,ŠPANĚLSKÝ|PORTUGALSKÝ,Ano
-2009,Soudní překladatel,Mgr.,Marie,Werbová,Ostrava,NĚMECKÝ,Ne
+2009,Soudní překladatel,Mgr.,Marie,Werbová,Ostrava,NĚMECKÝ,Ano
 2011,Soudní překladatel,Mgr.,Jana,Ševčíková,Přerov,FRANCOUZSKÝ|ANGLICKÝ,Ano
 2011,Soudní překladatel,Bc.,Irena,Šipošová Ronzani,Ostrava,ITALSKÝ,Ne
 2011,Soudní překladatel,bez titulu,Phuong,Sládková,Ostrava,VIETNAMSKÝ,Ne
@@ -3615,8 +3607,8 @@ Rok zápisu,Druh osoby,Titul,Jméno,Příjmení,Město,Jazyky,Zkouška vykonána
 2003,Soudní překladatel,Ing.,Petr,Twardzik,Český Těšín,POLSKÝ,Ne
 2002,Soudní překladatel,Mgr.,Irena,Šotková,Olomouc,ANGLICKÝ,Ne
 1991,Soudní překladatel,Ing.,Richard,Wieluch,Ostrava,SRBSKÝ|CHORVATSKÝ,Ne
-1995,Soudní překladatel,Mgr.,Taťána,Dumonceau,Horní Benešov,RUSKÝ,Ne
-2002,Soudní překladatel,BcA.,Hana,Baronová,Kozmice,ANGLICKÝ,Ne
+1995,Soudní překladatel,Mgr.,Taťána,Dumonceau,Horní Benešov,RUSKÝ,Ano
+2002,Soudní překladatel,BcA.,Hana,Baronová,Kozmice,ANGLICKÝ,Ano
 1999,Soudní překladatel,bez titulu,Světlana,Alexandruková,Suchdol nad Odrou,RUSKÝ|UKRAJINSKÝ,Ne
 1997,Soudní překladatel,Mgr.,Jana,Václavíková,Ostrava,ANGLICKÝ,Ano
 1991,Soudní překladatel,Ing.,Kateřina,Podlasová,Ostrava,NĚMECKÝ,Ne
@@ -3624,7 +3616,7 @@ Rok zápisu,Druh osoby,Titul,Jméno,Příjmení,Město,Jazyky,Zkouška vykonána
 1993,Soudní překladatel,PhDr.,Dana,Nowaková,Praha,NĚMECKÝ,Ne
 1996,Soudní překladatel,Mgr.,Libuše,Gorská,Šumperk,RUSKÝ,Ne
 1991,Soudní překladatel,bez titulu,Jan,Branný,Český Těšín,POLSKÝ,Ne
-1992,Soudní překladatel,Ing.,Sulamif,Šímová,Ostrava,RUSKÝ|UKRAJINSKÝ,Ne
+1992,Soudní překladatel,Ing.,Sulamif,Šímová,Ostrava,UKRAJINSKÝ|RUSKÝ,Ne
 1996,Soudní překladatel,Mgr.,Martina,Köthen,Olomouc,NĚMECKÝ,Ne
 1992,Soudní překladatel,bez titulu,Milan,Koraba,Vsetín,ANGLICKÝ,Ne
 2001,Soudní překladatel,ISMAEL,SUGRANĚS,IGARTÚA,Lipník nad Bečvou,ŠPANĚLSKÝ|ANGLICKÝ,Ne
@@ -3632,11 +3624,11 @@ Rok zápisu,Druh osoby,Titul,Jméno,Příjmení,Město,Jazyky,Zkouška vykonána
 1991,Soudní překladatel,Mgr.,Jana,Stojčevová,Libhošť,BULHARSKÝ,Ne
 2000,Soudní překladatel,PhDr.,Ivana,Fuxová,Ostrava,SLOVENSKÝ,Ne
 1999,Soudní překladatel,PhDr.,Bronislava,Grygová,Olomouc,ANGLICKÝ,Ne
-2002,Soudní překladatel,Mgr.,Milan,Kříž,Olomouc,NIZOZEMSKÝ,Ne
+2002,Soudní překladatel,Mgr.,Milan,Kříž,Olomouc,NIZOZEMSKÝ,Ano
 2002,Soudní překladatel,Ing.,Omar,Agilla,Ostrava,ARABSKÝ,Ne
 1996,Soudní překladatel,Mgr.,Petr,Valášek,Olomouc,NĚMECKÝ,Ne
 1995,Soudní překladatel,Mgr.,Ivana,Škvárová,Přerov,ANGLICKÝ,Ne
-1991,Soudní překladatel,bez titulu,Mirjana,Klokočníková,Ostrava,CHORVATSKÝ|BOSENSKÝ|SRBSKÝ,Ne
+1991,Soudní překladatel,bez titulu,Mirjana,Klokočníková,Ostrava,SRBSKÝ|CHORVATSKÝ|BOSENSKÝ,Ne
 2000,Soudní překladatel,Mgr.,Jana,Fierlová,Karviná,POLSKÝ,Ne
 2000,Soudní překladatel,Mgr.,Marian,Przybyla,Krnov,POLSKÝ,Ano
 2001,Soudní překladatel,Mgr.,Miluše,Psotová,Opava,ANGLICKÝ,Ano
@@ -3652,7 +3644,7 @@ Rok zápisu,Druh osoby,Titul,Jméno,Příjmení,Město,Jazyky,Zkouška vykonána
 1999,Soudní překladatel,Ing.,Jiří,Anderš,Bělkovice-Lašťany,UKRAJINSKÝ|RUSKÝ,Ne
 1991,Soudní překladatel,Ing.,György,Guba,Rychvald,MAĎARSKÝ,Ne
 1998,Soudní překladatel,Mgr.,Petra,Jovanovská,Jeseník,MAKEDONSKÝ,Ne
-1997,Soudní překladatel,Mgr.,Lenka,Řezáčová,Krnov,NĚMECKÝ|RUSKÝ,Ne
+1997,Soudní překladatel,Mgr.,Lenka,Řezáčová,Krnov,RUSKÝ|NĚMECKÝ,Ne
 2003,Soudní překladatel,MVDr.,Salman,Al Said,Ostrava,ARABSKÝ,Ne
 1998,Soudní překladatel,PhDr.,Růžena,Jandorová,Opava,NĚMECKÝ,Ne
 1996,Soudní překladatel,bez titulu,Kateřina,Samadzai,Ostrava,NĚMECKÝ,Ne
@@ -3667,7 +3659,7 @@ Rok zápisu,Druh osoby,Titul,Jméno,Příjmení,Město,Jazyky,Zkouška vykonána
 1997,Soudní překladatel,bez titulu,Riem,Nguyen,Mohelnice,VIETNAMSKÝ,Ne
 1991,Soudní překladatel,JUDr.,Jana,Matýsková,Třinec,POLSKÝ,Ne
 1995,Soudní překladatel,Ing.,Sylva,Franková,Opava,NĚMECKÝ|FRANCOUZSKÝ,Ne
-1991,Soudní překladatel,JUDr.,Marcela,Žoričová,Havířov,CHORVATSKÝ|BOSENSKÝ|SRBSKÝ,Ne
+1991,Soudní překladatel,JUDr.,Marcela,Žoričová,Havířov,BOSENSKÝ|CHORVATSKÝ|SRBSKÝ,Ne
 1998,Soudní překladatel,Mgr.,Naděžda,Kolinová,Zbyslavice,RUSKÝ,Ne
 1992,Soudní překladatel,Ing.,Božena,Dostálová,Čechy,NĚMECKÝ,Ne
 1995,Soudní překladatel,Mgr.,Aleš,Bajgar,Ostrava,ANGLICKÝ,Ano
@@ -3682,7 +3674,7 @@ Rok zápisu,Druh osoby,Titul,Jméno,Příjmení,Město,Jazyky,Zkouška vykonána
 1996,Soudní překladatel,bez titulu,Martina,Kulíšková,Olomouc,SLOVINSKÝ,Ano
 1995,Soudní překladatel,Ing.,Jana,Matlochová,Ostrava,POLSKÝ,Ne
 2002,Soudní překladatel,bez titulu,Nana,Slavíková,Ostrava,GRUZÍNSKÝ,Ne
-1999,Soudní překladatel,Ing.,Radim,Škvára,Přerov,SLOVENSKÝ|ANGLICKÝ,Ne
+1999,Soudní překladatel,Ing.,Radim,Škvára,Přerov,ANGLICKÝ|SLOVENSKÝ,Ano
 1991,Soudní překladatel,MUDr.,Světlana,Palátová,Olomouc,RUSKÝ,Ne
 1994,Soudní překladatel,Ing.,Tan,Trinh,Ostrava,VIETNAMSKÝ,Ne
 2003,Soudní překladatel,Mgr.,Irina,Vančická,Ostrava,RUSKÝ|UKRAJINSKÝ,Ano
@@ -3705,17 +3697,17 @@ Rok zápisu,Druh osoby,Titul,Jméno,Příjmení,Město,Jazyky,Zkouška vykonána
 1991,Soudní překladatel,JUDr.,Jindřich,Jonszta,Karviná,POLSKÝ,Ne
 1991,Soudní překladatel,PhDr.,Zora,Kudělková,Hodslavice,NĚMECKÝ,Ne
 2002,Soudní překladatel,Mgr.,Andrea,Krúpová,Karviná,LATINSKÝ,Ne
-1991,Soudní překladatel,Mgr.,Nina,Přibylová,Ostrava,POLSKÝ|NĚMECKÝ,Ne
+1991,Soudní překladatel,Mgr.,Nina,Přibylová,Ostrava,NĚMECKÝ|POLSKÝ,Ne
 1991,Soudní překladatel,Ing.,Elvira Mária,Janác,Frýdek-Místek,MAĎARSKÝ,Ne
 1995,Soudní překladatel,bez titulu,Anna,Pyszná,Karviná,POLSKÝ,Ne
-1999,Soudní překladatel,Mgr.,Milena,Saňáková,Kopřivnice,NĚMECKÝ|NORSKÝ|ANGLICKÝ,Ne
+1999,Soudní překladatel,Mgr.,Milena,Saňáková,Kopřivnice,ANGLICKÝ|NĚMECKÝ|NORSKÝ,Ne
 2001,Soudní překladatel,bez titulu,Lucie,Kilian,"Konnersreuth, Německo",NĚMECKÝ,Ano
 2003,Soudní překladatel,bez titulu,GABRIEL,MAKKI,Ostrava-Nová Bělá,ARABSKÝ,Ne
 2001,Soudní překladatel,Mgr.,Martina,Pračkeová,Olomouc,ITALSKÝ,Ne
 1995,Soudní překladatel,Mgr.,Martin,Štěrba,Olomouc,ANGLICKÝ,Ano
 1991,Soudní překladatel,bez titulu,Canh,Nguyen,Ostrava,VIETNAMSKÝ,Ne
 2003,Soudní překladatel,Mgr.,Jelena,Kutějová,Karlovy Vary,BĚLORUSKÝ|RUSKÝ,Ne
-1995,Soudní překladatel,Mgr.,Jitka,Ditmarová,Olomouc,NĚMECKÝ,Ne
+1995,Soudní překladatel,Mgr.,Jitka,Ditmarová,Olomouc,NĚMECKÝ,Ano
 1997,Soudní překladatel,Mgr.,Martin,Schuster,Opava,ANGLICKÝ,Ne
 2002,Soudní překladatel,Mgr.,Hana,Miencil,Praha,ITALSKÝ|ANGLICKÝ,Ne
 2002,Soudní překladatel,Mgr.,Kateřina,Křížová,Olomouc,NIZOZEMSKÝ,Ne
@@ -3777,7 +3769,7 @@ Rok zápisu,Druh osoby,Titul,Jméno,Příjmení,Město,Jazyky,Zkouška vykonána
 2010,Soudní tlumočník,Mgr.,Monika,Pavlisová,Žilina,ANGLICKÝ,Ne
 2010,Soudní tlumočník,Mgr.,Jiří,Kocourek,Průhonice,VIETNAMSKÝ,Ano
 2010,Soudní tlumočník,Mgr.,Petra,Marxová,Kladno,ANGLICKÝ,Ano
-2007,Soudní tlumočník,Mgr.,Marienka-Marcela,Bulisová,Mladá Boleslav,RUMUNSKÝ,Ne
+2007,Soudní tlumočník,Mgr.,Marienka-Marcela,Bulisová,Mladá Boleslav,RUMUNSKÝ|RUMUNSKÝ|SLOVENSKÝ,Ano
 1996,Soudní tlumočník,Mgr.,Eva,Hísková,Jirny,ITALSKÝ|NĚMECKÝ,Ne
 2001,Soudní tlumočník,bez titulu,Nasim,Shakery,Kralupy nad Vltavou,DÁRIJSKÝ|PERSKÝ,Ne
 1992,Soudní tlumočník,Mgr.,Eva,Langerová,Bělá pod Bezdězem,NĚMECKÝ,Ne
@@ -3814,7 +3806,7 @@ Rok zápisu,Druh osoby,Titul,Jméno,Příjmení,Město,Jazyky,Zkouška vykonána
 2008,Soudní tlumočník,Mgr.,Kateřina,Moreira Přikrylová,Bradlec,FRANCOUZSKÝ|ŠPANĚLSKÝ,Ne
 2008,Soudní tlumočník,Mgr. Ing.,Markéta,Schůtová,Neveklov,ŠPANĚLSKÝ,Ano
 2008,Soudní tlumočník,Ing.,Miroslava,Habartová,Jesenice,SLOVENSKÝ,Ne
-2019,Soudní tlumočník,PhDr.,Hana,Drdová,Liteň,RUSKÝ|NĚMECKÝ,Ne
+2019,Soudní tlumočník,PhDr.,Hana,Drdová,Liteň,NĚMECKÝ|RUSKÝ,Ne
 2005,Soudní tlumočník,Mgr.,Soňa,Juráková,Mladá Boleslav,NĚMECKÝ,Ne
 1992,Soudní tlumočník,Ing.,Dagmar,Malá,Chýně,NĚMECKÝ,Ne
 2018,Soudní tlumočník,Mgr.,Jiřina,Holkupová,Klecany,ANGLICKÝ,Ano
@@ -3836,14 +3828,14 @@ Rok zápisu,Druh osoby,Titul,Jméno,Příjmení,Město,Jazyky,Zkouška vykonána
 2004,Soudní tlumočník,Ing.,Josef,Janeček,Klecany,NĚMECKÝ,Ano
 2001,Soudní tlumočník,Mgr.,Natálie,Markova,Škvorec,RUSKÝ,Ne
 2020,Soudní tlumočník,Ing.,Vladislav,Monakov,Roztoky,RUSKÝ,Ne
-2020,Soudní tlumočník,Mgr.,Aneta,Wiejowska Mielniczková,Hostivice,POLSKÝ,Ne
-2020,Soudní tlumočník,Mgr.,Kateřina,Švábová,Zdice,FRANCOUZSKÝ|ANGLICKÝ,Ne
+2020,Soudní tlumočník,Mgr.,Aneta,Wiejowska Mielniczková,Hostivice,POLSKÝ,Ano
+2020,Soudní tlumočník,Mgr.,Kateřina,Švábová,Zdice,FRANCOUZSKÝ|ANGLICKÝ,Ano
 2012,Soudní tlumočník,Mgr.,Jan,Rausch,Černošice,ANGLICKÝ,Ne
 1998,Soudní tlumočník,MUDr.,Jiří,Lešovský,Radim,FRANCOUZSKÝ,Ne
 2020,Soudní tlumočník,Ing.,Radka,Švambergová,Lysá nad Labem,FRANCOUZSKÝ|ANGLICKÝ,Ne
 1997,Soudní tlumočník,Mgr.,Markéta,Hošková,Brandýs nad Labem-Stará Boleslav,ČÍNSKÝ,Ne
 2012,Soudní tlumočník,Mgr. et Mgr.,Lucie,Hosmann Tomaides,Benešov,ANGLICKÝ|JAPONSKÝ,Ne
-2006,Soudní tlumočník,Bc.,Regina,Sokolovskaja,Praha,BĚLORUSKÝ|RUSKÝ,Ne
+2006,Soudní tlumočník,Bc.,Regina,Sokolovskaja,Praha,RUSKÝ|BĚLORUSKÝ,Ne
 2012,Soudní překladatel,Mgr.,Helena,Fanfrlíková,Čerčany,ANGLICKÝ|NĚMECKÝ,Ano
 2012,Soudní tlumočník,Mgr.,Andrea,Rákaiová,Holubice,BULHARSKÝ|RUSKÝ|SLOVENSKÝ,Ano
 2011,Soudní tlumočník,bez titulu,Nguyen Tien,Le,Dolní Břežany,VIETNAMSKÝ,Ne
@@ -3862,7 +3854,7 @@ Rok zápisu,Druh osoby,Titul,Jméno,Příjmení,Město,Jazyky,Zkouška vykonána
 2013,Soudní tlumočník,Mgr.,Helena,Nováková,Lysá nad Labem,ANGLICKÝ,Ano
 2013,Soudní tlumočník,Mgr.,Dagmar,Bizzuto,Praha,ITALSKÝ,Ne
 2015,Soudní tlumočník,Ing.,Barbora Anna,Prescott,Praha,ANGLICKÝ,Ne
-2015,Soudní tlumočník,Mgr.,Jaroslava,Stojčetović,Příbram,CHORVATSKÝ|SRBSKÝ,Ano
+2015,Soudní tlumočník,Mgr.,Jaroslava,Stojčetović,Příbram,SRBSKÝ|CHORVATSKÝ,Ano
 2011,Soudní tlumočník,Mgr.,Ming,Li,Budiměřice,ČÍNSKÝ,Ne
 2005,Soudní tlumočník,Mgr.,Klára,Kořínková,Štěchovice,KOREJSKÝ,Ano
 2016,Soudní tlumočník,Mgr.,Jaroslava,Přerovská,Brandýs nad Labem-Stará Boleslav,ANGLICKÝ,Ano
@@ -3923,12 +3915,12 @@ Rok zápisu,Druh osoby,Titul,Jméno,Příjmení,Město,Jazyky,Zkouška vykonána
 1998,Soudní tlumočník,Mgr.,Olga,Beulakkerová,Rakovník,NĚMECKÝ,Ne
 2003,Soudní tlumočník,Mgr.,Josef,Kučera,Nová Ves,RUMUNSKÝ,Ano
 1992,Soudní překladatel,Mgr.,Hana,Čepelová,Černošice,SRBSKÝ|CHORVATSKÝ,Ne
-2005,Soudní tlumočník,Mgr.,Marie,Doležalová,Český Brod,BULHARSKÝ|ANGLICKÝ,Ne
+2005,Soudní tlumočník,Mgr.,Marie,Doležalová,Český Brod,ANGLICKÝ|BULHARSKÝ,Ne
 2005,Soudní tlumočník,Ing.,Larisa,Roškotová,Příbram,UKRAJINSKÝ|RUSKÝ,Ne
 1992,Soudní tlumočník,PhDr.,Eva,Jahnová,Poděbrady,RUSKÝ|POLSKÝ|NĚMECKÝ,Ne
 1994,Soudní překladatel,Ing.,Guzel,Pakostová,Příbram,ANGLICKÝ,Ano
 1992,Soudní tlumočník,Ing.,Ahmed,Obeid,Černošice,ARABSKÝ,Ne
-2000,Soudní tlumočník,Ing.,Eva,Heřmánková,Vysoký Újezd,FRANCOUZSKÝ|RUSKÝ|ANGLICKÝ,Ne
+2000,Soudní tlumočník,Ing.,Eva,Heřmánková,Vysoký Újezd,RUSKÝ|ANGLICKÝ|FRANCOUZSKÝ,Ne
 1992,Soudní tlumočník,Ing.,The Khoi,Tran,Odolena Voda,VIETNAMSKÝ,Ne
 1999,Soudní tlumočník,Mgr.,Jáchym,Košař,Praha,NĚMECKÝ|RUSKÝ,Ne
 1993,Soudní tlumočník,Ing.,Olga,Neužilová,Příbram,RUSKÝ,Ne
@@ -3960,10 +3952,10 @@ Rok zápisu,Druh osoby,Titul,Jméno,Příjmení,Město,Jazyky,Zkouška vykonána
 2005,Soudní tlumočník,Mgr.,Eva,Bayerová,Brandýs nad Labem-Stará Boleslav,NĚMECKÝ|NIZOZEMSKÝ,Ne
 2005,Soudní tlumočník,Mgr.,Klára,Koutníková,Černošice,FRANCOUZSKÝ,Ne
 2002,Soudní tlumočník,Mgr.,Anna,Kučerová,Praha,NĚMECKÝ,Ne
-2006,Soudní tlumočník,bez titulu,Natalija,Mryščuková,Zdiby,UKRAJINSKÝ|RUSKÝ,Ne
+2006,Soudní tlumočník,bez titulu,Natalija,Mryščuková,Zdiby,UKRAJINSKÝ,Ano
 1997,Soudní tlumočník,Mgr.,Blanka,Krejčová,Zásmuky,NĚMECKÝ,Ne
 1997,Soudní tlumočník,bez titulu,Jiří,Nečesaný,Bělá pod Bezdězem,SRBSKÝ,Ne
-1997,Soudní tlumočník,Mgr.,Miloš,Kadlec,Mladá Boleslav,NĚMECKÝ,Ne
+1997,Soudní tlumočník,Mgr.,Miloš,Kadlec,Mladá Boleslav,NĚMECKÝ,Ano
 2002,Soudní tlumočník,JUDr.,Olga,Humlová,Černošice,NĚMECKÝ,Ne
 1999,Soudní tlumočník,PhDr.,Pavla,Kaňková,Slaný,NĚMECKÝ,Ne
 1999,Soudní tlumočník,Mgr.,Olexandra,Abbidová,Řitka,RUSKÝ|UKRAJINSKÝ,Ne
@@ -4007,7 +3999,7 @@ Rok zápisu,Druh osoby,Titul,Jméno,Příjmení,Město,Jazyky,Zkouška vykonána
 2010,Soudní překladatel,bez titulu,Eva,Raymond,Vysoký Chlumec,FRANCOUZSKÝ|NĚMECKÝ,Ne
 2009,Soudní překladatel,PaedDr. Mgr.,Hana,Bláhová,Lysá nad Labem,RUSKÝ,Ano
 2010,Soudní překladatel,MUDr.,Zuzana,Kejmarová Sedláčková,Čelákovice,NĚMECKÝ,Ne
-1991,Soudní překladatel,bez titulu,Arletta,Zavadilová,Holubice,SRBSKÝ|CHORVATSKÝ,Ne
+1991,Soudní překladatel,bez titulu,Arletta,Zavadilová,Holubice,CHORVATSKÝ|SRBSKÝ,Ne
 2006,Soudní překladatel,Mgr.,Natalie,Lasáková Raeva,Kostelec nad Černými lesy,BULHARSKÝ,Ne
 2010,Soudní překladatel,JUDr.,Marek,Krejčí,Týnec nad Sázavou,CHORVATSKÝ,Ano
 2007,Soudní překladatel,Mgr.,Silvie,Ribier,Průhonice,NORSKÝ|FRANCOUZSKÝ|ANGLICKÝ,Ne
@@ -4019,7 +4011,7 @@ Rok zápisu,Druh osoby,Titul,Jméno,Příjmení,Město,Jazyky,Zkouška vykonána
 2009,Soudní překladatel,Mgr.,Jana,Štillerová,Milovice,NĚMECKÝ,Ne
 2009,Soudní překladatel,Mgr.,Dagmar,Ndzahabato,Nymburk,RUSKÝ|ANGLICKÝ,Ne
 1996,Soudní překladatel,bez titulu,Manh Quang,Vu,Jesenice,VIETNAMSKÝ,Ne
-2007,Soudní překladatel,Mgr.,Marienka-Marcela,Bulisová,Mladá Boleslav,RUMUNSKÝ,Ne
+2007,Soudní překladatel,Mgr.,Marienka-Marcela,Bulisová,Mladá Boleslav,RUMUNSKÝ|SLOVENSKÝ,Ano
 2007,Soudní překladatel,Ing.,Jana,Staňková,Říčany,ANGLICKÝ,Ne
 2007,Soudní překladatel,PhDr.,Věra,Jirousková,Davle,FRANCOUZSKÝ,Ne
 2007,Soudní překladatel,Mgr.,Jakub,Kodym,Mělník,FRANCOUZSKÝ,Ne
@@ -4043,15 +4035,15 @@ Rok zápisu,Druh osoby,Titul,Jméno,Příjmení,Město,Jazyky,Zkouška vykonána
 1993,Soudní překladatel,Ing.,Radomíra,Kopecká,Zábřezí-Řečice,NĚMECKÝ,Ne
 2019,Soudní překladatel,PhDr.,Hana,Drdová,Liteň,RUSKÝ|NĚMECKÝ,Ne
 2005,Soudní překladatel,Mgr.,Soňa,Juráková,Mladá Boleslav,NĚMECKÝ,Ne
-2007,Soudní překladatel,Mgr.,Šárka,Masárová,Davle,ANGLICKÝ|ČÍNSKÝ,Ne
+2007,Soudní překladatel,Mgr.,Šárka,Masárová,Davle,ČÍNSKÝ|ANGLICKÝ,Ne
 1999,Soudní překladatel,Ing.,Jitka,Procházková,Benešov,ANGLICKÝ,Ano
-2011,Soudní překladatel,Mgr.,Miroslava,Turáková,Dobrovice,RUSKÝ|UKRAJINSKÝ,Ne
+2011,Soudní překladatel,Mgr.,Miroslava,Turáková,Dobrovice,UKRAJINSKÝ|RUSKÝ,Ne
 2011,Soudní překladatel,PhDr.,Konstantinos,Tsivos,Beroun,ŘECKÝ,Ne
 2011,Soudní překladatel,Mgr.,Jana,Samhammer,Dobrovice,ANGLICKÝ|NĚMECKÝ,Ano
-2020,Soudní překladatel,Mgr.,Kateřina,Švábová,Zdice,FRANCOUZSKÝ|ANGLICKÝ,Ne
+2020,Soudní překladatel,Mgr.,Kateřina,Švábová,Zdice,FRANCOUZSKÝ|ANGLICKÝ,Ano
 2012,Soudní překladatel,Mgr.,Jan,Rausch,Černošice,ANGLICKÝ,Ne
 1998,Soudní překladatel,MUDr.,Jiří,Lešovský,Radim,FRANCOUZSKÝ,Ne
-2020,Soudní překladatel,Ing.,Radka,Švambergová,Lysá nad Labem,ANGLICKÝ|FRANCOUZSKÝ,Ne
+2020,Soudní překladatel,Ing.,Radka,Švambergová,Lysá nad Labem,FRANCOUZSKÝ|ANGLICKÝ,Ne
 1995,Soudní překladatel,bez titulu,Janetta,Klásek Zavacká,Jince,RUSKÝ,Ne
 2020,Soudní překladatel,B. A.,Abdalla,Gamal,Statenice,ARABSKÝ,Ano
 2020,Soudní překladatel,PhDr.,Milan,Klenor,Dolní Břežany,NĚMECKÝ,Ne
@@ -4067,7 +4059,7 @@ Rok zápisu,Druh osoby,Titul,Jméno,Příjmení,Město,Jazyky,Zkouška vykonána
 2004,Soudní překladatel,Ing.,Josef,Janeček,Klecany,NĚMECKÝ,Ano
 2001,Soudní překladatel,Mgr.,Natálie,Markova,Škvorec,RUSKÝ,Ne
 2020,Soudní překladatel,Ing.,Vladislav,Monakov,Roztoky,RUSKÝ,Ne
-2020,Soudní překladatel,Mgr.,Aneta,Wiejowska Mielniczková,Hostivice,POLSKÝ,Ne
+2020,Soudní překladatel,Mgr.,Aneta,Wiejowska Mielniczková,Hostivice,POLSKÝ,Ano
 2008,Soudní překladatel,Mgr.,Kateřina,Moreira Přikrylová,Bradlec,ŠPANĚLSKÝ|FRANCOUZSKÝ,Ne
 2008,Soudní překladatel,Mgr. Ing.,Markéta,Schůtová,Neveklov,ŠPANĚLSKÝ,Ano
 2008,Soudní překladatel,Ing.,Miroslava,Habartová,Jesenice,SLOVENSKÝ,Ano
@@ -4088,7 +4080,7 @@ Rok zápisu,Druh osoby,Titul,Jméno,Příjmení,Město,Jazyky,Zkouška vykonána
 2008,Soudní překladatel,PhDr.,Lygžima,Chaloupková,Praha,RUSKÝ|MONGOLSKÝ,Ne
 2015,Soudní překladatel,Mgr.,Michal,Kulhánek,Hostivice,POLSKÝ,Ano
 2015,Soudní překladatel,JUDr.,Klára,Žejdlová,Běrunice,ITALSKÝ,Ne
-2015,Soudní překladatel,Mgr.,Elena,Caraus,Kunice,ANGLICKÝ|RUSKÝ,Ano
+2015,Soudní překladatel,Mgr.,Elena,Caraus,Kunice,RUSKÝ|ANGLICKÝ,Ano
 2015,Soudní překladatel,Mgr.,Terezie,Kősslová,Svinaře,NĚMECKÝ,Ne
 1999,Soudní překladatel,Mgr.,Anna,Kostičová,Zásmuky,SRBSKÝ|BOSENSKÝ|ČERNOHORSKÝ|CHORVATSKÝ,Ne
 2015,Soudní překladatel,Ing.,Barbora Anna,Prescott,Praha,ANGLICKÝ,Ne
@@ -4103,7 +4095,7 @@ Rok zápisu,Druh osoby,Titul,Jméno,Příjmení,Město,Jazyky,Zkouška vykonána
 1995,Soudní překladatel,Ing.,Ilona,Baggeová,Mnichovice,DÁNSKÝ,Ne
 2000,Soudní překladatel,Ing. Mgr.,Miloš,Lippert,Praha,NĚMECKÝ,Ne
 2006,Soudní překladatel,Mgr.,Dita,Hrušková Grusová,Loučeň,NĚMECKÝ,Ne
-2006,Soudní překladatel,Mgr.,Martina,Kutscherová Vodešilová,Praha,NĚMECKÝ|RUSKÝ,Ne
+2006,Soudní překladatel,Mgr.,Martina,Kutscherová Vodešilová,Praha,RUSKÝ|NĚMECKÝ,Ne
 2006,Soudní překladatel,Mgr.,Jana,Stránská,Příbram,NĚMECKÝ,Ne
 2016,Soudní překladatel,PhDr.,Eva,Spring,Vlašim,ARABSKÝ,Ne
 2016,Soudní překladatel,Mgr.,Jaroslava,Přerovská,Brandýs nad Labem-Stará Boleslav,ANGLICKÝ,Ano
@@ -4122,7 +4114,7 @@ Rok zápisu,Druh osoby,Titul,Jméno,Příjmení,Město,Jazyky,Zkouška vykonána
 1997,Soudní překladatel,Mgr.,Markéta,Hošková,Brandýs nad Labem-Stará Boleslav,ČÍNSKÝ,Ne
 2012,Soudní překladatel,Mgr. et Mgr.,Lucie,Hosmann Tomaides,Benešov,JAPONSKÝ|ANGLICKÝ,Ne
 2006,Soudní překladatel,Bc.,Regina,Sokolovskaja,Praha,RUSKÝ|BĚLORUSKÝ,Ne
-2012,Soudní překladatel,Mgr.,Andrea,Rákaiová,Holubice,RUSKÝ|BULHARSKÝ|SLOVENSKÝ,Ano
+2012,Soudní překladatel,Mgr.,Andrea,Rákaiová,Holubice,SLOVENSKÝ|RUSKÝ|BULHARSKÝ,Ano
 2011,Soudní překladatel,bez titulu,Nguyen Tien,Le,Dolní Břežany,VIETNAMSKÝ,Ne
 2016,Soudní překladatel,JUDr.,Pavla,Dušková,Praha,NĚMECKÝ|ANGLICKÝ,Ano
 2016,Soudní překladatel,Mgr.,Jiří,Mareš,Kolín,ANGLICKÝ,Ne
@@ -4136,7 +4128,7 @@ Rok zápisu,Druh osoby,Titul,Jméno,Příjmení,Město,Jazyky,Zkouška vykonána
 2000,Soudní překladatel,PhDr.,Martina,Blahníková,Říčany,RUSKÝ|FRANCOUZSKÝ,Ano
 2000,Soudní překladatel,Mgr.,Hana,Votavová,Kutná Hora,FRANCOUZSKÝ,Ne
 1992,Soudní překladatel,Mgr.,Dana,Bucharová,Příbram,NĚMECKÝ,Ne
-2004,Soudní překladatel,Mgr.,Josef,Smyček,Praha,NORSKÝ|ANGLICKÝ,Ne
+2004,Soudní překladatel,Mgr.,Josef,Smyček,Praha,ANGLICKÝ|NORSKÝ,Ne
 1994,Soudní překladatel,PaedDr.,Alena,Vostárková,Kutná Hora,ANGLICKÝ,Ne
 1993,Soudní překladatel,Ing.,Petr,Kopecký,Čelákovice,NĚMECKÝ,Ne
 2005,Soudní překladatel,Mgr.,Klára,Kořínková,Štěchovice,KOREJSKÝ,Ano
@@ -4158,7 +4150,7 @@ Rok zápisu,Druh osoby,Titul,Jméno,Příjmení,Město,Jazyky,Zkouška vykonána
 1998,Soudní překladatel,Mgr.,Olga,Beulakkerová,Rakovník,NĚMECKÝ,Ne
 2000,Soudní překladatel,Ing.,Eva,Heřmánková,Vysoký Újezd,FRANCOUZSKÝ|RUSKÝ|ANGLICKÝ,Ne
 1998,Soudní překladatel,bez titulu,Jaroslav,Špáňa,Žilina,NĚMECKÝ,Ne
-1994,Soudní překladatel,Mgr.,Zdeňka,Weberová,Svinařov,ANGLICKÝ|RUSKÝ,Ne
+1994,Soudní překladatel,Mgr.,Zdeňka,Weberová,Svinařov,RUSKÝ|ANGLICKÝ,Ne
 2003,Soudní překladatel,bez titulu,Anna,Likinová,Praha,RUSKÝ|BĚLORUSKÝ,Ano
 1993,Soudní překladatel,Ing.,Ivan,Souček,Kralupy nad Vltavou,RUSKÝ,Ne
 2000,Soudní překladatel,Mgr.,Jan,Marek,Mělník,ŠPANĚLSKÝ,Ano
@@ -4180,7 +4172,7 @@ Rok zápisu,Druh osoby,Titul,Jméno,Příjmení,Město,Jazyky,Zkouška vykonána
 2002,Soudní překladatel,Mgr.,Martina,Sedlická,Nehvizdy,NĚMECKÝ,Ne
 2001,Soudní překladatel,Mgr.,Vladimíra,Klasnová,Příbram,NĚMECKÝ,Ne
 2003,Soudní překladatel,Mgr.,Gabriela,Rychová,Čelákovice,POLSKÝ,Ne
-2000,Soudní překladatel,PhDr.,Jan,Doležal,Poděbrady,BOSENSKÝ|SRBSKÝ|BULHARSKÝ,Ano
+2000,Soudní překladatel,PhDr.,Jan,Doležal,Poděbrady,SRBSKÝ|BULHARSKÝ|BOSENSKÝ,Ano
 2020,Soudní překladatel,Mgr.,Dmitriy,Chursin,Praha,RUSKÝ,Ne
 2006,Soudní překladatel,Mgr.,Soňa,Čermáková,Kralupy nad Vltavou,INDONÉSKÝ,Ne
 2005,Soudní překladatel,Ing.,Milada,Čechová,Svatý Mikuláš,ANGLICKÝ,Ne
@@ -4192,10 +4184,10 @@ Rok zápisu,Druh osoby,Titul,Jméno,Příjmení,Město,Jazyky,Zkouška vykonána
 1992,Soudní překladatel,Mgr.,Jitka,Javůrková,Kladno,RUSKÝ,Ne
 1992,Soudní překladatel,PhDr.,Zdeňka,Vaníčková,Brandýs nad Labem-Stará Boleslav,ANGLICKÝ,Ne
 1997,Soudní překladatel,bez titulu,Jiří,Nečesaný,Bělá pod Bezdězem,SRBSKÝ,Ne
-1997,Soudní překladatel,Mgr.,Miloš,Kadlec,Mladá Boleslav,NĚMECKÝ,Ne
+1997,Soudní překladatel,Mgr.,Miloš,Kadlec,Mladá Boleslav,NĚMECKÝ,Ano
 2002,Soudní překladatel,JUDr.,Olga,Humlová,Černošice,NĚMECKÝ,Ne
 1999,Soudní překladatel,PhDr.,Pavla,Kaňková,Slaný,NĚMECKÝ,Ne
-1999,Soudní překladatel,Mgr.,Olexandra,Abbidová,Řitka,UKRAJINSKÝ|RUSKÝ,Ne
+1999,Soudní překladatel,Mgr.,Olexandra,Abbidová,Řitka,RUSKÝ|UKRAJINSKÝ,Ne
 1995,Soudní překladatel,Ing.,Petr,Havlík,Praha,RUSKÝ|ANGLICKÝ,Ne
 1994,Soudní překladatel,Mgr.,Pavel,Dedera,Benešov,NĚMECKÝ,Ne
 1993,Soudní překladatel,Ing.,Olga,Neužilová,Příbram,RUSKÝ,Ne
@@ -4217,7 +4209,7 @@ Rok zápisu,Druh osoby,Titul,Jméno,Příjmení,Město,Jazyky,Zkouška vykonána
 2002,Soudní překladatel,Ing.,Imrich,Csicsay,Poděbrady,MAĎARSKÝ,Ne
 2002,Soudní překladatel,Bc.,Michal,Vilímovský,Zruč nad Sázavou,ANGLICKÝ,Ne
 1992,Soudní překladatel,PhDr.,Vladimíra,Šefranka,Hostivice,RUSKÝ|ANGLICKÝ,Ano
-2006,Soudní překladatel,bez titulu,Natalija,Mryščuková,Zdiby,UKRAJINSKÝ|RUSKÝ,Ne
+2006,Soudní překladatel,bez titulu,Natalija,Mryščuková,Zdiby,UKRAJINSKÝ|RUSKÝ,Ano
 2006,Soudní překladatel,Mgr.,Jana,Lavičková,Dolní Břežany,NĚMECKÝ|FRANCOUZSKÝ,Ano
 2001,Soudní překladatel,Ing.,Mounir,Bouhalika,Praha,ARABSKÝ|FRANCOUZSKÝ,Ano
 2005,Soudní překladatel,Mgr.,Helena,Gilis,Velké Přílepy,ANGLICKÝ,Ne
@@ -4263,7 +4255,7 @@ Rok zápisu,Druh osoby,Titul,Jméno,Příjmení,Město,Jazyky,Zkouška vykonána
 1995,Soudní tlumočník,bez titulu,Long,Pham,Cheb,VIETNAMSKÝ,Ne
 2006,Soudní tlumočník,Mgr.,Monika,Zdanovcová,Andělská Hora,RUSKÝ,Ne
 2006,Soudní tlumočník,bez titulu,Štěpánka,Pittnerová,Stříbro,NĚMECKÝ,Ano
-2000,Soudní tlumočník,bez titulu,Ludmila,Syrohová,Luby,RUSKÝ|UKRAJINSKÝ,Ne
+2000,Soudní tlumočník,bez titulu,Ludmila,Syrohová,Luby,UKRAJINSKÝ|RUSKÝ,Ne
 2000,Soudní tlumočník,JUDr.,Tewfiq,Soleh,Mnichov,ARABSKÝ|HEBREJSKÝ,Ne
 2000,Soudní překladatel,bez titulu,Eva,Krčmáriková,Domažlice,NĚMECKÝ,Ano
 2000,Soudní tlumočník,Mgr.,Jurate,Kantorová,Karlovy Vary,LITEVSKÝ|NĚMECKÝ,Ne
@@ -4283,7 +4275,7 @@ Rok zápisu,Druh osoby,Titul,Jméno,Příjmení,Město,Jazyky,Zkouška vykonána
 2002,Soudní tlumočník,Mgr.,Eva,Šollarová,Kamenný Újezd,NĚMECKÝ,Ne
 2002,Soudní tlumočník,bez titulu,Jindra,Brychtová,Klatovy,NĚMECKÝ,Ne
 2002,Soudní tlumočník,Mgr.,Marcela,Andrlíková,Klatovy,NĚMECKÝ,Ne
-2002,Soudní tlumočník,Mgr.,Jaroslav,Fait,Vejprnice,NĚMECKÝ,Ne
+2002,Soudní tlumočník,Mgr.,Jaroslav,Fait,Vejprnice,NĚMECKÝ,Ano
 2002,Soudní tlumočník,Ing.,Aurora,Pontigo Arestizábal,Třemošná,ŠPANĚLSKÝ|PORTUGALSKÝ,Ano
 2002,Soudní tlumočník,Mgr.,Renáta,Václaviková Tunklová,Město Touškov,NĚMECKÝ,Ne
 2002,Soudní tlumočník,bez titulu,Olena,Fedelesh,Plzeň,UKRAJINSKÝ|RUSKÝ,Ne
@@ -4312,7 +4304,7 @@ Rok zápisu,Druh osoby,Titul,Jméno,Příjmení,Město,Jazyky,Zkouška vykonána
 2017,Soudní tlumočník,bez titulu,Eva,Kratochvílová,Příšov,NĚMECKÝ,Ne
 2017,Soudní tlumočník,Ing.,Lucie,Štěpánková,Plzeň,ITALSKÝ,Ne
 2016,Soudní tlumočník,Mgr.,Jelena,Radičanin,Praha,SRBSKÝ,Ne
-2013,Soudní tlumočník,Ing.,Kim,Tran,Plzeň,VIETNAMSKÝ,Ne
+2013,Soudní tlumočník,Ing.,Kim,Tran,Plzeň,VIETNAMSKÝ,Ano
 2016,Soudní překladatel,Mgr.,Eva,Svobodová,Dobřany,ANGLICKÝ,Ano
 2016,Soudní tlumočník,Mgr.,Martina,Kalivodová,Praha,ANGLICKÝ,Ano
 1992,Soudní tlumočník,Mgr.,Jitka,Zamarianová,Dolce,ITALSKÝ,Ne
@@ -4329,7 +4321,7 @@ Rok zápisu,Druh osoby,Titul,Jméno,Příjmení,Město,Jazyky,Zkouška vykonána
 2009,Soudní překladatel,Mgr.,Michaela,Jakubíková,Cheb,ANGLICKÝ|RUSKÝ,Ano
 2009,Soudní překladatel,Mgr.,Blanka,Horáková,Nejdek,NĚMECKÝ,Ne
 2009,Soudní tlumočník,Ing.,Světlana,Bukovjanová,Cheb,RUSKÝ,Ano
-2009,Soudní překladatel,bez titulu,Lenka,Bauerová,Domažlice,ANGLICKÝ|NĚMECKÝ|FRANCOUZSKÝ,Ano
+2009,Soudní překladatel,bez titulu,Lenka,Bauerová,Domažlice,NĚMECKÝ|FRANCOUZSKÝ|ANGLICKÝ,Ano
 2009,Soudní tlumočník,bez titulu,Hana,Borova,Brno,NIZOZEMSKÝ|ANGLICKÝ,Ne
 2013,Soudní tlumočník,Mgr.,Hedvika,Santoro,Plzeň,ITALSKÝ,Ano
 2013,Soudní tlumočník,Mgr.,Ondřej,Rinke,Plzeň,RUSKÝ|ANGLICKÝ,Ne
@@ -4347,7 +4339,7 @@ Rok zápisu,Druh osoby,Titul,Jméno,Příjmení,Město,Jazyky,Zkouška vykonána
 2012,Soudní tlumočník,Mgr.,Markéta,Balcarová,Plzeň,NĚMECKÝ,Ano
 2012,Soudní tlumočník,Ing.,Petra,Borovanská,Plzeň,ANGLICKÝ,Ano
 2012,Soudní tlumočník,PhDr.,Eva Inka,Jansa,Plzeň,NĚMECKÝ,Ne
-2012,Soudní tlumočník,Mgr.,Oksana,Malá,Planá,UKRAJINSKÝ|RUSKÝ,Ano
+2012,Soudní tlumočník,Mgr.,Oksana,Malá,Planá,RUSKÝ|UKRAJINSKÝ,Ano
 2012,Soudní tlumočník,bez titulu,Václav,Seitz,Plzeň,ANGLICKÝ,Ne
 2011,Soudní tlumočník,Mgr.,Văn Dan,Nguyen,Cheb,VIETNAMSKÝ,Ne
 2011,Soudní tlumočník,Mgr.,Andreja,Stojković,Praha,CHORVATSKÝ|BOSENSKÝ|SRBSKÝ|ČERNOHORSKÝ,Ne
@@ -4357,7 +4349,6 @@ Rok zápisu,Druh osoby,Titul,Jméno,Příjmení,Město,Jazyky,Zkouška vykonána
 1999,Soudní tlumočník,Bc.,Alena,Štenglová,Přeštice,RUSKÝ|ANGLICKÝ,Ne
 1999,Soudní překladatel,bez titulu,Tomáš,Vorel,Velká Hleďsebe,NĚMECKÝ,Ne
 2000,Soudní tlumočník,bez titulu,Marie Magdalena,Benešová,Cheb,NĚMECKÝ,Ne
-1999,Soudní tlumočník,Mgr.,Halina,Cvrková,Kladruby,RUSKÝ|UKRAJINSKÝ,Ne
 2009,Soudní překladatel,Mgr.,Jana,Vladařová,Měčín,NĚMECKÝ,Ano
 2012,Soudní tlumočník,bez titulu,Lucie,Nowak,Domažlice,NĚMECKÝ|NĚMECKÝ,Ano
 1993,Soudní překladatel,PhDr.,Eva,Moravcová,Plzeň,NĚMECKÝ,Ano
@@ -4393,7 +4384,7 @@ Rok zápisu,Druh osoby,Titul,Jméno,Příjmení,Město,Jazyky,Zkouška vykonána
 1992,Soudní překladatel,Mgr.,Karel,Navrátil,Karlovy Vary,NĚMECKÝ|ANGLICKÝ,Ne
 1992,Soudní překladatel,Mgr.,Jitka,Kováčová,Plzeň,ŠPANĚLSKÝ,Ano
 1992,Soudní tlumočník,bez titulu,Ilka,Klečka,Tachov,NĚMECKÝ,Ne
-1992,Soudní překladatel,Ing.,Leoš,Jaren,Plzeň,NĚMECKÝ|ANGLICKÝ,Ne
+1992,Soudní překladatel,Ing.,Leoš,Jaren,Plzeň,ANGLICKÝ|NĚMECKÝ,Ne
 1992,Soudní tlumočník,Ing.,Christina Roswitha,Zeman,Zruč-Senec,NĚMECKÝ,Ne
 1992,Soudní tlumočník,bez titulu,Eva,Čižíková,Kraslice,NĚMECKÝ,Ne
 1992,Soudní tlumočník,Ing.,Bohuslav,Henžlík,Plzeň,ANGLICKÝ,Ne
@@ -4402,7 +4393,6 @@ Rok zápisu,Druh osoby,Titul,Jméno,Příjmení,Město,Jazyky,Zkouška vykonána
 1992,Soudní tlumočník,promovaný filolog,Jaroslav,Strach,Cheb,NĚMECKÝ,Ne
 1992,Soudní tlumočník,Ing.,Jan,Stariat,Šabina,NĚMECKÝ,Ne
 1992,Soudní tlumočník,Ing.,Göran,Wohlrab,Prameny,NĚMECKÝ,Ne
-1992,Soudní tlumočník,Ing.,Günter,Fenkl,Krásno,NĚMECKÝ,Ne
 1992,Soudní tlumočník,Ing.,Helena,Suchánková,Rokycany,RUSKÝ|NĚMECKÝ|ANGLICKÝ,Ne
 1992,Soudní tlumočník,bez titulu,Maria,Javorská,Plzeň,RUMUNSKÝ,Ne
 1992,Soudní tlumočník,PhDr.,Jana,Špetová,Karlovy Vary,FRANCOUZSKÝ,Ne
@@ -4410,7 +4400,7 @@ Rok zápisu,Druh osoby,Titul,Jméno,Příjmení,Město,Jazyky,Zkouška vykonána
 1992,Soudní tlumočník,Ing.,Taher,Zolal,Plzeň,PERSKÝ|ANGLICKÝ|TURECKÝ,Ne
 1992,Soudní tlumočník,bez titulu,Petr,Vančura,Cheb,NĚMECKÝ,Ne
 1992,Soudní tlumočník,bez titulu,Kristina,Cízlerová Valečková,Skalná,NĚMECKÝ,Ne
-1997,Soudní tlumočník,bez titulu,Alois,Špicel,Skalná,RUMUNSKÝ,Ne
+1997,Soudní tlumočník,bez titulu,Alois,Špicel,Skalná,RUMUNSKÝ,Ano
 1997,Soudní tlumočník,Ing.,Anh Phong,Le,Cheb,VIETNAMSKÝ,Ne
 1997,Soudní tlumočník,Mgr.,Monika,Deislerová Wetzlerová,Plzeň,NĚMECKÝ,Ne
 1997,Soudní tlumočník,bez titulu,Helmut,Peschl,Plzeň,NĚMECKÝ,Ne
@@ -4419,8 +4409,7 @@ Rok zápisu,Druh osoby,Titul,Jméno,Příjmení,Město,Jazyky,Zkouška vykonána
 1995,Soudní tlumočník,Ing.,Valentin,Džulaj,Kout na Šumavě,RUSKÝ|UKRAJINSKÝ,Ano
 1995,Soudní tlumočník,bez titulu,Quang Tue,Ha,Karlovy Vary,VIETNAMSKÝ,Ne
 1992,Soudní tlumočník,bez titulu,Růžena,Škardová,Plzeň,ZNAKOVÝ JAZYK,Ne
-1992,Soudní tlumočník,Mgr.,Vladana,Šimáčková,Klatovy,ANGLICKÝ,Ne
-1998,Soudní tlumočník,Mgr.,Zina,Šimáčková,Horšovský Týn,UKRAJINSKÝ|RUSKÝ,Ne
+1998,Soudní tlumočník,Mgr.,Zina,Šimáčková,Horšovský Týn,RUSKÝ|UKRAJINSKÝ,Ne
 1998,Soudní tlumočník,Mgr.,Ilona,Kostnerová,Bezděkov,NĚMECKÝ,Ne
 1998,Soudní tlumočník,JUDr.,Tomáš,Honomichl,Plzeň,NĚMECKÝ,Ne
 1998,Soudní tlumočník,Mgr.,Natalie,Tomčíková,Sokolov,UKRAJINSKÝ|RUSKÝ,Ano
@@ -4440,7 +4429,7 @@ Rok zápisu,Druh osoby,Titul,Jméno,Příjmení,Město,Jazyky,Zkouška vykonána
 1997,Soudní tlumočník,bez titulu,Renata,Hromádková,Kdyně,ITALSKÝ,Ano
 1997,Soudní tlumočník,Mgr.,Marie,Bártová,Mariánské Lázně,RUSKÝ|FRANCOUZSKÝ,Ne
 1997,Soudní tlumočník,Mgr.,Hana,Kubálková,Plzeň,RUSKÝ,Ne
-1999,Soudní tlumočník,Mgr.,Martina,Poštová,Karlovy Vary,NĚMECKÝ|ANGLICKÝ,Ano
+1999,Soudní tlumočník,Mgr.,Martina,Poštová,Karlovy Vary,ANGLICKÝ|NĚMECKÝ,Ano
 1999,Soudní tlumočník,Ing.,Pavel,Nosek,Plzeň,NĚMECKÝ,Ano
 1999,Soudní tlumočník,Mgr.,Eva,Hasman,Karlovy Vary,ANGLICKÝ,Ne
 1999,Soudní tlumočník,bez titulu,Jan,Novák,Chodov,ZNAKOVÝ JAZYK,Ne
@@ -4467,7 +4456,7 @@ Rok zápisu,Druh osoby,Titul,Jméno,Příjmení,Město,Jazyky,Zkouška vykonána
 1996,Soudní tlumočník,PhDr.,Klára,Huss,Plzeň,ITALSKÝ,Ne
 1996,Soudní tlumočník,Ing.,Jana,Zachová,Karlovy Vary,NĚMECKÝ,Ano
 1996,Soudní překladatel,bez titulu,Leona,Maříková,Plzeň,ANGLICKÝ,Ano
-1996,Soudní tlumočník,Mgr.,Irena,Vacíková,Plzeň,RUSKÝ|NĚMECKÝ,Ano
+1996,Soudní tlumočník,Mgr.,Irena,Vacíková,Plzeň,NĚMECKÝ|RUSKÝ,Ano
 1996,Soudní tlumočník,Mgr.,Jaroslava,Seidlmayerová,Chodov,NĚMECKÝ,Ne
 2021,Soudní tlumočník,bez titulu,Florian,Förster,Praha,NĚMECKÝ,Ne
 1996,Soudní tlumočník,Mgr.,Šárka,Niklová,Bezděkov,NĚMECKÝ,Ano
@@ -4477,11 +4466,11 @@ Rok zápisu,Druh osoby,Titul,Jméno,Příjmení,Město,Jazyky,Zkouška vykonána
 2006,Soudní překladatel,Mgr.,Darina,Kalčeva,Plzeň,BULHARSKÝ,Ano
 2006,Soudní překladatel,Mgr.,Marilena,Nečinová,Karlovy Vary,RUMUNSKÝ,Ne
 2006,Soudní překladatel,bez titulu,Štěpánka,Pittnerová,Stříbro,NĚMECKÝ,Ano
-2006,Soudní překladatel,Ing.,Svetlana,Pilhofer,Cheb,RUSKÝ|UKRAJINSKÝ|NĚMECKÝ,Ne
+2006,Soudní překladatel,Ing.,Svetlana,Pilhofer,Cheb,UKRAJINSKÝ|NĚMECKÝ|RUSKÝ,Ne
 2003,Soudní překladatel,Mgr.,Petra,Seifertová,Plzeň,ANGLICKÝ,Ano
 1996,Soudní tlumočník,bez titulu,Minh Tuan,Ta,Karlovy Vary,VIETNAMSKÝ,Ne
 2000,Soudní tlumočník,Mgr.,Dana,Antonová,Domažlice,NĚMECKÝ|NĚMECKÝ,Ano
-2003,Soudní překladatel,Mgr. Bc.,Martina,Schaferová,Kolová,NĚMECKÝ|NIZOZEMSKÝ,Ne
+2003,Soudní překladatel,Mgr. Bc.,Martina,Schaferová,Kolová,NIZOZEMSKÝ|NĚMECKÝ,Ne
 2003,Soudní překladatel,bez titulu,Duy Luong,Pham,Aš,VIETNAMSKÝ,Ne
 2003,Soudní překladatel,Mgr.,Hana,Dvořáková,Šťáhlavy,FRANCOUZSKÝ,Ne
 2004,Soudní překladatel,Ing.,Van Chinh,Ngo,Hořovice,VIETNAMSKÝ,Ne
@@ -4499,9 +4488,9 @@ Rok zápisu,Druh osoby,Titul,Jméno,Příjmení,Město,Jazyky,Zkouška vykonána
 2002,Soudní překladatel,Mgr.,Monika,Čapková,Pernink,NĚMECKÝ,Ne
 2003,Soudní překladatel,bez titulu,Anna,Machová,Halže,POLSKÝ,Ne
 2003,Soudní překladatel,bez titulu,Thanh Mai,Đang,Ostrov,VIETNAMSKÝ,Ano
-2000,Soudní překladatel,Mgr.,Jurate,Kantorová,Karlovy Vary,LITEVSKÝ|NĚMECKÝ,Ne
-2000,Soudní překladatel,JUDr.,Tewfiq,Soleh,Mnichov,HEBREJSKÝ|ARABSKÝ,Ne
-2000,Soudní překladatel,bez titulu,Ludmila,Syrohová,Luby,RUSKÝ|UKRAJINSKÝ,Ne
+2000,Soudní překladatel,Mgr.,Jurate,Kantorová,Karlovy Vary,NĚMECKÝ|LITEVSKÝ,Ne
+2000,Soudní překladatel,JUDr.,Tewfiq,Soleh,Mnichov,ARABSKÝ|HEBREJSKÝ,Ne
+2000,Soudní překladatel,bez titulu,Ludmila,Syrohová,Luby,UKRAJINSKÝ|RUSKÝ,Ne
 2000,Soudní překladatel,bez titulu,Minh Tuan,Vu,Karlovy Vary,VIETNAMSKÝ,Ne
 2000,Soudní překladatel,Bc.,Irena,Vápeníková,Planá,NĚMECKÝ,Ano
 2000,Soudní překladatel,Ing.,Iveta,Šustrová,Město Touškov,NĚMECKÝ,Ne
@@ -4510,7 +4499,7 @@ Rok zápisu,Druh osoby,Titul,Jméno,Příjmení,Město,Jazyky,Zkouška vykonána
 2001,Soudní překladatel,prof. Ph.Dr.,Eva,Voldřichová Beránková,Plzeň,FRANCOUZSKÝ,Ano
 2007,Soudní překladatel,Mgr.,Ivana,Koubková,Praha,ANGLICKÝ|NĚMECKÝ,Ano
 2008,Soudní překladatel,PhDr.,Olaf,Zuckerstein,Běhařov,NĚMECKÝ,Ne
-2008,Soudní překladatel,Mgr. Bc.,Boloroo,Sainbayar,Plzeň,MONGOLSKÝ|POLSKÝ,Ne
+2008,Soudní překladatel,Mgr. Bc.,Boloroo,Sainbayar,Plzeň,POLSKÝ|MONGOLSKÝ,Ne
 2008,Soudní překladatel,Mgr.,Petr,Fišer,Plzeň,NĚMECKÝ,Ne
 2008,Soudní překladatel,Mgr.,Jan,Provazník,Sušice,NĚMECKÝ,Ne
 2005,Soudní překladatel,bez titulu,Zuzana,Langpaulová,Pařezov,NĚMECKÝ,Ano
@@ -4519,7 +4508,7 @@ Rok zápisu,Druh osoby,Titul,Jméno,Příjmení,Město,Jazyky,Zkouška vykonána
 2017,Soudní překladatel,Ing.,Lucie,Štěpánková,Plzeň,ITALSKÝ,Ne
 2017,Soudní překladatel,Mgr.,Josef,Týnovský,Plzeň,NĚMECKÝ,Ne
 2016,Soudní překladatel,Mgr.,Jelena,Radičanin,Praha,SRBSKÝ,Ne
-2013,Soudní překladatel,Ing.,Kim,Tran,Plzeň,VIETNAMSKÝ,Ne
+2013,Soudní překladatel,Ing.,Kim,Tran,Plzeň,VIETNAMSKÝ,Ano
 2016,Soudní překladatel,Mgr.,Martina,Kalivodová,Praha,ANGLICKÝ,Ano
 1992,Soudní překladatel,Mgr.,Jitka,Zamarianová,Dolce,ITALSKÝ,Ne
 2015,Soudní překladatel,bez titulu,Helena,Krygelová,Plzeň,NĚMECKÝ,Ne
@@ -4533,7 +4522,7 @@ Rok zápisu,Druh osoby,Titul,Jméno,Příjmení,Město,Jazyky,Zkouška vykonána
 1998,Soudní překladatel,bez titulu,Elisabeta,Bašníková,Bělá nad Radbuzou,RUMUNSKÝ,Ne
 2009,Soudní překladatel,bez titulu,Georg Philipp,Paulinc,Františkovy Lázně,NĚMECKÝ,Ne
 2017,Soudní překladatel,Mgr.,Petra,Czinnerová,Plzeň,NĚMECKÝ,Ano
-2002,Soudní překladatel,Mgr.,Jaroslav,Fait,Vejprnice,NĚMECKÝ,Ne
+2002,Soudní překladatel,Mgr.,Jaroslav,Fait,Vejprnice,NĚMECKÝ,Ano
 2002,Soudní překladatel,Ing.,Aurora,Pontigo Arestizábal,Třemošná,PORTUGALSKÝ|ŠPANĚLSKÝ,Ano
 2002,Soudní překladatel,Mgr.,Renáta,Václaviková Tunklová,Město Touškov,NĚMECKÝ,Ne
 2014,Soudní překladatel,Bc.,Radka,Tupová,Štěnovice,NĚMECKÝ,Ne
@@ -4558,7 +4547,7 @@ Rok zápisu,Druh osoby,Titul,Jméno,Příjmení,Město,Jazyky,Zkouška vykonána
 2014,Soudní překladatel,Mgr.,Jaroslav,Klepal,Švihov,ANGLICKÝ,Ano
 2013,Soudní překladatel,Bc.,Kamila,Špirková,Klatovy,NĚMECKÝ,Ano
 2013,Soudní překladatel,bez titulu,Katarina Julia,Seidlmayer-Wörn,Chodov,NĚMECKÝ,Ne
-2011,Soudní překladatel,Ing.,Barbora,Kroupová,Plzeň,ANGLICKÝ|FRANCOUZSKÝ,Ne
+2011,Soudní překladatel,Ing.,Barbora,Kroupová,Plzeň,FRANCOUZSKÝ|ANGLICKÝ,Ne
 2013,Soudní překladatel,Mgr.,Martina,Zůnová,Cheb,NĚMECKÝ,Ano
 2009,Soudní překladatel,Mgr.,Jana,Pellarová,Rokycany,NIZOZEMSKÝ,Ano
 2008,Soudní překladatel,Mgr.,Marta,Klimmer,Zahořany,NĚMECKÝ,Ano
@@ -4571,7 +4560,6 @@ Rok zápisu,Druh osoby,Titul,Jméno,Příjmení,Město,Jazyky,Zkouška vykonána
 1992,Soudní překladatel,Ing.,Pavel,Horák,Karlovy Vary,NĚMECKÝ,Ne
 1999,Soudní překladatel,Bc.,Alena,Štenglová,Přeštice,RUSKÝ|ANGLICKÝ,Ne
 2000,Soudní překladatel,bez titulu,Marie Magdalena,Benešová,Cheb,NĚMECKÝ,Ne
-1999,Soudní překladatel,Mgr.,Halina,Cvrková,Kladruby,UKRAJINSKÝ|RUSKÝ,Ne
 1993,Soudní překladatel,Mgr.,Mária,Horáčková,Plzeň,NĚMECKÝ,Ne
 1993,Soudní překladatel,Mgr.,Pavel,Kahle,Sušice,ANGLICKÝ,Ne
 1993,Soudní překladatel,Mgr.,Eva,Stuláková,Cheb,NĚMECKÝ,Ne
@@ -4586,7 +4574,6 @@ Rok zápisu,Druh osoby,Titul,Jméno,Příjmení,Město,Jazyky,Zkouška vykonána
 2009,Soudní překladatel,bez titulu,Martin,Vrátník,Milhostov,NĚMECKÝ,Ne
 2009,Soudní překladatel,Ing.,Iraida,Vozková,Cheb,NĚMECKÝ,Ano
 2009,Soudní překladatel,Ing.,Milan,Růžička,Chotíkov,NĚMECKÝ,Ne
-2009,Soudní překladatel,Mgr.,Michaela,Klímová,Plzeň,JAPONSKÝ,Ne
 2012,Soudní překladatel,Mgr.,Iva,Anderlová,Klenčí pod Čerchovem,NĚMECKÝ,Ne
 2012,Soudní překladatel,Mgr.,Elena,Medová,Kynšperk nad Ohří,RUSKÝ|NĚMECKÝ|ANGLICKÝ,Ano
 2012,Soudní překladatel,bez titulu,Lucie,Nowak,Domažlice,NĚMECKÝ,Ano
@@ -4595,7 +4582,7 @@ Rok zápisu,Druh osoby,Titul,Jméno,Příjmení,Město,Jazyky,Zkouška vykonána
 2011,Soudní překladatel,Mgr.,Văn Dan,Nguyen,Cheb,VIETNAMSKÝ,Ne
 2011,Soudní překladatel,Mgr.,Andreja,Stojković,Praha,CHORVATSKÝ|BOSENSKÝ|ČERNOHORSKÝ|SRBSKÝ,Ne
 2010,Soudní překladatel,Mgr.,Ivan,Ramadan,Plzeň,ARABSKÝ,Ne
-2013,Soudní překladatel,Mgr.,Jana,Radějová,Čižice,ANGLICKÝ|FRANCOUZSKÝ,Ano
+2013,Soudní překladatel,Mgr.,Jana,Radějová,Čižice,FRANCOUZSKÝ|ANGLICKÝ,Ano
 2009,Soudní překladatel,bez titulu,Hana,Borova,Brno,ANGLICKÝ|NIZOZEMSKÝ,Ne
 2010,Soudní překladatel,bez titulu,Petja,Frňková,Plzeň,BULHARSKÝ,Ne
 2010,Soudní překladatel,Mgr.,Aneta Grażyna,Süčová,Tlučná,POLSKÝ,Ne
@@ -4610,7 +4597,6 @@ Rok zápisu,Druh osoby,Titul,Jméno,Příjmení,Město,Jazyky,Zkouška vykonána
 2012,Soudní překladatel,PhDr.,Eva Inka,Jansa,Plzeň,NĚMECKÝ,Ne
 1995,Soudní překladatel,bez titulu,Quang Tue,Ha,Karlovy Vary,VIETNAMSKÝ,Ne
 1992,Soudní překladatel,bez titulu,Růžena,Škardová,Plzeň,ZNAKOVÝ JAZYK,Ne
-1992,Soudní překladatel,Mgr.,Vladana,Šimáčková,Klatovy,ANGLICKÝ,Ne
 1992,Soudní překladatel,Ing.,Göran,Wohlrab,Prameny,NĚMECKÝ,Ne
 1992,Soudní překladatel,Ing.,Helena,Suchánková,Rokycany,ANGLICKÝ|NĚMECKÝ|RUSKÝ,Ne
 1992,Soudní překladatel,bez titulu,Maria,Javorská,Plzeň,RUMUNSKÝ,Ne
@@ -4620,7 +4606,6 @@ Rok zápisu,Druh osoby,Titul,Jméno,Příjmení,Město,Jazyky,Zkouška vykonána
 1993,Soudní překladatel,JUDr.,Radka,Konečná,Praha,ANGLICKÝ,Ne
 1992,Soudní překladatel,Ing.,Tomáš,Svoboda,Kdyně,NĚMECKÝ,Ne
 1992,Soudní překladatel,bez titulu,Eva,Čižíková,Kraslice,NĚMECKÝ,Ne
-1992,Soudní překladatel,Ing.,Günter,Fenkl,Krásno,NĚMECKÝ,Ne
 1997,Soudní překladatel,Mgr.,Monika,Deislerová Wetzlerová,Plzeň,NĚMECKÝ,Ne
 1997,Soudní překladatel,bez titulu,Helmut,Peschl,Plzeň,NĚMECKÝ,Ne
 1997,Soudní překladatel,Ing.,Anh Son,Tran,Plzeň,VIETNAMSKÝ,Ne
@@ -4652,7 +4637,7 @@ Rok zápisu,Druh osoby,Titul,Jméno,Příjmení,Město,Jazyky,Zkouška vykonána
 1997,Soudní překladatel,bez titulu,Renata,Hromádková,Kdyně,ITALSKÝ,Ano
 1997,Soudní překladatel,Mgr.,Marie,Bártová,Mariánské Lázně,RUSKÝ|FRANCOUZSKÝ,Ne
 1997,Soudní překladatel,bez titulu,Thanh Tho,Bui,Plzeň,VIETNAMSKÝ,Ne
-1997,Soudní překladatel,bez titulu,Alois,Špicel,Skalná,RUMUNSKÝ,Ne
+1997,Soudní překladatel,bez titulu,Alois,Špicel,Skalná,RUMUNSKÝ,Ano
 1996,Soudní překladatel,Mgr.,Jan,Lucák,Mariánské Lázně,RUSKÝ|NĚMECKÝ,Ne
 1996,Soudní překladatel,bez titulu,Ramo,Morina,Karlovy Vary,ALBÁNSKÝ,Ne
 1996,Soudní překladatel,PhDr.,Simona,Ladyvirová,Praha,RUSKÝ|UKRAJINSKÝ,Ano
@@ -4668,7 +4653,7 @@ Rok zápisu,Druh osoby,Titul,Jméno,Příjmení,Město,Jazyky,Zkouška vykonána
 1997,Soudní překladatel,JUDr.,Šárka,Plocarová,Praha,NĚMECKÝ,Ne
 1999,Soudní překladatel,Ing.,Pavel,Nosek,Plzeň,NĚMECKÝ,Ano
 1999,Soudní překladatel,bez titulu,Tram,Nguyen,Karlovy Vary,VIETNAMSKÝ,Ne
-1998,Soudní překladatel,Mgr.,Veronika,Sedláčková,Klatovy,ANGLICKÝ,Ne
+1998,Soudní překladatel,Mgr.,Veronika,Sedláčková,Klatovy,ANGLICKÝ,Ano
 1997,Soudní překladatel,Mgr.,Hana,Kubálková,Plzeň,RUSKÝ,Ne
 1996,Soudní překladatel,bez titulu,Jaroslav,Štochl,Sokolov,NĚMECKÝ,Ano
 1996,Soudní překladatel,bez titulu,Helena,Jetonická,Mirošov,NĚMECKÝ,Ne
@@ -4678,7 +4663,7 @@ Rok zápisu,Druh osoby,Titul,Jméno,Příjmení,Město,Jazyky,Zkouška vykonána
 1998,Soudní překladatel,Bc.,Natálie,Brestovanská,Plzeň,RUSKÝ|UKRAJINSKÝ,Ne
 1998,Soudní překladatel,Ing.,Larisa,Zoulová,Cheb,RUSKÝ,Ne
 1997,Soudní překladatel,Mgr.,Miloslava,Glier,Útvina,NĚMECKÝ,Ne
-1998,Soudní překladatel,Mgr.,Zina,Šimáčková,Horšovský Týn,UKRAJINSKÝ|RUSKÝ,Ne
+1998,Soudní překladatel,Mgr.,Zina,Šimáčková,Horšovský Týn,RUSKÝ|UKRAJINSKÝ,Ne
 1998,Soudní překladatel,Mgr.,Ilona,Kostnerová,Bezděkov,NĚMECKÝ,Ne
 1998,Soudní překladatel,JUDr.,Tomáš,Honomichl,Plzeň,NĚMECKÝ,Ne
 1998,Soudní překladatel,Mgr.,Natalie,Tomčíková,Sokolov,RUSKÝ|UKRAJINSKÝ,Ano
@@ -4756,7 +4741,7 @@ Rok zápisu,Druh osoby,Titul,Jméno,Příjmení,Město,Jazyky,Zkouška vykonána
 2020,Soudní tlumočník,Mgr.,Lada,Kloutvorová,Jablonec nad Nisou,NĚMECKÝ,Ano
 2019,Soudní tlumočník,bez titulu,Silvie,Vágnerová,Teplice,RUMUNSKÝ,Ano
 1991,Soudní tlumočník,Mgr.,Jana,Klokočková,Praha,FRANCOUZSKÝ|RUMUNSKÝ,Ano
-2010,Soudní tlumočník,bez titulu,Zoran,Lešević,Ústí nad Labem,BOSENSKÝ|ČERNOHORSKÝ|CHORVATSKÝ|SRBSKÝ,Ne
+2010,Soudní tlumočník,bez titulu,Zoran,Lešević,Ústí nad Labem,ČERNOHORSKÝ|BOSENSKÝ|CHORVATSKÝ|SRBSKÝ,Ne
 2018,Soudní tlumočník,Mgr.,Petra,Sochová,Polevsko,NĚMECKÝ,Ano
 2017,Soudní tlumočník,Mgr.,Michal,Melincsjár,Liberec,POLSKÝ,Ano
 2017,Soudní tlumočník,Mgr.,Linda,Kapitulčinová,Roztoky,ANGLICKÝ,Ano
@@ -4793,7 +4778,7 @@ Rok zápisu,Druh osoby,Titul,Jméno,Příjmení,Město,Jazyky,Zkouška vykonána
 1992,Soudní tlumočník,JUDr.,Ilona,Hakenová,Teplice,NĚMECKÝ,Ne
 2000,Soudní tlumočník,Mgr.,Eva,Pláničková,Lobendava 256,ANGLICKÝ,Ne
 1998,Soudní tlumočník,Ing.,Hoa,Do,Ústí nad Labem,VIETNAMSKÝ,Ne
-2015,Soudní tlumočník,Mgr.,Elisabeta,Fiedlerová,Třebenice,RUMUNSKÝ,Ne
+2015,Soudní tlumočník,Mgr.,Elisabeta,Fiedlerová,Třebenice,RUMUNSKÝ,Ano
 1995,Soudní tlumočník,Dott.,Giorgio,Cadorini,Brno,FURLANSKÝ|ITALSKÝ,Ano
 2015,Soudní tlumočník,bez titulu,Petra,Barthová,Liberec,NĚMECKÝ,Ano
 2014,Soudní tlumočník,Mag.,Petra,Honsová,Jablonec nad Nisou,NĚMECKÝ,Ano
@@ -4824,7 +4809,7 @@ Rok zápisu,Druh osoby,Titul,Jméno,Příjmení,Město,Jazyky,Zkouška vykonána
 1992,Soudní tlumočník,bez titulu,Dana,Kodytková,Jablonec nad Nisou 4,SRBSKÝ|CHORVATSKÝ|MAKEDONSKÝ,Ne
 1997,Soudní tlumočník,Mgr.,Eva,Angolaresová,Česká Lípa,ŠPANĚLSKÝ|FRANCOUZSKÝ|KATALÁNSKÝ,Ano
 2000,Soudní tlumočník,Mgr.,Andrea,Svobodová Křešová,Prackovice nad Labem,ANGLICKÝ,Ne
-1998,Soudní tlumočník,Ing.,Josef,Rous,Ústí nad Labem,POLSKÝ,Ne
+1998,Soudní tlumočník,Ing.,Josef,Rous,Ústí nad Labem,POLSKÝ,Ano
 2001,Soudní tlumočník,Mgr.,Radek,Vydržel,Jirkov,NĚMECKÝ,Ne
 2001,Soudní tlumočník,JUDr. Ing.,Manh Tien,Tran,Praha,VIETNAMSKÝ,Ne
 2000,Soudní překladatel,Ing.,Alice,Macková,Přestanov,ITALSKÝ,Ano
@@ -4843,7 +4828,7 @@ Rok zápisu,Druh osoby,Titul,Jméno,Příjmení,Město,Jazyky,Zkouška vykonána
 1992,Soudní tlumočník,PhDr.,Anna,Kinovičová,Ústí nad Labem,ANGLICKÝ,Ne
 1993,Soudní tlumočník,bez titulu,Jan,Wegscheider,Chomutov,NĚMECKÝ,Ne
 2000,Soudní tlumočník,Mgr.,Ladislav,Menčík,Jablonec nad Nisou,RUSKÝ,Ne
-1997,Soudní tlumočník,Ing.,Lida,Nováková,Most,RUSKÝ|UKRAJINSKÝ,Ne
+1997,Soudní tlumočník,Ing.,Lida,Nováková,Most,UKRAJINSKÝ|RUSKÝ,Ne
 2003,Soudní tlumočník,Ing.,Irena,Salla,Liberec,RUSKÝ|UKRAJINSKÝ,Ne
 1998,Soudní tlumočník,Ing.,Alexej,Spivák,Ústí nad Labem,RUSKÝ|RUSKÝ|UKRAJINSKÝ|UKRAJINSKÝ,Ano
 2001,Soudní tlumočník,Mgr.,Olga,Bártová,Krupka,RUSKÝ,Ne
@@ -4867,7 +4852,7 @@ Rok zápisu,Druh osoby,Titul,Jméno,Příjmení,Město,Jazyky,Zkouška vykonána
 1999,Soudní tlumočník,Mgr.,Adriana,Ševerová,Ústí nad Labem,UKRAJINSKÝ|RUSKÝ,Ne
 2000,Soudní tlumočník,bez titulu,Borislava,Bočeva,Děčín,BULHARSKÝ,Ne
 1994,Soudní tlumočník,Mgr.,Petra,Schreiberová,Nový Bor,NĚMECKÝ,Ne
-1992,Soudní tlumočník,Mgr.,Jan,Lederer,Jablonec nad Nisou,ANGLICKÝ|NĚMECKÝ,Ne
+1992,Soudní tlumočník,Mgr.,Jan,Lederer,Jablonec nad Nisou,NĚMECKÝ|ANGLICKÝ,Ne
 1995,Soudní tlumočník,bez titulu,Iwona Ewa,Rousová,Ústí nad Labem,POLSKÝ,Ne
 1999,Soudní tlumočník,bez titulu,Zolmenan,Safi,Ústí nad Labem,PERSKÝ|DÁRIJSKÝ,Ne
 1993,Soudní tlumočník,PhDr.,Marie,Svačinová,Litvínov,NĚMECKÝ,Ne
@@ -4899,7 +4884,7 @@ Rok zápisu,Druh osoby,Titul,Jméno,Příjmení,Město,Jazyky,Zkouška vykonána
 2008,Soudní překladatel,bez titulu,Narangerel,Urchgerová,Česká Kamenice,MONGOLSKÝ,Ne
 2006,Soudní překladatel,Ing.,Rachid,Khalil,Teplice,KURDSKÝ|ARABSKÝ,Ano
 1996,Soudní překladatel,Mgr.,Helena,Zikánová,Železný Brod,FRANCOUZSKÝ|RUSKÝ,Ne
-2001,Soudní překladatel,Mgr.,Ivanna,Semyrozum,Praha,UKRAJINSKÝ|RUSKÝ,Ne
+2001,Soudní překladatel,Mgr.,Ivanna,Semyrozum,Praha,RUSKÝ|UKRAJINSKÝ,Ne
 1998,Soudní překladatel,bez titulu,Valentyna,Semyrozum,Praha,RUSKÝ|UKRAJINSKÝ,Ne
 2008,Soudní překladatel,Ing.,Ojunčimeg,Presová,Česká Lípa,MONGOLSKÝ,Ne
 1992,Soudní překladatel,Ing. arch.,Antonín,Vyhlídal,Liberec,RUMUNSKÝ,Ano
@@ -4973,9 +4958,9 @@ Rok zápisu,Druh osoby,Titul,Jméno,Příjmení,Město,Jazyky,Zkouška vykonána
 2020,Soudní překladatel,Mgr.,Lada,Kloutvorová,Jablonec nad Nisou,NĚMECKÝ,Ano
 2019,Soudní překladatel,bez titulu,Silvie,Vágnerová,Teplice,RUMUNSKÝ,Ano
 1991,Soudní překladatel,Mgr.,Jana,Klokočková,Praha,FRANCOUZSKÝ|RUMUNSKÝ,Ano
-2010,Soudní překladatel,bez titulu,Zoran,Lešević,Ústí nad Labem,CHORVATSKÝ|BOSENSKÝ|ČERNOHORSKÝ|SRBSKÝ,Ne
+2010,Soudní překladatel,bez titulu,Zoran,Lešević,Ústí nad Labem,BOSENSKÝ|ČERNOHORSKÝ|CHORVATSKÝ|SRBSKÝ,Ne
 2018,Soudní překladatel,Mgr.,Petra,Sochová,Polevsko,NĚMECKÝ,Ano
-1998,Soudní překladatel,Mgr.,Kateřina,Cypriánová,Liberec,NĚMECKÝ,Ne
+1998,Soudní překladatel,Mgr.,Kateřina,Cypriánová,Liberec,NĚMECKÝ,Ano
 1994,Soudní překladatel,bez titulu,Milan,Chotěborský,Louny,NĚMECKÝ|RUSKÝ,Ne
 1999,Soudní překladatel,Ing.,Judita,Lechová,Most,SLOVENSKÝ,Ne
 2000,Soudní překladatel,PaedDr.,Jiřina,Marková,Liberec,RUSKÝ,Ano
@@ -4985,7 +4970,7 @@ Rok zápisu,Druh osoby,Titul,Jméno,Příjmení,Město,Jazyky,Zkouška vykonána
 1995,Soudní překladatel,Dott.,Giorgio,Cadorini,Brno,FURLANSKÝ|ITALSKÝ,Ano
 2014,Soudní překladatel,Ing.,Adolf,Mocek,Žatec,RUMUNSKÝ,Ano
 2000,Soudní překladatel,Mgr.,Andrea,Svobodová Křešová,Prackovice nad Labem,ANGLICKÝ,Ne
-1998,Soudní překladatel,Ing.,Josef,Rous,Ústí nad Labem,POLSKÝ,Ne
+1998,Soudní překladatel,Ing.,Josef,Rous,Ústí nad Labem,POLSKÝ,Ano
 2001,Soudní překladatel,Mgr.,Radek,Vydržel,Jirkov,NĚMECKÝ,Ne
 2001,Soudní překladatel,JUDr. Ing.,Manh Tien,Tran,Praha,VIETNAMSKÝ,Ne
 1994,Soudní překladatel,Ing.,Doris,Vaňková,Děčín 1,NĚMECKÝ,Ne
@@ -4995,7 +4980,7 @@ Rok zápisu,Druh osoby,Titul,Jméno,Příjmení,Město,Jazyky,Zkouška vykonána
 1992,Soudní překladatel,bez titulu,Věra,Pátková,Chomutov,NĚMECKÝ,Ne
 2000,Soudní překladatel,Mgr.,Eva,Pláničková,Lobendava 256,ANGLICKÝ,Ne
 1998,Soudní překladatel,Ing.,Hoa,Do,Ústí nad Labem,VIETNAMSKÝ,Ne
-2015,Soudní překladatel,Mgr.,Elisabeta,Fiedlerová,Třebenice,RUMUNSKÝ,Ne
+2015,Soudní překladatel,Mgr.,Elisabeta,Fiedlerová,Třebenice,RUMUNSKÝ,Ano
 1998,Soudní překladatel,Ing.,Huu Kien,Nguyen,Liberec,VIETNAMSKÝ,Ano
 2000,Soudní překladatel,bez titulu,Naděžda,Špontáková,Kadaň,RUSKÝ|UKRAJINSKÝ,Ne
 2015,Soudní překladatel,bez titulu,Petra,Barthová,Liberec,NĚMECKÝ,Ano
@@ -5027,13 +5012,13 @@ Rok zápisu,Druh osoby,Titul,Jméno,Příjmení,Město,Jazyky,Zkouška vykonána
 1993,Soudní překladatel,Mgr.,Karel,Krejčí,Česká Kamenice,ANGLICKÝ,Ano
 1993,Soudní překladatel,MUDr.,Jiří,Urban,Litoměřice,NĚMECKÝ,Ano
 1999,Soudní překladatel,Mgr.,Adriana,Ševerová,Ústí nad Labem,UKRAJINSKÝ|RUSKÝ,Ne
-1994,Soudní překladatel,MVDr.,Bohumil,Hyánek,Liberec,NĚMECKÝ|FRANCOUZSKÝ|ANGLICKÝ,Ano
+1994,Soudní překladatel,MVDr.,Bohumil,Hyánek,Liberec,ANGLICKÝ|NĚMECKÝ|FRANCOUZSKÝ,Ano
 2002,Soudní překladatel,Ing.,Si The,Nguyen,Ústí nad Labem,VIETNAMSKÝ,Ne
 1994,Soudní překladatel,Mgr.,Petra,Schreiberová,Nový Bor,NĚMECKÝ,Ne
 1992,Soudní překladatel,Mgr.,Jan,Lederer,Jablonec nad Nisou,ANGLICKÝ|NĚMECKÝ,Ne
 1995,Soudní překladatel,bez titulu,Iwona Ewa,Rousová,Ústí nad Labem,POLSKÝ,Ne
 1999,Soudní překladatel,bez titulu,Zolmenan,Safi,Ústí nad Labem,DÁRIJSKÝ|PERSKÝ,Ne
-1993,Soudní překladatel,PhDr.,Marie,Svačinová,Litvínov,NĚMECKÝ|RUSKÝ|UKRAJINSKÝ,Ne
+1993,Soudní překladatel,PhDr.,Marie,Svačinová,Litvínov,UKRAJINSKÝ|NĚMECKÝ|RUSKÝ,Ne
 1992,Soudní překladatel,MUDr.,Issam,Zahran,Duchcov,ARABSKÝ,Ne
 1993,Soudní překladatel,Mgr.,Vladimír,Lorenc,Ústí nad Labem,ANGLICKÝ,Ne
 1996,Soudní překladatel,Mgr.,Roman,Kroutil,Rumburk,NĚMECKÝ,Ano
@@ -5045,7 +5030,7 @@ Rok zápisu,Druh osoby,Titul,Jméno,Příjmení,Město,Jazyky,Zkouška vykonána
 1993,Soudní překladatel,Mgr.,Dana,Poune,Smržovka,RUSKÝ|NĚMECKÝ,Ne
 2000,Soudní překladatel,bez titulu,Borislava,Bočeva,Děčín,BULHARSKÝ,Ne
 1992,Soudní překladatel,Ing.,Jindřich,Soukup,Litoměřice,NĚMECKÝ,Ne
-1997,Soudní překladatel,PhDr.,Marek,Poloncarz,Litoměřice,RUSKÝ|POLSKÝ,Ne
+1997,Soudní překladatel,PhDr.,Marek,Poloncarz,Litoměřice,POLSKÝ|RUSKÝ,Ne
 2002,Soudní překladatel,Mgr.,Alla,Pozdňakova,Horní Libchava,RUSKÝ|UKRAJINSKÝ,Ano
 1993,Soudní překladatel,bez titulu,Jan,Wegscheider,Chomutov,NĚMECKÝ,Ne
 2000,Soudní překladatel,Mgr.,Ladislav,Menčík,Jablonec nad Nisou,RUSKÝ,Ne
@@ -5062,10 +5047,10 @@ Rok zápisu,Druh osoby,Titul,Jméno,Příjmení,Město,Jazyky,Zkouška vykonána
 1994,Soudní překladatel,Ing.,Mohamed,Bayram,Liberec,ARABSKÝ|KURDSKÝ,Ne
 1998,Soudní překladatel,Ing.,Valentýna,Štípková,Chomutov,RUSKÝ|UKRAJINSKÝ,Ne
 1993,Soudní překladatel,Mgr.,Michal,Sup,Česká Lípa,NĚMECKÝ,Ne
-1996,Soudní překladatel,PhDr.,Svatava,Zenklová,Liberec,NĚMECKÝ|ANGLICKÝ,Ne
+1996,Soudní překladatel,PhDr.,Svatava,Zenklová,Liberec,ANGLICKÝ|NĚMECKÝ,Ne
 1999,Soudní překladatel,Mgr.,René,Souček,Liberec,ANGLICKÝ,Ano
 1994,Soudní překladatel,bez titulu,Marcela,Kroupová,Ústí nad Labem,FRANCOUZSKÝ,Ne
-2022,Soudní překladatel,Mgr.,Jitka,Chmelařová,Mníšek,FRANCOUZSKÝ|ANGLICKÝ,Ano
+2022,Soudní překladatel,Mgr.,Jitka,Chmelařová,Mníšek,ANGLICKÝ|FRANCOUZSKÝ,Ano
 1999,Soudní překladatel,Mgr.,Taťjana,Mydlářová,Liberec,RUSKÝ,Ne
 2003,Soudní překladatel,Ing.,Jan,Janský,Všelibice,RUSKÝ,Ne
 1993,Soudní překladatel,Ing.,Hana,Smolíková,Litoměřice,NĚMECKÝ,Ano
@@ -5100,8 +5085,8 @@ Rok zápisu,Druh osoby,Titul,Jméno,Příjmení,Město,Jazyky,Zkouška vykonána
 2022,Soudní tlumočník,Ing.,Rudolf Franz,Heidu,Mníšek pod Brdy,NĚMECKÝ,Ano
 2022,Soudní překladatel,Ing.,Rudolf Franz,Heidu,Mníšek pod Brdy,NĚMECKÝ,Ano
 2022,Soudní překladatel,Mgr.,Miroslava,Heidenhain,Praha,NĚMECKÝ,Ano
-2006,Soudní tlumočník,Ing.,Viet Cuong,Nguyen,Praha,VIETNAMSKÝ,Ne
-2006,Soudní překladatel,Ing.,Viet Cuong,Nguyen,Praha,VIETNAMSKÝ,Ne
+2006,Soudní tlumočník,Ing.,Viet Cuong,Nguyen,Praha,VIETNAMSKÝ,Ano
+2006,Soudní překladatel,Ing.,Viet Cuong,Nguyen,Praha,VIETNAMSKÝ,Ano
 2005,Soudní tlumočník,Ing.,Andriy,Chornyy,Brno,UKRAJINSKÝ|RUSKÝ,Ne
 2005,Soudní překladatel,Ing.,Andriy,Chornyy,Brno,UKRAJINSKÝ|RUSKÝ,Ne
 2007,Soudní tlumočník,Ing.,Viet Phuong,Nguyen,Praha,VIETNAMSKÝ,Ne
@@ -5150,8 +5135,8 @@ Rok zápisu,Druh osoby,Titul,Jméno,Příjmení,Město,Jazyky,Zkouška vykonána
 2023,Soudní překladatel,PhDr.,Marianna,Cipollone Gabzdilová,Praha,FRANCOUZSKÝ|ITALSKÝ|ŠPANĚLSKÝ,Ano
 2023,Soudní tlumočník,Mgr.,Jana,Žůrková,Karlík,FRANCOUZSKÝ,Ano
 2023,Soudní překladatel,Mgr.,Jana,Žůrková,Karlík,FRANCOUZSKÝ,Ano
-2023,Soudní tlumočník,Mgr.,Jan,Koválik,Praha,ANGLICKÝ,Ano
-2023,Soudní překladatel,Mgr.,Jan,Koválik,Praha,ANGLICKÝ,Ano
+2023,Soudní tlumočník,Mgr.,Jan,Koválik,Praha,ANGLICKÝ|RUSKÝ|RUSKÝ,Ano
+2023,Soudní překladatel,Mgr.,Jan,Koválik,Praha,RUSKÝ|ANGLICKÝ,Ano
 2023,Soudní tlumočník,Mgr.,Eldar,Valiyev,Praha,AZERBAJDŽANSKÝ,Ano
 2023,Soudní překladatel,Mgr.,Eldar,Valiyev,Praha,AZERBAJDŽANSKÝ,Ano
 2023,Soudní tlumočník,JUDr. et Mgr.,Uljana,Bondarevská Kurivčaková,Praha,UKRAJINSKÝ|RUSKÝ,Ano
@@ -5249,7 +5234,7 @@ Rok zápisu,Druh osoby,Titul,Jméno,Příjmení,Město,Jazyky,Zkouška vykonána
 2024,Soudní překladatel,Ing.,Jurij,Popp,Praha,UKRAJINSKÝ,Ano
 2024,Soudní překladatel,JUDr.,Kateřina,Němečková,Plzeň,RUMUNSKÝ,Ano
 2024,Soudní tlumočník,Mgr.,Taťána,Gnatyková,Chomutov,UKRAJINSKÝ|UKRAJINSKÝ|RUSKÝ|RUSKÝ,Ano
-2024,Soudní překladatel,Mgr.,Taťána,Gnatyková,Chomutov,UKRAJINSKÝ|RUSKÝ,Ano
+2024,Soudní překladatel,Mgr.,Taťána,Gnatyková,Chomutov,RUSKÝ|UKRAJINSKÝ,Ano
 2024,Soudní překladatel,Mgr.,Daniel,Niemczyk,Český Těšín,POLSKÝ,Ano
 2024,Soudní tlumočník,Mgr.,Eliška,Zemanová,Pardubice,NĚMECKÝ,Ano
 2024,Soudní překladatel,Mgr.,Eliška,Zemanová,Pardubice,NĚMECKÝ,Ano
@@ -5272,8 +5257,8 @@ Rok zápisu,Druh osoby,Titul,Jméno,Příjmení,Město,Jazyky,Zkouška vykonána
 2024,Soudní překladatel,bez titulu,Adam,Babka,Přišimasy,ANGLICKÝ,Ano
 2024,Soudní tlumočník,Bc.,Alina,Carauş,Hluk,RUMUNSKÝ|RUMUNSKÝ,Ano
 2024,Soudní překladatel,Bc.,Alina,Carauş,Hluk,RUMUNSKÝ,Ano
-2024,Soudní tlumočník,bez titulu,Anastasija Iljinična,Franta,Klatovy,RUSKÝ,Ano
-2024,Soudní překladatel,bez titulu,Anastasija Iljinična,Franta,Klatovy,RUSKÝ,Ano
+2024,Soudní tlumočník,bez titulu,Anastasija Iljinična,Franta,Poleň,RUSKÝ,Ano
+2024,Soudní překladatel,bez titulu,Anastasija Iljinična,Franta,Poleň,RUSKÝ,Ano
 2024,Soudní tlumočník,Mag.,Tatiana,Porhomovici,Praha,RUSKÝ|RUSKÝ,Ano
 2024,Soudní překladatel,Mag.,Tatiana,Porhomovici,Praha,RUSKÝ|RUMUNSKÝ|ANGLICKÝ,Ano
 2024,Soudní tlumočník,Mgr.,Jana,Rauerová,Praha,POLSKÝ|POLSKÝ,Ano
@@ -5346,3 +5331,24 @@ Rok zápisu,Druh osoby,Titul,Jméno,Příjmení,Město,Jazyky,Zkouška vykonána
 2025,Soudní překladatel,Ing. et Ing.,Kateřina,Marková Rodrigues Pereira,Praha,PORTUGALSKÝ,Ano
 2025,Soudní tlumočník,bez titulu,Alexandra,Janoudová,Mnichovice,UKRAJINSKÝ|UKRAJINSKÝ,Ano
 2025,Soudní překladatel,bez titulu,Alexandra,Janoudová,Mnichovice,UKRAJINSKÝ,Ano
+2025,Soudní tlumočník,Ing.,Angelina,Wangová,Praha,ČÍNSKÝ,Ano
+2025,Soudní překladatel,Ing.,Angelina,Wangová,Praha,ČÍNSKÝ,Ano
+2025,Soudní překladatel,bez titulu,Andrii,Kravchuk,Zlín,UKRAJINSKÝ,Ano
+2025,Soudní překladatel,bez titulu,Natálie,Rontóová,Brno,UKRAJINSKÝ,Ano
+2025,Soudní tlumočník,Mgr.,Paulina,Rozehnal Sopuchová,Kopřivnice,POLSKÝ|POLSKÝ,Ano
+2025,Soudní překladatel,Mgr.,Paulina,Rozehnal Sopuchová,Kopřivnice,POLSKÝ,Ano
+2025,Soudní tlumočník,Mgr.,Anna,Phillips,Kamenice,NIZOZEMSKÝ,Ano
+2025,Soudní překladatel,Mgr.,Anna,Phillips,Kamenice,NIZOZEMSKÝ,Ano
+2025,Soudní překladatel,Mgr.,Barbora,Uhrová,Ostrava,ANGLICKÝ,Ano
+2025,Soudní tlumočník,Mgr.,Kateřina,Smutná,Malenovice,ANGLICKÝ|ANGLICKÝ,Ano
+2025,Soudní překladatel,Mgr.,Kateřina,Smutná,Malenovice,ANGLICKÝ,Ano
+2025,Soudní tlumočník,Mgr.,Martina,Terrabuio Čermáková,Pardubice,PORTUGALSKÝ,Ano
+2025,Soudní překladatel,Mgr.,Martina,Terrabuio Čermáková,Pardubice,PORTUGALSKÝ,Ano
+2025,Soudní překladatel,Bc. et Mgr. et Mgr.,Kateřina,Matušková,Šenov,ANGLICKÝ|FRANCOUZSKÝ,Ano
+2025,Soudní tlumočník,Mgr.,Alexander,Mikoláš,Karlovy Vary,ANGLICKÝ,Ano
+2025,Soudní tlumočník,Mgr.,Elena,Děnisova,Karlovy Vary,RUSKÝ,Ano
+2025,Soudní překladatel,Mgr.,Elena,Děnisova,Karlovy Vary,RUSKÝ,Ano
+2025,Soudní tlumočník,JUDr.,Akbulat,Kadiev,Praha,RUSKÝ,Ano
+2025,Soudní překladatel,JUDr.,Akbulat,Kadiev,Praha,RUSKÝ,Ano
+2025,Soudní tlumočník,Mgr.,Lucie,Doušová,Kutná Hora,NĚMECKÝ|NĚMECKÝ,Ano
+2025,Soudní překladatel,Mgr.,Lucie,Doušová,Kutná Hora,NĚMECKÝ,Ano
