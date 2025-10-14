@@ -3402,7 +3402,6 @@ Rok zápisu,Druh osoby,Titul,Jméno,Příjmení,Město,Jazyky,Zkouška vykonána
 1991,Soudní překladatel,PaedDr.,Miroslava,Weberová,Ostrava,ANGLICKÝ|NĚMECKÝ,Ne
 2003,Soudní tlumočník,bez titulu,GABRIEL,MAKKI,Ostrava-Nová Bělá,ARABSKÝ,Ne
 1991,Soudní tlumočník,JUDr.,Jindřich,Jonszta,Karviná,POLSKÝ,Ne
-2001,Soudní překladatel,Mgr.,Blažena,Coufalová,Šumperk,ANGLICKÝ,Ne
 1991,Soudní tlumočník,PhDr.,Zora,Kudělková,Hodslavice,NĚMECKÝ,Ne
 2002,Soudní tlumočník,Mgr.,Andrea,Krúpová,Karviná,LATINSKÝ,Ne
 1991,Soudní tlumočník,Mgr.,Nina,Přibylová,Ostrava,POLSKÝ|NĚMECKÝ,Ne
@@ -5263,7 +5262,7 @@ Rok zápisu,Druh osoby,Titul,Jméno,Příjmení,Město,Jazyky,Zkouška vykonána
 2024,Soudní překladatel,Mag.,Tatiana,Porhomovici,Praha,RUSKÝ|RUMUNSKÝ|ANGLICKÝ,Ano
 2024,Soudní tlumočník,Mgr.,Jana,Rauerová,Praha,POLSKÝ|POLSKÝ,Ano
 2024,Soudní překladatel,Mgr.,Jana,Rauerová,Praha,POLSKÝ,Ano
-2024,Soudní překladatel,Mgr.,Lucie,Dobešová,Olomouc,NIZOZEMSKÝ,Ano
+2024,Soudní překladatel,Mgr.,Lucie,Dobešová,Olomouc,NIZOZEMSKÝ|ŠPANĚLSKÝ,Ano
 2024,Soudní tlumočník,Ing. Mgr. et Mgr.,Eva,Tesárková,Hlavňovice,NĚMECKÝ|NĚMECKÝ,Ano
 2024,Soudní překladatel,Ing. Mgr. et Mgr.,Eva,Tesárková,Hlavňovice,NĚMECKÝ,Ano
 2024,Soudní tlumočník,bez titulu,Zdeňka,Scherzerová,České Budějovice,NĚMECKÝ,Ano
@@ -5352,3 +5351,5 @@ Rok zápisu,Druh osoby,Titul,Jméno,Příjmení,Město,Jazyky,Zkouška vykonána
 2025,Soudní překladatel,JUDr.,Akbulat,Kadiev,Praha,RUSKÝ,Ano
 2025,Soudní tlumočník,Mgr.,Lucie,Doušová,Kutná Hora,NĚMECKÝ|NĚMECKÝ,Ano
 2025,Soudní překladatel,Mgr.,Lucie,Doušová,Kutná Hora,NĚMECKÝ,Ano
+2025,Soudní tlumočník,Mgr.,Martina,Eisner,Ústí nad Labem,NĚMECKÝ,Ano
+2025,Soudní překladatel,Mgr.,Martina,Eisner,Ústí nad Labem,NĚMECKÝ,Ano
